@@ -796,3 +796,393 @@
     "correct_answer": "gunboat",
     "is_correct": false
 },
+{
+    "question": "What are the names of Armenian banknotes?",
+    "answer": "diaspora",
+    "correct_answer": "armenian dram",
+    "is_correct": false
+},
+{
+    "question": "What unit in the SI system is named after the inventor Nikola Tesla?",
+    "answer": "nikola tesla",
+    "correct_answer": "magnetic induction",
+    "is_correct": false
+},
+{
+    "question": "Who wrote the fairy tale \"the Sleeping Princess\"?",
+    "answer": "romance",
+    "correct_answer": "vasily andreyevich zhukovsky",
+    "is_correct": false
+},
+{
+    "question": "What country is the city of Antwerp located in?",
+    "answer": "belgium",
+    "correct_answer": "\ud83c\udde7\ud83c\uddea",
+    "is_correct": false
+},
+{
+    "question": "In what city was born the famous actress Faina Ranevskaya?",
+    "answer": "taganrog",
+    "correct_answer": "taganrog",
+    "is_correct": true
+},
+{
+    "question": "In what city was the prophet Muhammad (Mohammed) born?",
+    "answer": "mecca",
+    "correct_answer": "holy city of mecca",
+    "is_correct": false
+},
+{
+    "question": "What style did the architect Rastrelli work in?",
+    "answer": "sculptor",
+    "correct_answer": "baroque",
+    "is_correct": false
+},
+{
+    "question": "In what city is the novel of T. Mann \"Buddenbrooks\"",
+    "answer": "travem\u00fcnde",
+    "correct_answer": "lybeck",
+    "is_correct": false
+},
+{
+    "question": "What was the name of don Quixote's horse?",
+    "answer": "teenage mutant ninja turtles universe",
+    "correct_answer": "rocinante",
+    "is_correct": false
+},
+{
+    "question": "Where does the Royal house of Bernadotte rule?",
+    "answer": "gr\u00f6dinge parish",
+    "correct_answer": "sweden",
+    "is_correct": false
+},
+{
+    "question": "On which river is the famous Victoria falls located?",
+    "answer": "zambezi river",
+    "correct_answer": "zambesi",
+    "is_correct": false
+},
+{
+    "question": "What are the names of Armenian banknotes?",
+    "answer": "diaspora",
+    "correct_answer": "armenian dram",
+    "is_correct": false
+},
+{
+    "question": "What unit in the SI system is named after the inventor Nikola Tesla?",
+    "answer": "nikola tesla",
+    "correct_answer": "magnetic induction",
+    "is_correct": false
+},
+{
+    "question": "Who wrote the fairy tale \"the Sleeping Princess\"?",
+    "answer": "romance",
+    "correct_answer": "vasily andreyevich zhukovsky",
+    "is_correct": false
+},
+{
+    "question": "What country is the city of Antwerp located in?",
+    "answer": "belgium",
+    "correct_answer": "\ud83c\udde7\ud83c\uddea",
+    "is_correct": false
+},
+{
+    "question": "In what city was born the famous actress Faina Ranevskaya?",
+    "answer": "taganrog",
+    "correct_answer": "taganrog",
+    "is_correct": true
+},
+{
+    "question": "In what city was the prophet Muhammad (Mohammed) born?",
+    "answer": "mecca",
+    "correct_answer": "holy city of mecca",
+    "is_correct": false
+},
+{
+    "question": "What style did the architect Rastrelli work in?",
+    "answer": "sculptor",
+    "correct_answer": "baroque",
+    "is_correct": false
+},
+{
+    "question": "In what city is the novel of T. Mann \"Buddenbrooks\"",
+    "answer": "travem\u00fcnde",
+    "correct_answer": "lybeck",
+    "is_correct": false
+},
+{
+    "question": "What was the name of don Quixote's horse?",
+    "answer": "teenage mutant ninja turtles universe",
+    "correct_answer": "rocinante",
+    "is_correct": false
+},
+{
+    "question": "Where does the Royal house of Bernadotte rule?",
+    "answer": "gr\u00f6dinge parish",
+    "correct_answer": "sweden",
+    "is_correct": false
+},
+{
+    "question": "On which river is the famous Victoria falls located?",
+    "answer": "zambezi river",
+    "correct_answer": "zambesi",
+    "is_correct": false
+},
+{
+    "question": "Which city is the capital of the state of Alaska?",
+    "answer": "juneau",
+    "correct_answer": "juneau",
+    "is_correct": true
+},
+{
+    "question": "In some of the countries there are the resorts Sunny Day and Sunny Beach?",
+    "answer": "united states of america",
+    "correct_answer": "bulgaria",
+    "is_correct": false
+},
+{
+    "question": "Which country's son was Edmund Hillary, the first to conquer Everest with Sherpa N. Tenzing?",
+    "answer": "united states of america",
+    "correct_answer": "nz",
+    "is_correct": false
+},
+{
+    "question": "What island is the Fujiyama volcano located on?",
+    "answer": "japan",
+    "correct_answer": "honsh\u016b",
+    "is_correct": false
+},
+{
+    "question": "What is the playing role of the football player Igor Akinfeev?",
+    "answer": "goalkeeper",
+    "correct_answer": "football goalkeeper",
+    "is_correct": false
+},
+{
+    "question": "In which city the action is the story of Mark TWAIN's \"the Prince and the pauper\"?",
+    "answer": "united states of america",
+    "correct_answer": "london",
+    "is_correct": false
+},
+{
+    "question": "In which city is the Prado Museum located?",
+    "answer": "berlin-mitte",
+    "correct_answer": "madrid, spain",
+    "is_correct": false
+},
+{
+    "question": "Where is Tantalum cave?",
+    "answer": "chemical element",
+    "correct_answer": "at",
+    "is_correct": false
+},
+{
+    "question": "Which band recorded the musical album \"Actress Spring\"?",
+    "answer": "public image ltd.",
+    "correct_answer": "ddt",
+    "is_correct": false
+},
+{
+    "question": "Who was formulated the law that for every action there is an equal and opposite reaction?",
+    "answer": "robert recorde",
+    "correct_answer": "i. newton",
+    "is_correct": false
+},
+{
+    "question": "Which composer wrote the first Soviet rock Opera \"Orpheus and Eurydice\"?",
+    "answer": "alexander zhurbin",
+    "correct_answer": "alexander zhurbin",
+    "is_correct": true
+},
+{
+    "question": "What was the name of Rembrandt's wife?",
+    "answer": "titus van rijn",
+    "correct_answer": "saskia van uylenburch",
+    "is_correct": false
+},
+{
+    "question": "Which artist was criticized by French high society for the scandalous \"Portrait of Madame X\"?",
+    "answer": "evening dress",
+    "correct_answer": "sargent",
+    "is_correct": false
+},
+{
+    "question": "In what theater does O. Basilashvili play?",
+    "answer": "1922 encyclop\u00e6dia britannica",
+    "correct_answer": "suvorin theatre",
+    "is_correct": false
+},
+{
+    "question": "In what sea is the Yamal Peninsula located?",
+    "answer": "mediterranean sea",
+    "correct_answer": "kara sea",
+    "is_correct": false
+},
+{
+    "question": "Which branch of philosophy includes the study of ethics and aesthetics?",
+    "answer": "philosophy",
+    "correct_answer": "axiology",
+    "is_correct": false
+},
+{
+    "question": "Who wrote the music for the song \"Moscow nights\"?",
+    "answer": "vasily solovyov-sedoi",
+    "correct_answer": "vasily solovyov-sedoi",
+    "is_correct": true
+},
+{
+    "question": "Russian Russian seasons, which made Russian ballet famous at the beginning of the XX century, were organized by who?",
+    "answer": "state anthem of the russian federation",
+    "correct_answer": "serge de diaghilev",
+    "is_correct": false
+},
+{
+    "question": "What country does the island of Elba belong to-the place of Napoleon's exile?",
+    "answer": "united kingdom",
+    "correct_answer": "ita",
+    "is_correct": false
+},
+{
+    "question": "What country is Banff national Park located in?",
+    "answer": "united states of america",
+    "correct_answer": "\ud83c\udde8\ud83c\udde6",
+    "is_correct": false
+},
+{
+    "question": "Who was Ivan the terrible's mother?",
+    "answer": "feodor i of russia",
+    "correct_answer": "elena glinskaya",
+    "is_correct": false
+},
+{
+    "question": "What is the genre of Pushkin's \"captain's daughter\"?",
+    "answer": "female",
+    "correct_answer": "historical novel",
+    "is_correct": false
+},
+{
+    "question": "What kind of sport was the famous tenor Zurab Sotkilava professionally engaged in?",
+    "answer": "association football",
+    "correct_answer": "association football",
+    "is_correct": true
+},
+{
+    "question": "Which country belongs to the Bocas del Toro archipelago, where the last hero is being filmed?",
+    "answer": "united kingdom",
+    "correct_answer": "panama",
+    "is_correct": false
+},
+{
+    "question": "Which mountain is the highest point of the Caucasus?",
+    "answer": "caucasus mountains",
+    "correct_answer": "mount elbrus",
+    "is_correct": false
+},
+{
+    "question": "Who is the author of the musical fantasy \"animal Carnival\"?",
+    "answer": "maksim dunayevsky",
+    "correct_answer": "camille saint-saens",
+    "is_correct": false
+},
+{
+    "question": "In which country has the leftist terrorist organization Sendero Luminoso been rampaging for many years?",
+    "answer": "european union",
+    "correct_answer": "\ud83c\uddf5\ud83c\uddea",
+    "is_correct": false
+},
+{
+    "question": "In which country does the Orange river flow?",
+    "answer": "lesotho",
+    "correct_answer": "south africa",
+    "is_correct": false
+},
+{
+    "question": "Which singer married the captain of the football team \"Zenit\" Vladislav Radimov?",
+    "answer": "gazprom",
+    "correct_answer": "tatyana ivanovna bulanova",
+    "is_correct": false
+},
+{
+    "question": "In what country is the temple complex Angkorwat?",
+    "answer": "india",
+    "correct_answer": "cambodia",
+    "is_correct": false
+},
+{
+    "question": "Which country does the .co top-level domain belong to?",
+    "answer": "united states of america",
+    "correct_answer": "republic of colombia",
+    "is_correct": false
+},
+{
+    "question": "Who invented the phonograph, a device for recording and reproducing voice?",
+    "answer": "thomas edison",
+    "correct_answer": "thomas alva edison",
+    "is_correct": false
+},
+{
+    "question": "Which of the cosmonauts participated in the joint Soyuz - Apollo flight with the United States?",
+    "answer": "arnaldo tamayo m\u00e9ndez",
+    "correct_answer": "alexey leonov",
+    "is_correct": false
+},
+{
+    "question": "Who was the famous physicist Niels Bohr in his football role?",
+    "answer": "soccer player",
+    "correct_answer": "football goalkeeper",
+    "is_correct": false
+},
+{
+    "question": "What river flows through the Grand Canyon in the United States?",
+    "answer": "atlantic ocean",
+    "correct_answer": "colorado river",
+    "is_correct": false
+},
+{
+    "question": "Which team was the last champion of the USSR on football?",
+    "answer": "supreme soviet of the soviet union",
+    "correct_answer": "professional football club central sports club of army moscow",
+    "is_correct": false
+},
+{
+    "question": "Which city is the capital of Kiribati?",
+    "answer": "south tarawa",
+    "correct_answer": "south tarawa",
+    "is_correct": true
+},
+{
+    "question": "Which city is the capital of Swaziland?",
+    "answer": "mbabane",
+    "correct_answer": "mbabane",
+    "is_correct": true
+},
+{
+    "question": "What religion do the Crimean believers belong to?",
+    "answer": "sunni islam",
+    "correct_answer": "judaism",
+    "is_correct": false
+},
+{
+    "question": "In what country is mount Kosciuszko located?",
+    "answer": "people's republic of china",
+    "correct_answer": "straya",
+    "is_correct": false
+},
+{
+    "question": "In which country was the FLAMENCO dance born?",
+    "answer": "spain",
+    "correct_answer": "\ud83c\uddea\ud83c\uddf8",
+    "is_correct": false
+},
+{
+    "question": "What physical quantity is measured in Newtons per meter?",
+    "answer": "kilolitre",
+    "correct_answer": "torque",
+    "is_correct": false
+},
+{
+    "question": "Where are the Carlsbad caves?",
+    "answer": "san diego county",
+    "correct_answer": "the usa",
+    "is_correct": false
+},
