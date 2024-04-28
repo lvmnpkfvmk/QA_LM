@@ -1,0 +1,668 @@
+[
+    {
+        "question": "Where did roger marquis die\n",
+        "answer": "oxford",
+        "correct_answer": "holyoke",
+        "is_correct": false
+    },
+    {
+        "question": "what was the cause of death of yves klein\n",
+        "answer": "myocardial infarction",
+        "correct_answer": "myocardial infarction",
+        "is_correct": true
+    },
+    {
+        "question": "What position does carlos gomez play?\n",
+        "answer": "defender",
+        "correct_answer": "center fielder",
+        "is_correct": false
+    },
+    {
+        "question": "how does engelbert zaschka identify \n",
+        "answer": "botanist",
+        "correct_answer": "male",
+        "is_correct": false
+    },
+    {
+        "question": "what position does pee wee reese play in baseball\n",
+        "answer": "shortstop",
+        "correct_answer": "shortstop",
+        "is_correct": true
+    },
+    {
+        "question": "Which Swiss conductor's cause of death is myocardial infarction?\n",
+        "answer": "enzyme inhibitor",
+        "correct_answer": "karl anton rickenbacher",
+        "is_correct": false
+    },
+    {
+        "question": "where was padraic mcguinness's place of death\n",
+        "answer": "hartford county",
+        "correct_answer": "sydney",
+        "is_correct": false
+    },
+    {
+        "question": "what is the place of birth of sam edwards?\n",
+        "answer": "usk",
+        "correct_answer": "swansea",
+        "is_correct": false
+    },
+    {
+        "question": "Which home is an example of italianate architecture?\n",
+        "answer": "architectural theory",
+        "correct_answer": "john and maria adams house",
+        "is_correct": false
+    },
+    {
+        "question": "who published neo contra\n",
+        "answer": "konami",
+        "correct_answer": "konami",
+        "is_correct": true
+    },
+    {
+        "question": "what is angie estes's profession \n",
+        "answer": "actor",
+        "correct_answer": "poet",
+        "is_correct": false
+    },
+    {
+        "question": "what position does jos\u00e9 francisco torres play?\n",
+        "answer": "forward",
+        "correct_answer": "midfielder",
+        "is_correct": false
+    },
+    {
+        "question": "what male actor was born in  warsaw\n",
+        "answer": "legionowo county",
+        "correct_answer": "micha\u0142 grudzi\u0144ski",
+        "is_correct": false
+    },
+    {
+        "question": "who was also born in jakarta\n",
+        "answer": "anies baswedan",
+        "correct_answer": "dwi putrantiwi",
+        "is_correct": false
+    },
+    {
+        "question": "Who was born in prague\n",
+        "answer": "s\u00e3o vicente",
+        "correct_answer": "marcel gecov",
+        "is_correct": false
+    },
+    {
+        "question": "where was guy pnini born\n",
+        "answer": "tel aviv-yafo",
+        "correct_answer": "tel aviv",
+        "is_correct": true
+    },
+    {
+        "question": "what is an album recorded by scott grimes\n",
+        "answer": "soft rock",
+        "correct_answer": "livin' on the run",
+        "is_correct": false
+    },
+    {
+        "question": "what was the country of origin of the tv show sidewalks entertainment\n",
+        "answer": "united states of america",
+        "correct_answer": "united states of america",
+        "is_correct": true
+    },
+    {
+        "question": "who was the architect of the structure tour perret\n",
+        "answer": "st\u00e9phen sauvestre",
+        "correct_answer": "auguste perret",
+        "is_correct": false
+    },
+    {
+        "question": "What is an album by guy clark?\n",
+        "answer": "country music",
+        "correct_answer": "workbench songs",
+        "is_correct": false
+    },
+    {
+        "question": "what's the name of an Australian rock and roll\n",
+        "answer": "history of oceania",
+        "correct_answer": "brian cadd",
+        "is_correct": false
+    },
+    {
+        "question": "what is the category of the celestial object 1241 dysona\n",
+        "answer": "",
+        "correct_answer": "asteroid",
+        "is_correct": false
+    },
+    {
+        "question": "What is a type of gameplay available to gamers playing custom robo v2\n",
+        "answer": "single-player video game",
+        "correct_answer": "multiplayer video game",
+        "is_correct": false
+    },
+    {
+        "question": "What's an example of a romance film\n",
+        "answer": "love",
+        "correct_answer": "ain't them bodies saints",
+        "is_correct": false
+    },
+    {
+        "question": "where was shigeyasu suzuki's place of birth\n",
+        "answer": "izunokuni",
+        "correct_answer": "ishikawa prefecture",
+        "is_correct": false
+    },
+    {
+        "question": "which nationality is yonatan rozen\n",
+        "answer": "united states of america",
+        "correct_answer": "israel",
+        "is_correct": false
+    },
+    {
+        "question": "which indian city was fazil born in\n",
+        "answer": "sukhumi",
+        "correct_answer": "alappuzha",
+        "is_correct": false
+    },
+    {
+        "question": "where was paolo de la haza born?\n",
+        "answer": "rome",
+        "correct_answer": "lima",
+        "is_correct": false
+    },
+    {
+        "question": "what gender is daniela cristofori \n",
+        "answer": "female",
+        "correct_answer": "female",
+        "is_correct": true
+    },
+    {
+        "question": "in which country was overnight delivery filmed in\n",
+        "answer": "united states of america",
+        "correct_answer": "united states of america",
+        "is_correct": true
+    },
+    {
+        "question": "what is the second level division of the division crix\u00e1s do tocantins\n",
+        "answer": "brazil",
+        "correct_answer": "brazil",
+        "is_correct": true
+    },
+    {
+        "question": "Which film was directed by ian iqbal rashid\n",
+        "answer": "the lord of the rings: the fellowship of the ring",
+        "correct_answer": "touch of pink",
+        "is_correct": false
+    },
+    {
+        "question": "in what county is monango found\n",
+        "answer": "northern ireland",
+        "correct_answer": "dickey county",
+        "is_correct": false
+    },
+    {
+        "question": "who recorded rca records\n",
+        "answer": "sony music",
+        "correct_answer": "aliz\u00e9e",
+        "is_correct": false
+    },
+    {
+        "question": "who is the artist of breathing your love?\n",
+        "answer": "dr. dre",
+        "correct_answer": "kat deluna",
+        "is_correct": false
+    },
+    {
+        "question": "What is a gampelay mode found in the game allegiance\n",
+        "answer": "single-player video game",
+        "correct_answer": "multiplayer video game",
+        "is_correct": false
+    },
+    {
+        "question": "What type of film is raghuvinte swantham raziya\n",
+        "answer": "drama film",
+        "correct_answer": "drama",
+        "is_correct": true
+    },
+    {
+        "question": "Which films has leonid gaidai written\n",
+        "answer": "oz series",
+        "correct_answer": "the diamond arm",
+        "is_correct": false
+    },
+    {
+        "question": "What is an organization that j. a. folger founded?\n",
+        "answer": "family name",
+        "correct_answer": "folgers",
+        "is_correct": false
+    },
+    {
+        "question": "What is shinji mori's gender?\n",
+        "answer": "male",
+        "correct_answer": "male",
+        "is_correct": true
+    },
+    {
+        "question": "what style of msuic did john pizzarelli play \n",
+        "answer": "doom metal",
+        "correct_answer": "jazz",
+        "is_correct": false
+    },
+    {
+        "question": "what does  2674 pandarus orbit\n",
+        "answer": "",
+        "correct_answer": "sol",
+        "is_correct": false
+    },
+    {
+        "question": "what is trond egil soltvedt's birth place \n",
+        "answer": "copenhagen",
+        "correct_answer": "voss",
+        "is_correct": false
+    },
+    {
+        "question": "what series is super mario bros. 2 a part of\n",
+        "answer": "",
+        "correct_answer": "super mario",
+        "is_correct": false
+    },
+    {
+        "question": "what disease did anthony perkins die of\n",
+        "answer": "natural causes",
+        "correct_answer": "hiv/aids",
+        "is_correct": false
+    },
+    {
+        "question": "what is the mouth of the schuylkill river\n",
+        "answer": "delaware river",
+        "correct_answer": "delaware river",
+        "is_correct": true
+    },
+    {
+        "question": "Which genre of book is bin laden: the man who declared war on america?\n",
+        "answer": "drama film",
+        "correct_answer": "biography",
+        "is_correct": false
+    },
+    {
+        "question": "Name a model that died due to a car accident\n",
+        "answer": "cerebrovascular disease",
+        "correct_answer": "melody gersbach",
+        "is_correct": false
+    },
+    {
+        "question": "which position does brian dowling play in football\n",
+        "answer": "minister for labour",
+        "correct_answer": "quarterback",
+        "is_correct": false
+    },
+    {
+        "question": "who was born in catania\n",
+        "answer": "giovanni battista vaccarini",
+        "correct_answer": "francesco giuffrida",
+        "is_correct": false
+    },
+    {
+        "question": "who discovered 4171 carrasco\n",
+        "answer": "",
+        "correct_answer": "carolyn s. shoemaker",
+        "is_correct": false
+    },
+    {
+        "question": "What is the profession of julio medem?\n",
+        "answer": "actor",
+        "correct_answer": "film producer",
+        "is_correct": false
+    },
+    {
+        "question": "where was walter m\u00fcller born\n",
+        "answer": "berlin",
+        "correct_answer": "prague",
+        "is_correct": false
+    },
+    {
+        "question": "who published the video game fable (video game)\n",
+        "answer": "xbox game studios",
+        "correct_answer": "xbox game studios",
+        "is_correct": true
+    },
+    {
+        "question": "what is the nationality of chris gwynn?\n",
+        "answer": "united states of america",
+        "correct_answer": "united states of america",
+        "is_correct": true
+    },
+    {
+        "question": "Which film did enrico medioli write?\n",
+        "answer": "film",
+        "correct_answer": "ludwig",
+        "is_correct": false
+    },
+    {
+        "question": "which film is classified as a silent film\n",
+        "answer": "sound film",
+        "correct_answer": "love's prisoner",
+        "is_correct": false
+    },
+    {
+        "question": "jack warner produced what american film?\n",
+        "answer": "dan jinks",
+        "correct_answer": "west of shanghai",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of an album by superdrag\n",
+        "answer": "public image ltd.",
+        "correct_answer": "changin' tires on the road to ruin",
+        "is_correct": false
+    },
+    {
+        "question": "What genre is the island of disco ensemble\n",
+        "answer": "hard rock",
+        "correct_answer": "punk rock",
+        "is_correct": false
+    },
+    {
+        "question": "which county contains buckley\n",
+        "answer": "flintshire",
+        "correct_answer": "pierce county",
+        "is_correct": false
+    },
+    {
+        "question": "what artist is signed with warner music group\n",
+        "answer": "maverick",
+        "correct_answer": "jam hsiao",
+        "is_correct": false
+    },
+    {
+        "question": "what country is dracula in brianza from\n",
+        "answer": "united states of america",
+        "correct_answer": "italy",
+        "is_correct": false
+    },
+    {
+        "question": "which country is mark kramer from\n",
+        "answer": "united states of america",
+        "correct_answer": "united states of america",
+        "is_correct": true
+    },
+    {
+        "question": "how did janet gaynor pass away?\n",
+        "answer": "natural causes",
+        "correct_answer": "pneumonia",
+        "is_correct": false
+    },
+    {
+        "question": "What is fred hawkins's gender?\n",
+        "answer": "male",
+        "correct_answer": "male",
+        "is_correct": true
+    },
+    {
+        "question": "What sort of music is soundwave 2010\n",
+        "answer": "",
+        "correct_answer": "punk rock",
+        "is_correct": false
+    },
+    {
+        "question": "is a song for summer a romance novel or drama\n",
+        "answer": "musical film",
+        "correct_answer": "romance novel",
+        "is_correct": false
+    },
+    {
+        "question": "what gender is mohinder suresh\n",
+        "answer": "male",
+        "correct_answer": "male",
+        "is_correct": true
+    },
+    {
+        "question": "WHat language is spoke in lenny\n",
+        "answer": "english",
+        "correct_answer": "english",
+        "is_correct": true
+    },
+    {
+        "question": "what is the sex of jordon dizon\n",
+        "answer": "male",
+        "correct_answer": "male",
+        "is_correct": true
+    },
+    {
+        "question": "what album is by jethro tull (band)?\n",
+        "answer": "electronic rock",
+        "correct_answer": "under wraps",
+        "is_correct": false
+    },
+    {
+        "question": "what is an example of a role-playing video game \n",
+        "answer": "action game",
+        "correct_answer": "xenosaga episode ii",
+        "is_correct": false
+    },
+    {
+        "question": "what war was thomas whitham in\n",
+        "answer": "southern illinois university carbondale",
+        "correct_answer": "world war i",
+        "is_correct": false
+    },
+    {
+        "question": "what is the name of a work done by  gary paulsen\n",
+        "answer": "short story writer",
+        "correct_answer": "the creature of black water lake",
+        "is_correct": false
+    },
+    {
+        "question": "What gender is werner m. moser?\n",
+        "answer": "male",
+        "correct_answer": "male",
+        "is_correct": true
+    },
+    {
+        "question": "which country is the film the fish child from\n",
+        "answer": "united states of america",
+        "correct_answer": "spain",
+        "is_correct": false
+    },
+    {
+        "question": "Who wrote the film goltzius and the pelican company\n",
+        "answer": "federico fellini",
+        "correct_answer": "peter greenaway",
+        "is_correct": false
+    },
+    {
+        "question": "Who is a known football player that plays forward\n",
+        "answer": "defender",
+        "correct_answer": "brian sinclair",
+        "is_correct": false
+    },
+    {
+        "question": "what production company was involved in smokin' aces 2: assasins' ball\n",
+        "answer": "",
+        "correct_answer": "working title films",
+        "is_correct": false
+    },
+    {
+        "question": "what language is spoken in the medic\n",
+        "answer": "english",
+        "correct_answer": "french",
+        "is_correct": false
+    },
+    {
+        "question": "what does carol kicinski do for her profession\n",
+        "answer": "military personnel",
+        "correct_answer": "writer",
+        "is_correct": false
+    },
+    {
+        "question": "where did hans dally die?\n",
+        "answer": "ithaca",
+        "correct_answer": "hamburg",
+        "is_correct": false
+    },
+    {
+        "question": "of what nationality is ken mcgoogan\n",
+        "answer": "canada",
+        "correct_answer": "canada",
+        "is_correct": true
+    },
+    {
+        "question": "what sort of film is combat report\n",
+        "answer": "drama film",
+        "correct_answer": "propaganda film",
+        "is_correct": false
+    },
+    {
+        "question": "What company published the game tenchu: wrath of heaven\n",
+        "answer": "activision publishing",
+        "correct_answer": "activision publishing",
+        "is_correct": true
+    },
+    {
+        "question": "what illness did michael visaroff die from \n",
+        "answer": "cancer",
+        "correct_answer": "pneumonia",
+        "is_correct": false
+    },
+    {
+        "question": "what label is ace of base signed to\n",
+        "answer": "arista records",
+        "correct_answer": "arista",
+        "is_correct": true
+    },
+    {
+        "question": "who edited the film cleopatra?\n",
+        "answer": "anne bauchens",
+        "correct_answer": "helen gardner",
+        "is_correct": false
+    },
+    {
+        "question": "is 2464 nordenski\u00f6ld a meteor or an asteroid\n",
+        "answer": "",
+        "correct_answer": "asteroid",
+        "is_correct": false
+    },
+    {
+        "question": "what country released the film  cube\n",
+        "answer": "united states of america",
+        "correct_answer": "canada",
+        "is_correct": false
+    },
+    {
+        "question": "what style of architecture is villa deste\n",
+        "answer": "roman city",
+        "correct_answer": "renaissance architecture",
+        "is_correct": false
+    },
+    {
+        "question": "what is 6864 starkenburg\n",
+        "answer": "",
+        "correct_answer": "asteroid",
+        "is_correct": false
+    },
+    {
+        "question": "Where does the santa ana river end\n",
+        "answer": "japan",
+        "correct_answer": "pacific ocean",
+        "is_correct": false
+    },
+    {
+        "question": "Who did the music for the film carry on cruising\n",
+        "answer": "dave grusin",
+        "correct_answer": "edmund crispin",
+        "is_correct": false
+    },
+    {
+        "question": "What is enno lerian 's gender\n",
+        "answer": "male",
+        "correct_answer": "female",
+        "is_correct": false
+    },
+    {
+        "question": "Who directed woody meets davy crewcut\n",
+        "answer": "stephen j. anderson",
+        "correct_answer": "alex lovy",
+        "is_correct": false
+    },
+    {
+        "question": "Name an album by bill wyman.\n",
+        "answer": "stephen moyer",
+        "correct_answer": "jamming with edward!",
+        "is_correct": false
+    },
+    {
+        "question": "Is ji\u0159ina bohdalov\u00e1 female or male?\n",
+        "answer": "female",
+        "correct_answer": "female",
+        "is_correct": true
+    },
+    {
+        "question": "Name an action film.\n",
+        "answer": "drama film",
+        "correct_answer": "mahaanta",
+        "is_correct": false
+    },
+    {
+        "question": "what type of construction does cornwall bridge have\n",
+        "answer": "human",
+        "correct_answer": "arch bridge",
+        "is_correct": false
+    },
+    {
+        "question": "what is aleksei kravchenko's origin?\n",
+        "answer": "novocherkassk",
+        "correct_answer": "soviet union",
+        "is_correct": false
+    },
+    {
+        "question": "what language was the act of killing in?\n",
+        "answer": "english",
+        "correct_answer": "indonesian",
+        "is_correct": false
+    },
+    {
+        "question": "which type of film is the bitter tea of general yen released in?\n",
+        "answer": "drama film",
+        "correct_answer": "romance film",
+        "is_correct": false
+    },
+    {
+        "question": "Who is an artist signed to warner bros. records\n",
+        "answer": "the geffen film company",
+        "correct_answer": "dan + shay",
+        "is_correct": false
+    },
+    {
+        "question": "who is a person with politician as a profession\n",
+        "answer": "nelson mandela",
+        "correct_answer": "saud bin faisal bin abdulaziz al saud",
+        "is_correct": false
+    },
+    {
+        "question": "Name a drama film.\n",
+        "answer": "film genre",
+        "correct_answer": "in pursuit of honor",
+        "is_correct": false
+    },
+    {
+        "question": "is rob renes a male or female \n",
+        "answer": "male",
+        "correct_answer": "male",
+        "is_correct": true
+    },
+    {
+        "question": "What kind of music is the album farewell aldebaran\n",
+        "answer": "drama film",
+        "correct_answer": "psychedelic rock",
+        "is_correct": false
+    },
+    {
+        "question": "Who directed the film the congress\n",
+        "answer": "ari folman",
+        "correct_answer": "ari folman",
+        "is_correct": true
+    },
+    {
+        "question": "what is an adaptation of la boh\u00e8me called \n",
+        "answer": "scenes of bohemian life",
+        "correct_answer": "la boh\u00e8me",
+        "is_correct": false
+    }
+]
