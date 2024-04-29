@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "What man was a famous American author and also a steamboat pilot on the Mississippi River?",
+        "answer": "mark twain",
+        "correct_answer": "mark twain",
+        "is_correct": true
+    },
+    {
+        "question": "How many Academy Awards has Jake Gyllenhaal been nominated for?",
+        "answer": "1",
+        "correct_answer": "1",
+        "is_correct": true
+    },
+    {
+        "question": "Who is older, The Weeknd or Drake?",
+        "answer": "drake",
+        "correct_answer": "drake",
+        "is_correct": true
+    },
+    {
+        "question": "How many children did Donald Trump have?",
+        "answer": "5",
+        "correct_answer": "5",
+        "is_correct": true
+    },
+    {
+        "question": "Is the main hero in Final Fantasy IX named Kuja?",
+        "answer": "false",
+        "correct_answer": "false",
+        "is_correct": true
+    },
+    {
+        "question": "Who performed at the Super Bowl XXIII halftime show?",
+        "answer": "elvis presley",
+        "correct_answer": "",
+        "is_correct": true
+    },
+    {
+        "question": "Did Free Guy come out in 2021?",
+        "answer": "3",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries were in the Central Powers alliance in World War I?",
+        "answer": "4",
+        "correct_answer": "4",
+        "is_correct": true
+    },
+    {
+        "question": "When was the first Donkey Kong arcade game released?",
+        "answer": "1981",
+        "correct_answer": "1981",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie, starring Al Jolson, is generally considered to be the first talking picture?",
+        "answer": "the jazz singer",
+        "correct_answer": "the jazz singer",
+        "is_correct": true
+    },
+    {
+        "question": "What state is the author of Misery from?",
+        "answer": "maine",
+        "correct_answer": "maine",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie came out first, Monsters, Inc. or Lilo and Stitch?",
+        "answer": "monsters, inc.",
+        "correct_answer": "monsters, inc.",
+        "is_correct": true
+    },
+    {
+        "question": "Did Avatar come out after Children of Men?",
+        "answer": "true",
+        "correct_answer": "true",
+        "is_correct": true
+    },
+    {
+        "question": "Is Titanic longer than Back to the Future?",
+        "answer": "true",
+        "correct_answer": "true",
+        "is_correct": true
+    },
+    {
+        "question": "Was 2 Fast 2 Furious more expensive to film than The Fast and The Furious?",
+        "answer": "false",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which movie had a bigger budget, Avatar or Training Day?",
+        "answer": "avatar",
+        "correct_answer": "avatar",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie sold more tickets: Titanic or Avatar?",
+        "answer": "titanic",
+        "correct_answer": "avatar",
+        "is_correct": false
+    },
+    {
+        "question": "Is Owen Wilson shorter than Luke Wilson?",
+        "answer": "true",
+        "correct_answer": "true",
+        "is_correct": true
+    },
+    {
+        "question": "Who is older, Martin Scorsese or David Fincher?",
+        "answer": "martin scorsese",
+        "correct_answer": "martin scorsese",
+        "is_correct": true
+    },
+    {
+        "question": "Did George Lucas make more money than Steven Spielberg?",
+        "answer": "false",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Jurassic World make more money than The Avengers?",
+        "answer": "false",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Keanu Reeves shorter than Jason Statham?",
+        "answer": "true",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Who is taller, George Clooney or Brad Pitt?",
+        "answer": "brad pitt",
+        "correct_answer": "brad pitt",
+        "is_correct": true
+    },
+    {
+        "question": "Who is older, Chris Pratt or Chris Evans?",
+        "answer": "chris evans",
+        "correct_answer": "chris pratt",
+        "is_correct": false
+    },
+    {
+        "question": "Who is older, Chris Evans or Anna Faris?",
+        "answer": "chris evans",
+        "correct_answer": "anna faris",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the older actor, Morgan Freeman or Kevin Spacey?",
+        "answer": "morgan freeman",
+        "correct_answer": "morgan freeman",
+        "is_correct": true
+    },
+    {
+        "question": "Is Robert Downey Jr. older than Chris Hemsworth?",
+        "answer": "true",
+        "correct_answer": "true",
+        "is_correct": true
+    },
+    {
+        "question": "Is Chris Evans older than Scarlett Johansson?",
+        "answer": "false",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which movie had a higher box office return, Moon or Eternal Sunshine of a Spotless Mind?",
+        "answer": "eternal sunshine of the spotless mind",
+        "correct_answer": "eternal sunshine of the spotless mind",
+        "is_correct": true
+    },
+    {
+        "question": "Did Moon come out before or after Eternal Sunshine of a Spotless Mind?",
+        "answer": "before",
+        "correct_answer": "after",
+        "is_correct": false
+    },
+    {
+        "question": "Who is younger, Emma Watson or Saoirse Ronan?",
+        "answer": "emma watson",
+        "correct_answer": "saoirse ronan",
+        "is_correct": false
+    },
+    {
+        "question": "Did the movie The Spy Who Loved Me come out after 1970?",
+        "answer": "true",
+        "correct_answer": "true",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie came out first, Transformers or Toy Story 2?",
+        "answer": "toy story 2",
+        "correct_answer": "toy story 2",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie had a higher domestic gross, Iron Man or Iron Man 2?",
+        "answer": "iron man",
+        "correct_answer": "iron man 2",
+        "is_correct": false
+    },
+    {
+        "question": "Who is younger, Drew Barrymore or Reese Witherspoon?",
+        "answer": "reese witherspoon",
+        "correct_answer": "reese witherspoon",
+        "is_correct": true
+    },
+    {
+        "question": "Did The Martian come out before 2013?",
+        "answer": "false",
+        "correct_answer": "false",
+        "is_correct": true
+    },
+    {
+        "question": "Did Apollo 13 come out before 2000?",
+        "answer": "true",
+        "correct_answer": "true",
+        "is_correct": true
+    },
+    {
+        "question": "Is Ben Platt taller than Lin-Manuel Miranda?",
+        "answer": "false",
+        "correct_answer": "false",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie had a bigger budget, Disney's Up or Frozen 2?",
+        "answer": "frozen 2",
+        "correct_answer": "up",
+        "is_correct": false
+    },
+    {
+        "question": "Did Bicentennial Man come out before 1997?",
+        "answer": "false",
+        "correct_answer": "false",
+        "is_correct": true
+    },
+    {
+        "question": "Was Liar Liar released the same year as My Best Friend's Wedding?",
+        "answer": "false",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Who has more kids, Jim Carrey or Adam Sandler?",
+        "answer": "adam sandler",
+        "correct_answer": "adam sandler",
+        "is_correct": true
+    },
+    {
+        "question": "Which director made more money in the movies they directed, James Cameron or Tim Burton?",
+        "answer": "james cameron",
+        "correct_answer": "james cameron",
+        "is_correct": true
+    },
+    {
+        "question": "Which director made less money in the movies they directed, Clint Eastwood or Michael Bay?",
+        "answer": "clint eastwood",
+        "correct_answer": "clint eastwood",
+        "is_correct": true
+    },
+    {
+        "question": "Which director is younger, Damien Chazelle or Sam Mendes?",
+        "answer": "damien chazelle",
+        "correct_answer": "damien chazelle",
+        "is_correct": true
+    },
+    {
+        "question": "How many movies are there in Peter Jackson's Hobbit movie series?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many Transformers movies has Michael Bay directed?",
+        "answer": "5",
+        "correct_answer": "5",
+        "is_correct": true
+    },
+    {
+        "question": "How many Academy Awards has Julia Roberts won?",
+        "answer": "1",
+        "correct_answer": "1",
+        "is_correct": true
+    },
+    {
+        "question": "How many Independent Spirit Awards has Julia Roberts been nominated for?",
+        "answer": "1",
+        "correct_answer": "1",
+        "is_correct": true
+    },
+    {
+        "question": "How many Disney movies has Angelina Jolie worked on?",
+        "answer": "2",
+        "correct_answer": "8",
+        "is_correct": false
+    },
+    {
+        "question": "How many movies had Chris Farley starred in?",
+        "answer": "10",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many Cloverfield movies are there?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many times has Ian David McShane portrayed the character Winston in the John Wick movies?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many 300 movies are there?",
+        "answer": "3",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many The Sandlot movies are there?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many Academy Awards has Meryl Streep won?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many of the Godfather movies was Robert De Niro in?",
+        "answer": "2",
+        "correct_answer": "1",
+        "is_correct": false
+    },
+    {
+        "question": "How many The Divergent series movies are there?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many People's Choice Awards did the movie Rain Man win?",
+        "answer": "4",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many actors or actresses are listed as starring in the movie Pulp Fiction?",
+        "answer": "4",
+        "correct_answer": "12",
+        "is_correct": false
+    },
+    {
+        "question": "How many Transformers movies has Megan Fox starred in?",
+        "answer": "2",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many Finding Nemo movies are there?",
+        "answer": "2",
+        "correct_answer": "2",
+        "is_correct": true
+    },
+    {
+        "question": "How many Oscars has Meryl Streep won?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many Martin Scorsese movies has Leonardo DiCaprio starred in?",
+        "answer": "5",
+        "correct_answer": "5",
+        "is_correct": true
+    },
+    {
+        "question": "How many Twilight films are there?",
+        "answer": "5",
+        "correct_answer": "5",
+        "is_correct": true
+    },
+    {
+        "question": "How many times has Maggie Smith won an Academy Award?",
+        "answer": "2",
+        "correct_answer": "2",
+        "is_correct": true
+    },
+    {
+        "question": "How many Fast & Furious movies are there?",
+        "answer": "9",
+        "correct_answer": "9",
+        "is_correct": true
+    },
+    {
+        "question": "How many movies are in the Harry Potter series?",
+        "answer": "8",
+        "correct_answer": "8",
+        "is_correct": true
+    },
+    {
+        "question": "How many Star Wars movies has Princess Leia appeared in?",
+        "answer": "4",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "How many Avengers movies are there?",
+        "answer": "4",
+        "correct_answer": "4",
+        "is_correct": true
+    },
+    {
+        "question": "How many Oscars did Return of the King win?",
+        "answer": "11",
+        "correct_answer": "11",
+        "is_correct": true
+    },
+    {
+        "question": "How many Scream movies has Drew Barrymore appeared in?",
+        "answer": "1",
+        "correct_answer": "1",
+        "is_correct": true
+    },
+    {
+        "question": "How many stepsisters does Cinderella have in the movie?",
+        "answer": "2",
+        "correct_answer": "2",
+        "is_correct": true
+    },
+    {
+        "question": "How many Oscars for Best Actor has Tom Hanks won?",
+        "answer": "2",
+        "correct_answer": "2",
+        "is_correct": true
+    },
+    {
+        "question": "How many times has the movie A Star is Born been remade?",
+        "answer": "4",
+        "correct_answer": "4",
+        "is_correct": true
+    },
+    {
+        "question": "How many Harry Potter movies did Cedric Diggory appear in?",
+        "answer": "1",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "Which 2000 Christopher Nolan movie does not star Leonardo DiCaprio?",
+        "answer": "memento",
+        "correct_answer": "memento",
+        "is_correct": true
+    },
+    {
+        "question": "Which 2020 Christopher Nolan movie does not star Matt Damon?",
+        "answer": "tenet",
+        "correct_answer": "tenet",
+        "is_correct": true
+    },
+    {
+        "question": "Which 1980 Star Wars movie did not feature Ewoks?",
+        "answer": "star wars: episode v \u2013 the empire strikes back",
+        "correct_answer": "star wars: episode v \u2013 the empire strikes back",
+        "is_correct": true
+    },
+    {
+        "question": "Which Lord of the Rings movie was Gandalf the Grey not in?",
+        "answer": "the lord of the rings: the two towers",
+        "correct_answer": "the lord of the rings: the two towers",
+        "is_correct": true
+    },
+    {
+        "question": "In which Tim Burton movie does Johnny Depp not appear?",
+        "answer": "sweeney todd: the demon barber of fleet street",
+        "correct_answer": "big eyes",
+        "is_correct": false
+    },
+    {
+        "question": "Which Oliver Stone movie was nominated for a Golden Globe Award for Best Director but did not win?",
+        "answer": "platoon",
+        "correct_answer": "natural born killers",
+        "is_correct": false
+    },
+    {
+        "question": "Which Clint Eastwood movies were nominated for an Academy Award for Best Picture but did not win?",
+        "answer": "4",
+        "correct_answer": "mystic river",
+        "is_correct": false
+    },
+    {
+        "question": "Which movies was Stanley Kubrick nominated as Best Director for, but did not win?",
+        "answer": "4",
+        "correct_answer": "dr. strangelove",
+        "is_correct": false
+    },
+    {
+        "question": "Which 2005 Christopher Nolan movie does not star Brad Pitt?",
+        "answer": "batman begins",
+        "correct_answer": "batman begins",
+        "is_correct": true
+    },
+    {
+        "question": "Which 2000 M. Night Shyamalan movie does not star Angelina Jolie?",
+        "answer": "unbreakable",
+        "correct_answer": "unbreakable",
+        "is_correct": true
+    },
+    {
+        "question": "Which 2007 movie directed by Andy Fickman does not star John Cena?",
+        "answer": "27 dresses",
+        "correct_answer": "the game plan",
+        "is_correct": false
+    },
+    {
+        "question": "Which was the first Pixar movie to not be released in the 1990's?",
+        "answer": "monsters, inc.",
+        "correct_answer": "monsters, inc.",
+        "is_correct": true
+    },
+    {
+        "question": "Which was the first Marvel Cinematic Universe movie to not be in the Phase One?",
+        "answer": "iron man 3",
+        "correct_answer": "iron man 3",
+        "is_correct": true
+    },
+    {
+        "question": "What was the first movie in the Terminator series that did not feature Arnold Schwarzenegger?",
+        "answer": "terminator salvation",
+        "correct_answer": "terminator salvation",
+        "is_correct": true
+    },
+    {
+        "question": "Which famous Martin Scorsese movie from 1976 did not win any Oscars?",
+        "answer": "taxi driver",
+        "correct_answer": "taxi driver",
+        "is_correct": true
+    },
+    {
+        "question": "Which American red-haired TV star was considered, but not chosen to play the role of Scarlett O'Hara in the 1939 movie, Gone With The Wind?",
+        "answer": "shirley temple",
+        "correct_answer": "lucille ball",
+        "is_correct": false
+    },
+    {
+        "question": "Which actress was nominated for but did not win a Best Actress Academy Award for the 2000 movie American Beauty?",
+        "answer": "annette bening",
+        "correct_answer": "annette bening",
+        "is_correct": true
+    },
+    {
+        "question": "Which Clint Eastwood movies were nominated for Best Picture but didn't win?",
+        "answer": "4",
+        "correct_answer": "mystic river",
+        "is_correct": false
+    },
+    {
+        "question": "What was the first Studio Ghibli to not be made by Miyazaki?",
+        "answer": "6",
+        "correct_answer": "grave of the fireflies",
+        "is_correct": false
+    },
+    {
+        "question": "What was the first movie Clint Eastwood starred in, but was not a Dirty Harry movie?",
+        "answer": "1",
+        "correct_answer": "revenge of the creature",
+        "is_correct": false
+    },
+    {
+        "question": "Which Major League movie did not star Charlie Sheen?",
+        "answer": "major league: back to the minors",
+        "correct_answer": "major league: back to the minors",
+        "is_correct": true
+    },
+    {
+        "question": "Which Hellraiser movies did Doug Bradley not appear in?",
+        "answer": "2",
+        "correct_answer": "hellraiser: revelations",
+        "is_correct": false
+    },
+    {
+        "question": "Which Hellraiser movies were not made after 2000?",
+        "answer": "8",
+        "correct_answer": "hellraiser",
+        "is_correct": false
+    },
+    {
+        "question": "Which Tim Burton movie does not involve Johnny Deep?",
+        "answer": "corpse bride",
+        "correct_answer": "pee-wee's big adventure",
+        "is_correct": false
+    },
+    {
+        "question": "How many times has Martin Scorsese been nominated for Best Director and failed to win it?",
+        "answer": "8",
+        "correct_answer": "8",
+        "is_correct": true
+    },
+    {
+        "question": "What is the first Marvel movie without a Stan Lee cameo?",
+        "answer": "spider-man: far from home",
+        "correct_answer": "spider-man: far from home",
+        "is_correct": true
+    },
+    {
+        "question": "Which Lord of the Rings movie did not show the character Eowyn?",
+        "answer": "the lord of the rings: the two towers",
+        "correct_answer": "the lord of the rings: the fellowship of the ring",
+        "is_correct": false
+    },
+    {
+        "question": "Which of the Star Wars sequel trilogy did JJ Abrams not direct?",
+        "answer": "star wars: the last jedi",
+        "correct_answer": "star wars: episode viii \u2013 the last jedi",
+        "is_correct": false
+    },
+    {
+        "question": "Which Pixar movie was nominated for the Academy Award's category for Best Sound but did not win?",
+        "answer": "monsters, inc.",
+        "correct_answer": "soul",
+        "is_correct": false
+    },
+    {
+        "question": "In which Iron Man movie did Pepper Potts not use an Iron Man suit?",
+        "answer": "iron man 3",
+        "correct_answer": "iron man",
+        "is_correct": true
+    },
+    {
+        "question": "Which X-Men movies did James McAvoy not appear in?",
+        "answer": "3",
+        "correct_answer": "x-men",
+        "is_correct": false
+    },
+    {
+        "question": "Which 1996 Michael Bay movie does not star Megan Fox?",
+        "answer": "2",
+        "correct_answer": "the rock",
+        "is_correct": false
+    },
+    {
+        "question": "Which 2017 movie was Saiorse Ronan nominated Best Actress for but did not win?",
+        "answer": "lady bird",
+        "correct_answer": "lady bird",
+        "is_correct": true
+    },
+    {
+        "question": "Which George Lucas directed movies were nominated for Best Picture and did not win?",
+        "answer": "5",
+        "correct_answer": "star wars: episode iv \u2013 a new hope",
+        "is_correct": false
+    },
+    {
+        "question": "Which is the only Friday the 13th movie to not star Jason as the killer?",
+        "answer": "friday the 13th: a new beginning",
+        "correct_answer": "friday the 13th part 2",
+        "is_correct": false
+    },
+    {
+        "question": "Which Iron Man movie did Don Cheadle not appear in?",
+        "answer": "iron man 2",
+        "correct_answer": "iron man",
+        "is_correct": true
+    },
+    {
+        "question": "Which 2018 movie was Willem Dafoe nominated for but did not win?",
+        "answer": "at eternity's gate",
+        "correct_answer": "at eternity's gate",
+        "is_correct": true
+    },
+    {
+        "question": "Which Japanese actress from The Confidence Man JP: The Movie is no longer alive?",
+        "answer": "yuko takeuchi",
+        "correct_answer": "y\u016bko takeuchi",
+        "is_correct": false
+    },
+    {
+        "question": "Which Jon Favreau series did not win the Emmy for Best Drama Series in 2021?",
+        "answer": "the mandalorian",
+        "correct_answer": "the mandalorian",
+        "is_correct": true
+    },
+    {
+        "question": "Which Harry Potter movie is directed by Alfonso Cuar\u00f3n?",
+        "answer": "3",
+        "correct_answer": "harry potter and the prisoner of azkaban",
+        "is_correct": false
+    },
+    {
+        "question": "Which movie scored 100% on Rotten Tomatoes and was produced by T\u014dru Hara?",
+        "answer": "woman in the dunes",
+        "correct_answer": "grave of the fireflies",
+        "is_correct": false
+    },
+    {
+        "question": "Which live-action movie did Adam Sandler produce and was directed by Dennis Dugan?",
+        "answer": "big daddy",
+        "correct_answer": "jack and jill",
+        "is_correct": false
+    },
+    {
+        "question": "Which actor starred in Jerry Maguire and was born in Syracuse, NY?",
+        "answer": "tom cruise",
+        "correct_answer": "tom cruise",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was directed by David Fincher and starred Brad Pitt?",
+        "answer": "7",
+        "correct_answer": "fight club",
+        "is_correct": false
+    },
+    {
+        "question": "Which action movie was released in 1988 and featured Bruce Willis in the starring role?",
+        "answer": "die hard",
+        "correct_answer": "die hard",
+        "is_correct": true
+    },
+    {
+        "question": "Which actor played both Han Solo and Indiana Jones?",
+        "answer": "harrison ford",
+        "correct_answer": "harrison ford",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie is Bruce Lee most well known for that came out in the early 70s?",
+        "answer": "enter the dragon",
+        "correct_answer": "enter the dragon",
+        "is_correct": true
+    },
+    {
+        "question": "What musical was the first \"talkie\" and was released in 1927?",
+        "answer": "the jazz singer",
+        "correct_answer": "the jazz singer",
+        "is_correct": true
+    },
+    {
+        "question": "Who played park owner John Hammond in Jurassic Park and was the life president of Chelsea FC?",
+        "answer": "richard attenborough",
+        "correct_answer": "richard attenborough",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was produced by Steven Spielberg and came out in 2005?",
+        "answer": "war of the worlds",
+        "correct_answer": "memoirs of a geisha",
+        "is_correct": false
+    },
+    {
+        "question": "Which movie starred Edward Norton and Brad Pitt?",
+        "answer": "fight club",
+        "correct_answer": "fight club",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was directed by George Lucas and came out in 1971?",
+        "answer": "thx 1138",
+        "correct_answer": "thx 1138",
+        "is_correct": true
+    },
+    {
+        "question": "Which actor is from Orange, NJ and starred in the movie Jaws?",
+        "answer": "3",
+        "correct_answer": "roy scheider",
+        "is_correct": false
+    },
+    {
+        "question": "Which 1990 Tim Burton movie starred Johnny Depp?",
+        "answer": "edward scissorhands",
+        "correct_answer": "edward scissorhands",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie actress is married to Cooke Maroney and has starred in the X-Men movies?",
+        "answer": "jennifer lawrence",
+        "correct_answer": "jennifer lawrence",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was directed by Peter Jackson and came out in 2001?",
+        "answer": "the lord of the rings: the fellowship of the ring",
+        "correct_answer": "the lord of the rings: the fellowship of the ring",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie starred Daniel Craig and came out in 2006?",
+        "answer": "casino royale",
+        "correct_answer": "casino royale",
+        "is_correct": true
+    },
+    {
+        "question": "Which actor featured in Den of Thieves and is a musician?",
+        "answer": "gerard butler",
+        "correct_answer": "50 cent",
+        "is_correct": false
+    },
+    {
+        "question": "Which actor starred in The Talented Mr. Ripley and was also a high school drop-out?",
+        "answer": "matt damon",
+        "correct_answer": "jude law",
+        "is_correct": false
+    },
+    {
+        "question": "Which movie was directed by Martin Scorsese and won an Academy Award for Best Director?",
+        "answer": "the departed",
+        "correct_answer": "the departed",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie won an Academy Award for Best Director and was directed by Kathryn Bigelow?",
+        "answer": "the hurt locker",
+        "correct_answer": "the hurt locker",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was directed by Iain Softley and starred Jeff Bridges?",
+        "answer": "k-pax",
+        "correct_answer": "k-pax",
+        "is_correct": true
+    },
+    {
+        "question": "Which actress starred in Legally Blonde and also wrote the book Whiskey in a Teacup?",
+        "answer": "reese witherspoon",
+        "correct_answer": "reese witherspoon",
+        "is_correct": true
+    },
+    {
+        "question": "Which cartoon movie was released in 2007 and directed by Tim Hill?",
+        "answer": "alvin and the chipmunks",
+        "correct_answer": "alvin and the chipmunks",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was directed by Martin Scorsese and starred Leonardo DiCaprio?",
+        "answer": "11",
+        "correct_answer": "the aviator",
+        "is_correct": false
+    },
+    {
+        "question": "Which actress starred in Transformers and came out as bisexual?",
+        "answer": "megan fox",
+        "correct_answer": "megan fox",
+        "is_correct": true
+    },
+    {
+        "question": "Who starred in Catch Me If You Can and went to California State University?",
+        "answer": "leonardo dicaprio",
+        "correct_answer": "tom hanks",
+        "is_correct": false
+    },
+    {
+        "question": "Who was in Step Brothers and also went to Hendrix College?",
+        "answer": "will ferrell",
+        "correct_answer": "mary steenburgen",
+        "is_correct": false
+    },
+    {
+        "question": "Who starred in Bird Box and also went to University of Texas in Austin?",
+        "answer": "sandra bullock",
+        "correct_answer": "trevante rhodes",
+        "is_correct": false
+    },
+    {
+        "question": "Which movie was directed by Quentin Tarantino and came out in 1994?",
+        "answer": "pulp fiction",
+        "correct_answer": "pulp fiction",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was directed by Tate Taylor and starred Emma Stone?",
+        "answer": "the help",
+        "correct_answer": "the help",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was directed by Christopher Nolan and came out in 2010?",
+        "answer": "inception",
+        "correct_answer": "inception",
+        "is_correct": true
+    },
+    {
+        "question": "Which actor starred in X-Men: Apocalypse and was born in 1987?",
+        "answer": "james mcavoy",
+        "correct_answer": "evan peters",
+        "is_correct": false
+    },
+    {
+        "question": "Which actor starred as Jason Bourne and also went to Harvard?",
+        "answer": "matt damon",
+        "correct_answer": "matt damon",
+        "is_correct": true
+    },
+    {
+        "question": "Which movie was based in a run-down hotel and had its soundtrack written by U2?",
+        "answer": "3",
+        "correct_answer": "the million dollar hotel",
+        "is_correct": false
+    },
+    {
+        "question": "Which actor was in the James Bond movies and was knighted in 2003?",
+        "answer": "sean connery",
+        "correct_answer": "roger moore",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the actor who played James Bond in Skyfall from?",
+        "answer": "wales",
+        "correct_answer": "chester",
+        "is_correct": false
+    },
+    {
+        "question": "When was the director of Chasing Amy born?",
+        "answer": "1970",
+        "correct_answer": "1970-08-02",
+        "is_correct": false
+    },
+    {
+        "question": "How many kids does the lead actress of Emma have?",
+        "answer": "4",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many kids does the lead actress of Pulp Fiction have?",
+        "answer": "3",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "When was the director of Taxi Driver born?",
+        "answer": "1942",
+        "correct_answer": "1942-11-17",
+        "is_correct": false
+    },
+    {
+        "question": "When was the actor who played Ron Weasley born?",
+        "answer": "1988",
+        "correct_answer": "1988-08-24",
+        "is_correct": false
+    },
+    {
+        "question": "How old is the actress who played Black Widow?",
+        "answer": "36",
+        "correct_answer": "26",
+        "is_correct": false
+    },
+    {
+        "question": "How old is the actor that player the Joker in the movie Joker?",
+        "answer": "joaquin phoenix",
+        "correct_answer": "47",
+        "is_correct": false
+    },
+    {
+        "question": "How many awards has the director of Goodfellas won?",
+        "answer": "1",
+        "correct_answer": "18",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the actor who played Henry Hill from?",
+        "answer": "united states",
+        "correct_answer": "new york city",
+        "is_correct": false
+    },
+    {
+        "question": "How tall is the actor that played Darth Vader?",
+        "answer": "6",
+        "correct_answer": "6'6\"",
+        "is_correct": false
+    },
+    {
+        "question": "How tall is the actor who played Jerry Maguire in Jerry Maguire?",
+        "answer": "5",
+        "correct_answer": "5'7\"",
+        "is_correct": false
+    },
+    {
+        "question": "When was the director of Titanic born?",
+        "answer": "1954",
+        "correct_answer": "1954-08-16",
+        "is_correct": false
+    },
+    {
+        "question": "In which city was the actor who played Jordan in Wolf of Wall Street born?",
+        "answer": "los angeles",
+        "correct_answer": "los angeles",
+        "is_correct": true
+    },
+    {
+        "question": "Which actress is the sister of the actor who played Peter Brand in Moneyball?",
+        "answer": "zoe saldana",
+        "correct_answer": "beanie feldstein",
+        "is_correct": false
+    },
+    {
+        "question": "When was the actor who played Iron Man born?",
+        "answer": "1965",
+        "correct_answer": "1965-04-04",
+        "is_correct": false
+    },
+    {
+        "question": "Which movie did the writer who wrote Me Talk Pretty One Day help write in 1994?",
+        "answer": "4",
+        "correct_answer": "",
+        "is_correct": true
+    },
+    {
+        "question": "In which year was the actor who played Harry Potter in Harry Potter and the Half Blood Prince born?",
+        "answer": "1989",
+        "correct_answer": "1989",
+        "is_correct": true
+    },
+    {
+        "question": "How tall is the actor who played the title role in the Harry Potter movies?",
+        "answer": "5",
+        "correct_answer": "5'5\"",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the actor who played Pirates of the Caribbean from?",
+        "answer": "england",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "When was the director of Free Guy born?",
+        "answer": "1974",
+        "correct_answer": "1968-07-23",
+        "is_correct": false
+    },
+    {
+        "question": "How many children does the director of Alice in Wonderland have?",
+        "answer": "5",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How old is the director of Parasite?",
+        "answer": "50",
+        "correct_answer": "52",
+        "is_correct": false
+    },
+    {
+        "question": "How old is the actor who played Qui-Gon Jinn?",
+        "answer": "48",
+        "correct_answer": "69",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the actress who played Katniss in The Hunger Games from?",
+        "answer": "kentucky",
+        "correct_answer": "indian hills",
+        "is_correct": false
+    },
+    {
+        "question": "How many kids does the director of Apollo 13 have?",
+        "answer": "4",
+        "correct_answer": "4",
+        "is_correct": true
+    },
+    {
+        "question": "How old is the actor who played the Terminator?",
+        "answer": "74",
+        "correct_answer": "74",
+        "is_correct": true
+    },
+    {
+        "question": "Where was the actress who played Hermonie born?",
+        "answer": "paris",
+        "correct_answer": "paris",
+        "is_correct": true
+    },
+    {
+        "question": "How many children does the director of The Conjuring have?",
+        "answer": "2",
+        "correct_answer": "0",
+        "is_correct": false
+    },
+    {
+        "question": "Is the actress who plays Wonder Woman married?",
+        "answer": "yes",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "How tall is the actor who played Chewbacca in the Star Wars movie series?",
+        "answer": "7",
+        "correct_answer": "7'2\"",
+        "is_correct": false
+    },
+    {
+        "question": "When was the director of Harry Potter (2007) born?",
+        "answer": "1960",
+        "correct_answer": "1963-10-08",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the actor who played Bane in The Dark Knight Rises from?",
+        "answer": "united kingdom",
+        "correct_answer": "england",
+        "is_correct": false
+    },
+    {
+        "question": "When was the lead actor of the original Planet of the Apes born?",
+        "answer": "1928",
+        "correct_answer": "1923-10-04",
+        "is_correct": false
+    },
+    {
+        "question": "When did the director of Avengers divorce his wife?",
+        "answer": "2016",
+        "correct_answer": "2016",
+        "is_correct": true
+    },
+    {
+        "question": "What's the name of the father of the director of Star Wars?",
+        "answer": "george lucas",
+        "correct_answer": "",
+        "is_correct": true
+    },
+    {
+        "question": "Who is the wife of the actor that played Iron Man?",
+        "answer": "susan downey",
+        "correct_answer": "susan downey",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first wife of the director of Jaws?",
+        "answer": "1",
+        "correct_answer": "amy irving",
+        "is_correct": false
+    },
+    {
+        "question": "The director of the movie Tenet was born in which year?",
+        "answer": "1970",
+        "correct_answer": "1970",
+        "is_correct": true
+    },
+    {
+        "question": "Where was the director of Metropolis born?",
+        "answer": "berlin",
+        "correct_answer": "vienna",
+        "is_correct": false
+    },
+    {
+        "question": "How old is the Freddy Krueger actor?",
+        "answer": "74",
+        "correct_answer": "74",
+        "is_correct": true
+    },
+    {
+        "question": "When did the Cocoon director make his first movie?",
+        "answer": "1984",
+        "correct_answer": "1977",
+        "is_correct": false
+    },
+    {
+        "question": "What was the last movie in The Avengers series?",
+        "answer": "avengers: endgame",
+        "correct_answer": "avengers: endgame",
+        "is_correct": true
+    },
+    {
+        "question": "What was the second Twilight movie chronologically?",
+        "answer": "2",
+        "correct_answer": "the twilight saga: new moon",
+        "is_correct": false
+    },
+    {
+        "question": "What was the third Twilight movie chronologically?",
+        "answer": "eclipse",
+        "correct_answer": "the twilight saga: eclipse",
+        "is_correct": false
+    },
+    {
+        "question": "What was the first movie that Clint Eastwood acted in?",
+        "answer": "revenge of the creature",
+        "correct_answer": "revenge of the creature",
+        "is_correct": true
+    },
+    {
+        "question": "What was the first live-action Spider-Man movie?",
+        "answer": "spider-man",
+        "correct_answer": "spider-man",
+        "is_correct": true
+    },
+    {
+        "question": "In which year was the first live-action Iron Man movie released?",
+        "answer": "2008",
+        "correct_answer": "2008",
+        "is_correct": true
+    }
+]
