@@ -1,1188 +1,1190 @@
-{
-    "question": "What can cause a tsunami?",
-    "answer": "unnatural death",
-    "correct_answer": "seism",
-    "is_correct": false
-},
-{
-    "question": "Who wrote the novel \"uncle Tom's Cabin\"?",
-    "answer": "harriet beecher stowe",
-    "correct_answer": "christopher crowfield",
-    "is_correct": false
-},
-{
-    "question": "Who is the author of the play \"Romeo and Juliet\"?",
-    "answer": "william shakespeare",
-    "correct_answer": "the bard",
-    "is_correct": false
-},
-{
-    "question": "What is the name of the capital of Romania?",
-    "answer": "tekirda\u011f",
-    "correct_answer": "paris of the east",
-    "is_correct": false
-},
-{
-    "question": "What instrument did Jimi Hendrix play?",
-    "answer": "guitar",
-    "correct_answer": "guitar",
-    "is_correct": true
-},
-{
-    "question": "What country owns the island of Tahiti?",
-    "answer": "france",
-    "correct_answer": "fr",
-    "is_correct": true
-},
-{
-    "question": "Which country does the Canary Islands belong to?",
-    "answer": "spain",
-    "correct_answer": "\ud83c\uddea\ud83c\uddf8",
-    "is_correct": false
-},
-{
-    "question": "What geographical feature is called Limpopo?",
-    "answer": "waterberg district municipality",
-    "correct_answer": "rivers",
-    "is_correct": false
-},
-{
-    "question": "What modern state occupies the territory where the ancient Assyrian city of Nineveh was located?",
-    "answer": "iraq",
-    "correct_answer": "\ud83c\uddee\ud83c\uddf6",
-    "is_correct": false
-},
-{
-    "question": "What scale is used to measure the strength of earthquakes?",
-    "answer": "crewed spacecraft",
-    "correct_answer": "richter scale",
-    "is_correct": false
-},
-{
-    "question": "In which country did the game of Golf first appear?",
-    "answer": "scotland",
-    "correct_answer": "sct",
-    "is_correct": false
-},
-{
-    "question": "What kind of sport was Russian President Vladimir Putin interested in?",
-    "answer": "chess",
-    "correct_answer": "judo",
-    "is_correct": false
-},
-{
-    "question": "What was Severus Snape's father's name?",
-    "answer": "flavius severianus",
-    "correct_answer": "tobias snape",
-    "is_correct": false
-},
-{
-    "question": "What was Draco's son's name?",
-    "answer": "scorpius malfoy",
-    "correct_answer": "scorpius hyperion malfoy",
-    "is_correct": false
-},
-{
-    "question": "What was Severus Snape's mother's name?",
-    "answer": "flavius severianus",
-    "correct_answer": "eileen prince",
-    "is_correct": false
-},
-{
-    "question": "What was the name of the Creator of the faculty of Ravenclaw (Ravenclaw)?",
-    "answer": "virginia madsen",
-    "correct_answer": "rowena ravenclaw",
-    "is_correct": false
-},
-{
-    "question": "What was Hagrid's dragon's name?",
-    "answer": "magizoologist",
-    "correct_answer": "norberta",
-    "is_correct": false
-},
-{
-    "question": "Who is the author of the historical novel 'Princess Tarakanova'?",
-    "answer": "antonin artaud",
-    "correct_answer": "grigory danilevsky",
-    "is_correct": false
-},
-{
-    "question": "What color is the paint \"Indigo\"?",
-    "answer": "television character",
-    "correct_answer": "blue",
-    "is_correct": false
-},
-{
-    "question": "What language does Rasul Gamzatov write poetry in?",
-    "answer": "avar",
-    "correct_answer": "russian",
-    "is_correct": false
-},
-{
-    "question": "What Strait did the ancient Greeks call the\"pillars of Hercules\"?",
-    "answer": "united kingdom",
-    "correct_answer": "straits of gibraltar",
-    "is_correct": false
-},
-{
-    "question": "What country is the name of the BRILLIANT PORT associated with?",
-    "answer": "united states of america",
-    "correct_answer": "turkey",
-    "is_correct": false
-},
-{
-    "question": "Who is the author of the music for the film \"Alexander Nevsky\"?",
-    "answer": "sergei prokofiev",
-    "correct_answer": "sergei sergeyevich prokofiev",
-    "is_correct": false
-},
-{
-    "question": "What country do the Khmer people live in?",
-    "answer": "united states of america",
-    "correct_answer": "cambodia",
-    "is_correct": false
-},
-{
-    "question": "What country is mount Everest located in?",
-    "answer": "people's republic of china",
-    "correct_answer": "cn",
-    "is_correct": false
-},
-{
-    "question": "What country is the city of Semipalatinsk located in?",
-    "answer": "russian republic",
-    "correct_answer": "kazakhstan",
-    "is_correct": false
-},
-{
-    "question": "In which country are the two great rivers \u2013 the Tigris and the Euphrates-located?",
-    "answer": "turkey",
-    "correct_answer": "turkey",
-    "is_correct": true
-},
-{
-    "question": "What country does the kangaroo live in?",
-    "answer": "united states of america",
-    "correct_answer": "straya",
-    "is_correct": false
-},
-{
-    "question": "In which U.S. state is the Grand Canyon located?",
-    "answer": "hall county",
-    "correct_answer": "the grand canyon state",
-    "is_correct": false
-},
-{
-    "question": "In what sport was E. Kafelnikov famous?",
-    "answer": "tennis player",
-    "correct_answer": "lawntennis",
-    "is_correct": false
-},
-{
-    "question": "In which state is the city of St. Petersburg located?",
-    "answer": "petersburg borough",
-    "correct_answer": "the usa",
-    "is_correct": false
-},
-{
-    "question": "In which Polish city was the birthplace of the \"Solidarity\"movement?",
-    "answer": "p\u0142ock",
-    "correct_answer": "gda\u0144sk",
-    "is_correct": false
-},
-{
-    "question": "In which novel by Francois Rabelais, the main character was accompanied by a character named Panurge?",
-    "answer": "gargantua and pantagruel",
-    "correct_answer": "gargantua and pantagruel",
-    "is_correct": true
-},
-{
-    "question": "From what breed of fish was the aquarium goldfish bred in ancient China?",
-    "answer": "chorotypidae",
-    "correct_answer": "carassius",
-    "is_correct": false
-},
-{
-    "question": "What dynasty did Richard the Lionheart belong to?",
-    "answer": "house of plantagenet",
-    "correct_answer": "angevin dynasty",
-    "is_correct": false
-},
-{
-    "question": "What was the name of Alexander the great's horse?",
-    "answer": "dhul-qarnayn",
-    "correct_answer": "bucephalus",
-    "is_correct": false
-},
-{
-    "question": "What was the name of Alexander the great's mother?",
-    "answer": "grand duke sergei alexandrovich of russia",
-    "correct_answer": "olympiada",
-    "is_correct": false
-},
-{
-    "question": "How else is Christmas eve called?",
-    "answer": "american television sitcom",
-    "correct_answer": "christmas eve",
-    "is_correct": false
-},
-{
-    "question": "What is the name of the administrative center of the state of Alaska?",
-    "answer": "unorganized borough",
-    "correct_answer": "juneau",
-    "is_correct": false
-},
-{
-    "question": "What is the title of Karl Marx's main work?",
-    "answer": "the german ideology",
-    "correct_answer": "communist manifesto",
-    "is_correct": false
-},
-{
-    "question": "What is the name of the capital of Cambodia?",
-    "answer": "phnom penh",
-    "correct_answer": "phnom penh",
-    "is_correct": true
-},
-{
-    "question": "What is the name of money in Honduras?",
-    "answer": "latin america",
-    "correct_answer": "honduran lempira",
-    "is_correct": false
-},
-{
-    "question": "What city on the black sea coast was called Kafa?",
-    "answer": "oromia region",
-    "correct_answer": "feodosia",
-    "is_correct": false
-},
-{
-    "question": "Which city is located on the southern shore of the Golden Gate Strait?",
-    "answer": "san francisco",
-    "correct_answer": "san francisco",
-    "is_correct": true
-},
-{
-    "question": "Which city is the administrative center of the state of new York?",
-    "answer": "york county",
-    "correct_answer": "albany, new york",
-    "is_correct": false
-},
-{
-    "question": "Which city is the capital of Nigeria?",
-    "answer": "abuja",
-    "correct_answer": "abuja",
-    "is_correct": true
-},
-{
-    "question": "What musical instrument made Louis Armstrong's name famous?",
-    "answer": "cornet",
-    "correct_answer": "trumpet",
-    "is_correct": false
-},
-{
-    "question": "Which country does KLM belong to?",
-    "answer": "netherlands",
-    "correct_answer": "the netherlands",
-    "is_correct": false
-},
-{
-    "question": "What Museum is the \"Mona Lisa\" by the great Leonardo?",
-    "answer": "louvre museum",
-    "correct_answer": "france. musee du louvre paris",
-    "is_correct": false
-},
-{
-    "question": "What path did the Frenchman Michel de Montaigne choose in the fifth decade, after having had a good fight on the side of Henry IV, what did he become?",
-    "answer": "battle of cholet",
-    "correct_answer": "writers",
-    "is_correct": false
-},
-{
-    "question": "What country did the Romans call \"Caledonia\"?",
-    "answer": "united kingdom",
-    "correct_answer": "sct",
-    "is_correct": false
-},
-{
-    "question": "To whom do the words \"and you, Brutus\" belong?",
-    "answer": "michelangelo",
-    "correct_answer": "gaius julius caesar iv",
-    "is_correct": false
-},
-{
-    "question": "To whom do the words \"I think, therefore I exist\" belong?",
-    "answer": "english",
-    "correct_answer": "cartesius",
-    "is_correct": false
-},
-{
-    "question": "Who is the author of the novel \"Spartacus\"?",
-    "answer": "howard fast",
-    "correct_answer": "raffaello giovagnoli",
-    "is_correct": false
-},
-{
-    "question": "Who laid the foundations of Cybernetics?",
-    "answer": "norbert wiener",
-    "correct_answer": "norbert viner",
-    "is_correct": false
-},
-{
-    "question": "Who wrote the story-tale \"the adventures of Pinocchio\"?",
-    "answer": "carlo collodi",
-    "correct_answer": "carlo lorenzini",
-    "is_correct": false
-},
-{
-    "question": "Who wrote the poem \"Paradise Lost\"?",
-    "answer": "john milton",
-    "correct_answer": "john milton",
-    "is_correct": true
-},
-{
-    "question": "Who wrote the fairy tale \"Dwarf Nose\"?",
-    "answer": "wilhelm hauff",
-    "correct_answer": "wilhelm hauff",
-    "is_correct": true
-},
-{
-    "question": "Who sailed on the papyrus boat \" RA \"and on the raft \"Kon-Tiki\"?",
-    "answer": "banks islands",
-    "correct_answer": "thor heyerdahl",
-    "is_correct": false
-},
-{
-    "question": "Who came up with Alice Seleznev?",
-    "answer": "darya melnikova",
-    "correct_answer": "kir bulychov",
-    "is_correct": false
-},
-{
-    "question": "Who invented the Commissioner Maigret.",
-    "answer": "bill finger",
-    "correct_answer": "georges simenon",
-    "is_correct": false
-},
-{
-    "question": "Who composed \"sabre Dance\"?",
-    "answer": "aram khachaturian",
-    "correct_answer": "aram khachaturian",
-    "is_correct": true
-},
-{
-    "question": "Which music group was Fred mercury the leader of?",
-    "answer": "live aid",
-    "correct_answer": "queen",
-    "is_correct": false
-},
-{
-    "question": "What planet was Luke Skywalker born on?",
-    "answer": "the force",
-    "correct_answer": "tatooine",
-    "is_correct": false
-},
-{
-    "question": "What is the capital of the Republic is Tegucigalpa?",
-    "answer": "sukhumi",
-    "correct_answer": "honduran republic",
-    "is_correct": false
-},
-{
-    "question": "Which architect built St. Isaac's Cathedral in St. Petersburg?",
-    "answer": "peter the great",
-    "correct_answer": "oygust monferran",
-    "is_correct": false
-},
-{
-    "question": "Which Russian poet was the husband of the famous dancer Isadora Duncan?",
-    "answer": "mercedes de acosta",
-    "correct_answer": "sergei yesenin",
-    "is_correct": false
-},
-{
-    "question": "The country to which the \"Church\" wine owes its origin is Cahors",
-    "answer": "united states of america",
-    "correct_answer": "fr",
-    "is_correct": false
-},
-{
-    "question": "Which building in Hanoi was dubbed the Hanoi Hilton by American soldiers?",
-    "answer": "federal reserve system",
-    "correct_answer": "correctional facility",
-    "is_correct": false
-},
-{
-    "question": "Who said \"and you, Brutus\"?",
-    "answer": "konstantin fam",
-    "correct_answer": "gaius julius caesar iv",
-    "is_correct": false
-},
-{
-    "question": "What country is the city of Bryansk located in?",
-    "answer": "soviet union",
-    "correct_answer": "rus",
-    "is_correct": false
-},
-{
-    "question": "In which theater did Vladimir Vysotsky perform?",
-    "answer": "moscow",
-    "correct_answer": "teatr na taganke",
-    "is_correct": false
-},
-{
-    "question": "Where is Uttar Pradesh located",
-    "answer": "india",
-    "correct_answer": "\ud83c\uddee\ud83c\uddf3",
-    "is_correct": false
-},
-{
-    "question": "What was Cain's brother's name?",
-    "answer": "enoch",
-    "correct_answer": "seth",
-    "is_correct": false
-},
-{
-    "question": "What was the name of his brother Abel?",
-    "answer": "valdemar iii, duke of schleswig",
-    "correct_answer": "seth",
-    "is_correct": false
-},
-{
-    "question": "What was the name of father Romulus, after whom the Romans even altered their calendar?",
-    "answer": "alypia",
-    "correct_answer": "mars",
-    "is_correct": false
-},
-{
-    "question": "What is the name of the city in the United States where the world-famous Harvard University is located?",
-    "answer": "west point",
-    "correct_answer": "cambridge massachusetts",
-    "is_correct": false
-},
-{
-    "question": "What is stamp collecting called?",
-    "answer": "psychological horror",
-    "correct_answer": "philately",
-    "is_correct": false
-},
-{
-    "question": "What single combat brought the Hollywood star Jean-Claude van Damme the nickname \" muscles from Brussels\"",
-    "answer": "officer of the order of the crown",
-    "correct_answer": "karate-do",
-    "is_correct": false
-},
-{
-    "question": "Which hero served as the prototype for A. Tolstoy to create the image of Pinocchio?",
-    "answer": "carlo collodi",
-    "correct_answer": "pinocchio",
-    "is_correct": false
-},
-{
-    "question": "What artist made the zaporozhtzi write a letter to the Turkish Sultan?",
-    "answer": "ana bel\u00e9n",
-    "correct_answer": "ilja jefimovit\u0161 repin",
-    "is_correct": false
-},
-{
-    "question": "Which party is headed by Zhirinovsky (abbrev.)?",
-    "answer": "liberal democratic party of russia",
-    "correct_answer": "liberal democratic party of russia",
-    "is_correct": true
-},
-{
-    "question": "Which of the Achaean heroes of the Trojan war was the husband of Clytemnestra?",
-    "answer": "iphianassa",
-    "correct_answer": "agamemnon",
-    "is_correct": false
-},
-{
-    "question": "What Chinese dynasty was founded by Xiao Yan",
-    "answer": "emperor of china",
-    "correct_answer": "liang dynasty",
-    "is_correct": false
-},
-{
-    "question": "What happens if you transform napoleonder",
-    "answer": "psychological horror",
-    "correct_answer": "au",
-    "is_correct": false
-},
-{
-    "question": "What country is Bangkok?",
-    "answer": "thailand",
-    "correct_answer": "tha",
-    "is_correct": true
-},
-{
-    "question": "Where is mount Athos-the Holy mountain?",
-    "answer": "greece",
-    "correct_answer": "greek republic",
-    "is_correct": false
-},
-{
-    "question": "What is the SI unit of magnetic induction called?",
-    "answer": "physical phenomenon",
-    "correct_answer": "tesla",
-    "is_correct": false
-},
-{
-    "question": "What fate awaited Hitler?",
-    "answer": "world war ii",
-    "correct_answer": "killed by self",
-    "is_correct": false
-},
-{
-    "question": "Where does the Ussuri river flow?",
-    "answer": "arsenyevka river",
-    "correct_answer": "amur river",
-    "is_correct": false
-},
-{
-    "question": "Which river flows into the Dead sea?",
-    "answer": "world ocean",
-    "correct_answer": "river jordan",
-    "is_correct": false
-},
-{
-    "question": "What river is the city of Baghdad on?",
-    "answer": "baghdad vilayet",
-    "correct_answer": "tigris",
-    "is_correct": false
-},
-{
-    "question": "What day is Valentine's day celebrated?",
-    "answer": "day",
-    "correct_answer": "february 14",
-    "is_correct": false
-},
-{
-    "question": "In what land of Germany is the ancient city of Weimar, where the museums of Goethe, Schiller And Liszt are located?",
-    "answer": "germany",
-    "correct_answer": "thuringia",
-    "is_correct": false
-},
-{
-    "question": "What is the name of the monetary unit of Aomin (Macao)?",
-    "answer": "guangdong",
-    "correct_answer": "$",
-    "is_correct": false
-},
-{
-    "question": "What city was Ludwig van Beethoven born in?",
-    "answer": "berlin",
-    "correct_answer": "bonn",
-    "is_correct": false
-},
-{
-    "question": "Where was the great Russian self-taught inventor Ivan Petrovich Kulibin from?",
-    "answer": "soviet union",
-    "correct_answer": "nether novgorod",
-    "is_correct": false
-},
-{
-    "question": "What illness did Beethoven develop in the last years of his life?",
-    "answer": "naughty dog",
-    "correct_answer": "crohn disease",
-    "is_correct": false
-},
-{
-    "question": "What science fiction writer came up with the three laws of robotics?",
-    "answer": "peter farrelly",
-    "correct_answer": "isaac asimov",
-    "is_correct": false
-},
-{
-    "question": "What sport glorified the name of Sergey Bubka?",
-    "answer": "association football",
-    "correct_answer": "pole vault",
-    "is_correct": false
-},
-{
-    "question": "What musical instrument glorified Vera Dulova?",
-    "answer": "harp",
-    "correct_answer": "harfa",
-    "is_correct": false
-},
-{
-    "question": "Which country belongs to the island of Madeira, which gave the name to the strong wine of Madeira?",
-    "answer": "united states of america",
-    "correct_answer": "\ud83c\uddf5\ud83c\uddf9",
-    "is_correct": false
-},
-{
-    "question": "What an animal (and only it!) produces the ambergris?",
-    "answer": "jack rapke",
-    "correct_answer": "sperm whale",
-    "is_correct": false
-},
-{
-    "question": "Where is the Rockefeller Plateau?",
-    "answer": "united states of america",
-    "correct_answer": "antarctica",
-    "is_correct": false
-},
-{
-    "question": "Who was the famous Greek Aristotle, who lived in the IV century BC?",
-    "answer": "stageira",
-    "correct_answer": "philosopher",
-    "is_correct": false
-},
-{
-    "question": "Which city is the capital of the Republic of Buryatia?",
-    "answer": "syktyvkar",
-    "correct_answer": "verkhneudinsk",
-    "is_correct": false
-},
-{
-    "question": "Where is the Iberian Peninsula located?",
-    "answer": "spain",
-    "correct_answer": "old continent",
-    "is_correct": false
-},
-{
-    "question": "Where is the Plesetsk cosmodrome located?",
-    "answer": "soviet union",
-    "correct_answer": "arkhangelsk oblast",
-    "is_correct": false
-},
-{
-    "question": "Which city is the capital of Chuvashia?",
-    "answer": "cheboksary",
-    "correct_answer": "cheboksary",
-    "is_correct": true
-},
-{
-    "question": "What was Munchausen's title?",
-    "answer": "allemande",
-    "correct_answer": "baron",
-    "is_correct": false
-},
-{
-    "question": "What science studies the atmosphere and its composition?",
-    "answer": "don\u2019t nod",
-    "correct_answer": "meteorology",
-    "is_correct": false
-},
-{
-    "question": "What metal is necessarily present in the amalgam?",
-    "answer": "speed metal",
-    "correct_answer": "hg",
-    "is_correct": false
-},
-{
-    "question": "The country in which the population was horrified by the TONTON-makuty?",
-    "answer": "united kingdom",
-    "correct_answer": "republic of haiti",
-    "is_correct": false
-},
-{
-    "question": "What was the name of the capital of the Aztec state?",
-    "answer": "tenochtitlan",
-    "correct_answer": "tenochtitlan [m\u00e9xico]",
-    "is_correct": false
-},
-{
-    "question": "In which city is the airport named after John Lennon",
-    "answer": "new york city",
-    "correct_answer": "liverpool",
-    "is_correct": false
-},
-{
-    "question": "Who is credited with discovering the path of human evolution?",
-    "answer": "jean-baptiste de lamarck",
-    "correct_answer": "darwin",
-    "is_correct": false
-},
-{
-    "question": "What forms of the earth's surface does the speleologist study?",
-    "answer": "fictional planet",
-    "correct_answer": "cave",
-    "is_correct": false
-},
-{
-    "question": "Who created the site in Contact?",
-    "answer": "carl sagan",
-    "correct_answer": "durov",
-    "is_correct": false
-},
-{
-    "question": "What river is the city of Saratov on?",
-    "answer": "syzranka",
-    "correct_answer": "river volga",
-    "is_correct": false
-},
-{
-    "question": "In what field of science did Sofia Kovalevskaya's outstanding abilities manifest themselves?",
-    "answer": "physicist",
-    "correct_answer": "math",
-    "is_correct": false
-},
-{
-    "question": "Who wrote the text of the Russian anthem \"God save the Tsar\"?",
-    "answer": "vasily zhukovsky",
-    "correct_answer": "vasily andreyevich zhukovsky",
-    "is_correct": false
-},
-{
-    "question": "Which country does the Shantar Islands belong to?",
-    "answer": "people's republic of china",
-    "correct_answer": "rus",
-    "is_correct": false
-},
-{
-    "question": "What time of year does the 2nd month of the French Republican Brumaire calendar correspond to?",
-    "answer": "utc+01:00",
-    "correct_answer": "fall",
-    "is_correct": false
-},
-{
-    "question": "What river is Tver on?",
-    "answer": "volga",
-    "correct_answer": "river volga",
-    "is_correct": false
-},
-{
-    "question": "What is the official language of Ethiopia?",
-    "answer": "amharic",
-    "correct_answer": "amharic",
-    "is_correct": true
-},
-{
-    "question": "What river is the city of Prague on?",
-    "answer": "vltava",
-    "correct_answer": "moldau",
-    "is_correct": false
-},
-{
-    "question": "Which city is the administrative center (capital) of the state of Texas?",
-    "answer": "shelby county",
-    "correct_answer": "austin, texas",
-    "is_correct": false
-},
-{
-    "question": "One of the fighters for civil rights belongs to the phrase \"I Have a dream...\"?",
-    "answer": "civil and political rights",
-    "correct_answer": "mlk jr",
-    "is_correct": false
-},
-{
-    "question": "What river is Minsk on?",
-    "answer": "nyamiha river",
-    "correct_answer": "svislach",
-    "is_correct": false
-},
-{
-    "question": "Which city is the capital of the Swiss Confederation?",
-    "answer": "bern",
-    "correct_answer": "bern",
-    "is_correct": true
-},
-{
-    "question": "In which constellation is the brightest star called VEGA?",
-    "answer": "lyra",
-    "correct_answer": "lyra",
-    "is_correct": true
-},
-{
-    "question": "In what city did the collaborationist Petain government settle during the occupation of France by German troops?",
-    "answer": "vichy france",
-    "correct_answer": "vichy",
-    "is_correct": true
-},
-{
-    "question": "What type of ship was the Korean that fought bravely with the Varangian against the Japanese squadron?",
-    "answer": "world war ii",
-    "correct_answer": "gunboat",
-    "is_correct": false
-},
-{
-    "question": "What are the names of Armenian banknotes?",
-    "answer": "diaspora",
-    "correct_answer": "armenian dram",
-    "is_correct": false
-},
-{
-    "question": "What unit in the SI system is named after the inventor Nikola Tesla?",
-    "answer": "nikola tesla",
-    "correct_answer": "magnetic induction",
-    "is_correct": false
-},
-{
-    "question": "Who wrote the fairy tale \"the Sleeping Princess\"?",
-    "answer": "romance",
-    "correct_answer": "vasily andreyevich zhukovsky",
-    "is_correct": false
-},
-{
-    "question": "What country is the city of Antwerp located in?",
-    "answer": "belgium",
-    "correct_answer": "\ud83c\udde7\ud83c\uddea",
-    "is_correct": false
-},
-{
-    "question": "In what city was born the famous actress Faina Ranevskaya?",
-    "answer": "taganrog",
-    "correct_answer": "taganrog",
-    "is_correct": true
-},
-{
-    "question": "In what city was the prophet Muhammad (Mohammed) born?",
-    "answer": "mecca",
-    "correct_answer": "holy city of mecca",
-    "is_correct": false
-},
-{
-    "question": "What style did the architect Rastrelli work in?",
-    "answer": "sculptor",
-    "correct_answer": "baroque",
-    "is_correct": false
-},
-{
-    "question": "In what city is the novel of T. Mann \"Buddenbrooks\"",
-    "answer": "travem\u00fcnde",
-    "correct_answer": "lybeck",
-    "is_correct": false
-},
-{
-    "question": "What was the name of don Quixote's horse?",
-    "answer": "teenage mutant ninja turtles universe",
-    "correct_answer": "rocinante",
-    "is_correct": false
-},
-{
-    "question": "Where does the Royal house of Bernadotte rule?",
-    "answer": "gr\u00f6dinge parish",
-    "correct_answer": "sweden",
-    "is_correct": false
-},
-{
-    "question": "On which river is the famous Victoria falls located?",
-    "answer": "zambezi river",
-    "correct_answer": "zambesi",
-    "is_correct": false
-},
-{
-    "question": "What are the names of Armenian banknotes?",
-    "answer": "diaspora",
-    "correct_answer": "armenian dram",
-    "is_correct": false
-},
-{
-    "question": "What unit in the SI system is named after the inventor Nikola Tesla?",
-    "answer": "nikola tesla",
-    "correct_answer": "magnetic induction",
-    "is_correct": false
-},
-{
-    "question": "Who wrote the fairy tale \"the Sleeping Princess\"?",
-    "answer": "romance",
-    "correct_answer": "vasily andreyevich zhukovsky",
-    "is_correct": false
-},
-{
-    "question": "What country is the city of Antwerp located in?",
-    "answer": "belgium",
-    "correct_answer": "\ud83c\udde7\ud83c\uddea",
-    "is_correct": false
-},
-{
-    "question": "In what city was born the famous actress Faina Ranevskaya?",
-    "answer": "taganrog",
-    "correct_answer": "taganrog",
-    "is_correct": true
-},
-{
-    "question": "In what city was the prophet Muhammad (Mohammed) born?",
-    "answer": "mecca",
-    "correct_answer": "holy city of mecca",
-    "is_correct": false
-},
-{
-    "question": "What style did the architect Rastrelli work in?",
-    "answer": "sculptor",
-    "correct_answer": "baroque",
-    "is_correct": false
-},
-{
-    "question": "In what city is the novel of T. Mann \"Buddenbrooks\"",
-    "answer": "travem\u00fcnde",
-    "correct_answer": "lybeck",
-    "is_correct": false
-},
-{
-    "question": "What was the name of don Quixote's horse?",
-    "answer": "teenage mutant ninja turtles universe",
-    "correct_answer": "rocinante",
-    "is_correct": false
-},
-{
-    "question": "Where does the Royal house of Bernadotte rule?",
-    "answer": "gr\u00f6dinge parish",
-    "correct_answer": "sweden",
-    "is_correct": false
-},
-{
-    "question": "On which river is the famous Victoria falls located?",
-    "answer": "zambezi river",
-    "correct_answer": "zambesi",
-    "is_correct": false
-},
-{
-    "question": "Which city is the capital of the state of Alaska?",
-    "answer": "juneau",
-    "correct_answer": "juneau",
-    "is_correct": true
-},
-{
-    "question": "In some of the countries there are the resorts Sunny Day and Sunny Beach?",
-    "answer": "united states of america",
-    "correct_answer": "bulgaria",
-    "is_correct": false
-},
-{
-    "question": "Which country's son was Edmund Hillary, the first to conquer Everest with Sherpa N. Tenzing?",
-    "answer": "united states of america",
-    "correct_answer": "nz",
-    "is_correct": false
-},
-{
-    "question": "What island is the Fujiyama volcano located on?",
-    "answer": "japan",
-    "correct_answer": "honsh\u016b",
-    "is_correct": false
-},
-{
-    "question": "What is the playing role of the football player Igor Akinfeev?",
-    "answer": "goalkeeper",
-    "correct_answer": "football goalkeeper",
-    "is_correct": false
-},
-{
-    "question": "In which city the action is the story of Mark TWAIN's \"the Prince and the pauper\"?",
-    "answer": "united states of america",
-    "correct_answer": "london",
-    "is_correct": false
-},
-{
-    "question": "In which city is the Prado Museum located?",
-    "answer": "berlin-mitte",
-    "correct_answer": "madrid, spain",
-    "is_correct": false
-},
-{
-    "question": "Where is Tantalum cave?",
-    "answer": "chemical element",
-    "correct_answer": "at",
-    "is_correct": false
-},
-{
-    "question": "Which band recorded the musical album \"Actress Spring\"?",
-    "answer": "public image ltd.",
-    "correct_answer": "ddt",
-    "is_correct": false
-},
-{
-    "question": "Who was formulated the law that for every action there is an equal and opposite reaction?",
-    "answer": "robert recorde",
-    "correct_answer": "i. newton",
-    "is_correct": false
-},
-{
-    "question": "Which composer wrote the first Soviet rock Opera \"Orpheus and Eurydice\"?",
-    "answer": "alexander zhurbin",
-    "correct_answer": "alexander zhurbin",
-    "is_correct": true
-},
-{
-    "question": "What was the name of Rembrandt's wife?",
-    "answer": "titus van rijn",
-    "correct_answer": "saskia van uylenburch",
-    "is_correct": false
-},
-{
-    "question": "Which artist was criticized by French high society for the scandalous \"Portrait of Madame X\"?",
-    "answer": "evening dress",
-    "correct_answer": "sargent",
-    "is_correct": false
-},
-{
-    "question": "In what theater does O. Basilashvili play?",
-    "answer": "1922 encyclop\u00e6dia britannica",
-    "correct_answer": "suvorin theatre",
-    "is_correct": false
-},
-{
-    "question": "In what sea is the Yamal Peninsula located?",
-    "answer": "mediterranean sea",
-    "correct_answer": "kara sea",
-    "is_correct": false
-},
-{
-    "question": "Which branch of philosophy includes the study of ethics and aesthetics?",
-    "answer": "philosophy",
-    "correct_answer": "axiology",
-    "is_correct": false
-},
-{
-    "question": "Who wrote the music for the song \"Moscow nights\"?",
-    "answer": "vasily solovyov-sedoi",
-    "correct_answer": "vasily solovyov-sedoi",
-    "is_correct": true
-},
-{
-    "question": "Russian Russian seasons, which made Russian ballet famous at the beginning of the XX century, were organized by who?",
-    "answer": "state anthem of the russian federation",
-    "correct_answer": "serge de diaghilev",
-    "is_correct": false
-},
-{
-    "question": "What country does the island of Elba belong to-the place of Napoleon's exile?",
-    "answer": "united kingdom",
-    "correct_answer": "ita",
-    "is_correct": false
-},
-{
-    "question": "What country is Banff national Park located in?",
-    "answer": "united states of america",
-    "correct_answer": "\ud83c\udde8\ud83c\udde6",
-    "is_correct": false
-},
-{
-    "question": "Who was Ivan the terrible's mother?",
-    "answer": "feodor i of russia",
-    "correct_answer": "elena glinskaya",
-    "is_correct": false
-},
-{
-    "question": "What is the genre of Pushkin's \"captain's daughter\"?",
-    "answer": "female",
-    "correct_answer": "historical novel",
-    "is_correct": false
-},
-{
-    "question": "What kind of sport was the famous tenor Zurab Sotkilava professionally engaged in?",
-    "answer": "association football",
-    "correct_answer": "association football",
-    "is_correct": true
-},
-{
-    "question": "Which country belongs to the Bocas del Toro archipelago, where the last hero is being filmed?",
-    "answer": "united kingdom",
-    "correct_answer": "panama",
-    "is_correct": false
-},
-{
-    "question": "Which mountain is the highest point of the Caucasus?",
-    "answer": "caucasus mountains",
-    "correct_answer": "mount elbrus",
-    "is_correct": false
-},
-{
-    "question": "Who is the author of the musical fantasy \"animal Carnival\"?",
-    "answer": "maksim dunayevsky",
-    "correct_answer": "camille saint-saens",
-    "is_correct": false
-},
-{
-    "question": "In which country has the leftist terrorist organization Sendero Luminoso been rampaging for many years?",
-    "answer": "european union",
-    "correct_answer": "\ud83c\uddf5\ud83c\uddea",
-    "is_correct": false
-},
-{
-    "question": "In which country does the Orange river flow?",
-    "answer": "lesotho",
-    "correct_answer": "south africa",
-    "is_correct": false
-},
-{
-    "question": "Which singer married the captain of the football team \"Zenit\" Vladislav Radimov?",
-    "answer": "gazprom",
-    "correct_answer": "tatyana ivanovna bulanova",
-    "is_correct": false
-},
-{
-    "question": "In what country is the temple complex Angkorwat?",
-    "answer": "india",
-    "correct_answer": "cambodia",
-    "is_correct": false
-},
-{
-    "question": "Which country does the .co top-level domain belong to?",
-    "answer": "united states of america",
-    "correct_answer": "republic of colombia",
-    "is_correct": false
-},
-{
-    "question": "Who invented the phonograph, a device for recording and reproducing voice?",
-    "answer": "thomas edison",
-    "correct_answer": "thomas alva edison",
-    "is_correct": false
-},
-{
-    "question": "Which of the cosmonauts participated in the joint Soyuz - Apollo flight with the United States?",
-    "answer": "arnaldo tamayo m\u00e9ndez",
-    "correct_answer": "alexey leonov",
-    "is_correct": false
-},
-{
-    "question": "Who was the famous physicist Niels Bohr in his football role?",
-    "answer": "soccer player",
-    "correct_answer": "football goalkeeper",
-    "is_correct": false
-},
-{
-    "question": "What river flows through the Grand Canyon in the United States?",
-    "answer": "atlantic ocean",
-    "correct_answer": "colorado river",
-    "is_correct": false
-},
-{
-    "question": "Which team was the last champion of the USSR on football?",
-    "answer": "supreme soviet of the soviet union",
-    "correct_answer": "professional football club central sports club of army moscow",
-    "is_correct": false
-},
-{
-    "question": "Which city is the capital of Kiribati?",
-    "answer": "south tarawa",
-    "correct_answer": "south tarawa",
-    "is_correct": true
-},
-{
-    "question": "Which city is the capital of Swaziland?",
-    "answer": "mbabane",
-    "correct_answer": "mbabane",
-    "is_correct": true
-},
-{
-    "question": "What religion do the Crimean believers belong to?",
-    "answer": "sunni islam",
-    "correct_answer": "judaism",
-    "is_correct": false
-},
-{
-    "question": "In what country is mount Kosciuszko located?",
-    "answer": "people's republic of china",
-    "correct_answer": "straya",
-    "is_correct": false
-},
-{
-    "question": "In which country was the FLAMENCO dance born?",
-    "answer": "spain",
-    "correct_answer": "\ud83c\uddea\ud83c\uddf8",
-    "is_correct": false
-},
-{
-    "question": "What physical quantity is measured in Newtons per meter?",
-    "answer": "kilolitre",
-    "correct_answer": "torque",
-    "is_correct": false
-},
-{
-    "question": "Where are the Carlsbad caves?",
-    "answer": "san diego county",
-    "correct_answer": "the usa",
-    "is_correct": false
-},
+[
+    {
+        "question": "What can cause a tsunami?",
+        "answer": "unnatural death",
+        "correct_answer": "seism earthquake seismic activity fore shocks tremor earthquakes earth quake earthtemblor foreshock aftershock quake temblor earth temblor foreshocks after shocks earth quakes after shock earthtremor convulsion earth tremor shock fore shock aftershocks ",
+        "is_correct": false
+    },
+    {
+        "question": "Who wrote the novel \"uncle Tom's Cabin\"?",
+        "answer": "harriet beecher stowe",
+        "correct_answer": "christopher crowfield harriet elizabeth beecher stowe enrieta elizabeth beecher stowe harriet beecher stowe ",
+        "is_correct": true
+    },
+    {
+        "question": "Who is the author of the play \"Romeo and Juliet\"?",
+        "answer": "william shakespeare",
+        "correct_answer": "the bard swan of avon the bard of avon bard of avon shakespeare william shake\u2010\u017fpeare shakspeare shackspeare william shakespeare william shakspere shakespere shakespear ",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the capital of Romania?",
+        "answer": "tekirda\u011f",
+        "correct_answer": "paris of the east bucure\u0219ti bucure\u015fti little paris bucharest bucuresti ",
+        "is_correct": false
+    },
+    {
+        "question": "What instrument did Jimi Hendrix play?",
+        "answer": "guitar",
+        "correct_answer": "guitar ",
+        "is_correct": true
+    },
+    {
+        "question": "What country owns the island of Tahiti?",
+        "answer": "france",
+        "correct_answer": "fr la france fra france french republic republic of france fr r\u00e9publique fran\u00e7aise ",
+        "is_correct": true
+    },
+    {
+        "question": "Which country does the Canary Islands belong to?",
+        "answer": "spain",
+        "correct_answer": "\ud83c\uddea\ud83c\uddf8 kingdom of spain spain es espa\u00f1a esp ",
+        "is_correct": true
+    },
+    {
+        "question": "What geographical feature is called Limpopo?",
+        "answer": "waterberg district municipality",
+        "correct_answer": "rivers river ",
+        "is_correct": false
+    },
+    {
+        "question": "What modern state occupies the territory where the ancient Assyrian city of Nineveh was located?",
+        "answer": "iraq",
+        "correct_answer": "\ud83c\uddee\ud83c\uddf6 jumh\u016briyyat al-\u2018ir\u0101q iq irq komar-i \u2018\u00earaq republic of iraq al-\u2018ir\u0101q iraq ",
+        "is_correct": true
+    },
+    {
+        "question": "What scale is used to measure the strength of earthquakes?",
+        "answer": "crewed spacecraft",
+        "correct_answer": "richter scale richter magnitude scale local magnitude scale ",
+        "is_correct": false
+    },
+    {
+        "question": "In which country did the game of Golf first appear?",
+        "answer": "scotland",
+        "correct_answer": "sct scot scotland alba scotland, united kingdom caledonia ",
+        "is_correct": true
+    },
+    {
+        "question": "What kind of sport was Russian President Vladimir Putin interested in?",
+        "answer": "chess",
+        "correct_answer": "judo ",
+        "is_correct": false
+    },
+    {
+        "question": "What was Severus Snape's father's name?",
+        "answer": "flavius severianus",
+        "correct_answer": "tobias snape ",
+        "is_correct": false
+    },
+    {
+        "question": "What was Draco's son's name?",
+        "answer": "scorpius malfoy",
+        "correct_answer": "scorpius hyperion malfoy scorpius malfoy ",
+        "is_correct": true
+    },
+    {
+        "question": "What was Severus Snape's mother's name?",
+        "answer": "flavius severianus",
+        "correct_answer": "eileen prince ",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of the Creator of the faculty of Ravenclaw (Ravenclaw)?",
+        "answer": "virginia madsen",
+        "correct_answer": "rowena ravenclaw ",
+        "is_correct": false
+    },
+    {
+        "question": "What was Hagrid's dragon's name?",
+        "answer": "magizoologist",
+        "correct_answer": "norberta ",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the author of the historical novel 'Princess Tarakanova'?",
+        "answer": "antonin artaud",
+        "correct_answer": "grigory danilevsky ",
+        "is_correct": false
+    },
+    {
+        "question": "What color is the paint \"Indigo\"?",
+        "answer": "television character",
+        "correct_answer": "blue blue (rgb) (x11 blue) x11 blue color blue blue x11 blue blue color blue  x11 blue blue (rgb) ",
+        "is_correct": false
+    },
+    {
+        "question": "What language does Rasul Gamzatov write poetry in?",
+        "answer": "avar",
+        "correct_answer": "russian \u0440\u0443\u0441\u0441\u043a\u0438\u0439 ru russian language ",
+        "is_correct": false
+    },
+    {
+        "question": "What Strait did the ancient Greeks call the\"pillars of Hercules\"?",
+        "answer": "united kingdom",
+        "correct_answer": "straits of gibraltar strog strait of gibraltar ",
+        "is_correct": false
+    },
+    {
+        "question": "What country is the name of the BRILLIANT PORT associated with?",
+        "answer": "united states of america",
+        "correct_answer": "turkey tr \ud83c\uddf9\ud83c\uddf7 tur republic of turkey ",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the author of the music for the film \"Alexander Nevsky\"?",
+        "answer": "sergei prokofiev",
+        "correct_answer": "sergei sergeyevich prokofiev sergiusz prokofiew sergej prokofjev prokofiev sergey prokofiev serge sergevitch prokofieff serge prokofiev sergei prokofiev sergej sergeevi\u010d prokof\u02b9ev 00525444854 ipi serge prokofieff ",
+        "is_correct": true
+    },
+    {
+        "question": "What country do the Khmer people live in?",
+        "answer": "united states of america",
+        "correct_answer": "cambodia kingdom of cambodia kamboja kh campuchia kambodzha \ud83c\uddf0\ud83c\udded kampuchea camboya ",
+        "is_correct": false
+    },
+    {
+        "question": "What country is mount Everest located in?",
+        "answer": "people's republic of china",
+        "correct_answer": "cn prc \ud83c\udde8\ud83c\uddf3 china cn pr china communist china chn people's republic of china ",
+        "is_correct": true
+    },
+    {
+        "question": "What country is the city of Semipalatinsk located in?",
+        "answer": "russian republic",
+        "correct_answer": "kazakhstan qazaqstan kz \ud83c\uddf0\ud83c\uddff republic of kazakhstan kaz ",
+        "is_correct": false
+    },
+    {
+        "question": "In which country are the two great rivers \u2013 the Tigris and the Euphrates-located?",
+        "answer": "turkey",
+        "correct_answer": "turkey tr \ud83c\uddf9\ud83c\uddf7 tur republic of turkey ",
+        "is_correct": true
+    },
+    {
+        "question": "What country does the kangaroo live in?",
+        "answer": "united states of america",
+        "correct_answer": "straya \ua737 au british colony of australia commonwealth of australia australia au aus ",
+        "is_correct": false
+    },
+    {
+        "question": "In which U.S. state is the Grand Canyon located?",
+        "answer": "hall county",
+        "correct_answer": "the grand canyon state az arizona state of arizona ",
+        "is_correct": false
+    },
+    {
+        "question": "In what sport was E. Kafelnikov famous?",
+        "answer": "tennis player",
+        "correct_answer": "lawntennis tennis lawn tennis ",
+        "is_correct": false
+    },
+    {
+        "question": "In which state is the city of St. Petersburg located?",
+        "answer": "petersburg borough",
+        "correct_answer": "the usa u.s.a. us u. s. the united states the us usa america united states of america u. s. a. u.s. united states the united states of america the states us of a ",
+        "is_correct": false
+    },
+    {
+        "question": "In which Polish city was the birthplace of the \"Solidarity\"movement?",
+        "answer": "p\u0142ock",
+        "correct_answer": "gda\u0144sk danzig dantzig ",
+        "is_correct": false
+    },
+    {
+        "question": "In which novel by Francois Rabelais, the main character was accompanied by a character named Panurge?",
+        "answer": "gargantua and pantagruel",
+        "correct_answer": "gargantua and pantagruel pantagruel ",
+        "is_correct": true
+    },
+    {
+        "question": "From what breed of fish was the aquarium goldfish bred in ancient China?",
+        "answer": "chorotypidae",
+        "correct_answer": "carassius ",
+        "is_correct": false
+    },
+    {
+        "question": "What dynasty did Richard the Lionheart belong to?",
+        "answer": "house of plantagenet",
+        "correct_answer": "angevin dynasty house of plantagenet plantagenet dynasty ",
+        "is_correct": true
+    },
+    {
+        "question": "What was the name of Alexander the great's horse?",
+        "answer": "dhul-qarnayn",
+        "correct_answer": "bucephalus ",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of Alexander the great's mother?",
+        "answer": "grand duke sergei alexandrovich of russia",
+        "correct_answer": "olympiada olympias olympiada anayka ",
+        "is_correct": false
+    },
+    {
+        "question": "How else is Christmas eve called?",
+        "answer": "american television sitcom",
+        "correct_answer": "christmas eve ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the administrative center of the state of Alaska?",
+        "answer": "unorganized borough",
+        "correct_answer": "juneau juneau, alaska juneau, ak ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the title of Karl Marx's main work?",
+        "answer": "the german ideology",
+        "correct_answer": "communist manifesto the communist manifesto ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the capital of Cambodia?",
+        "answer": "phnom penh",
+        "correct_answer": "phnom penh ",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of money in Honduras?",
+        "answer": "latin america",
+        "correct_answer": "honduran lempira ",
+        "is_correct": false
+    },
+    {
+        "question": "What city on the black sea coast was called Kafa?",
+        "answer": "oromia region",
+        "correct_answer": "feodosia theodosia feodosiia kefe feodosiya feodossia ",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is located on the southern shore of the Golden Gate Strait?",
+        "answer": "san francisco",
+        "correct_answer": "san francisco sfo san francisco county san francisco, california the city by the bay city and county of san francisco sf baghdad by the bay san fran the golden city san francisco county, california frisco paris of the west ",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is the administrative center of the state of new York?",
+        "answer": "york county",
+        "correct_answer": "albany, new york albany ",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is the capital of Nigeria?",
+        "answer": "abuja",
+        "correct_answer": "abuja ",
+        "is_correct": true
+    },
+    {
+        "question": "What musical instrument made Louis Armstrong's name famous?",
+        "answer": "cornet",
+        "correct_answer": "trumpet ",
+        "is_correct": false
+    },
+    {
+        "question": "Which country does KLM belong to?",
+        "answer": "netherlands",
+        "correct_answer": "the netherlands netherlands (after 1945) netherlands ned nederland holland nl \ud83c\uddf3\ud83c\uddf1 nl ",
+        "is_correct": true
+    },
+    {
+        "question": "What Museum is the \"Mona Lisa\" by the great Leonardo?",
+        "answer": "louvre museum",
+        "correct_answer": "france. musee du louvre paris france. mus\u00e9e du louvre paris musee national du louvre the louvre louvre mus\u00e9e du louvre musee napoleon the louvre museum mus\u00e9e national du louvre louvre museum musee du louvre mus\u00e9e napol\u00e9on ",
+        "is_correct": true
+    },
+    {
+        "question": "What path did the Frenchman Michel de Montaigne choose in the fifth decade, after having had a good fight on the side of Henry IV, what did he become?",
+        "answer": "battle of cholet",
+        "correct_answer": "writers writer author authors ",
+        "is_correct": false
+    },
+    {
+        "question": "What country did the Romans call \"Caledonia\"?",
+        "answer": "united kingdom",
+        "correct_answer": "sct scot scotland alba scotland, united kingdom caledonia ",
+        "is_correct": true
+    },
+    {
+        "question": "To whom do the words \"and you, Brutus\" belong?",
+        "answer": "michelangelo",
+        "correct_answer": "gaius julius caesar iv gaio giulio cesare gayo julio cesar gaius iulius caesar caio giulio cesare iulius caesar gaius julius caesar julius caesar caesar gaius julius c. f. c. n. caesar divus julius juliusz cezar imperator gaius julius gaii filius gaii nepos caesar patris patriae ",
+        "is_correct": false
+    },
+    {
+        "question": "To whom do the words \"I think, therefore I exist\" belong?",
+        "answer": "english",
+        "correct_answer": "cartesius renatus cartesius descartes ren\u00e9 descartes ",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the author of the novel \"Spartacus\"?",
+        "answer": "howard fast",
+        "correct_answer": "raffaello giovagnoli ",
+        "is_correct": false
+    },
+    {
+        "question": "Who laid the foundations of Cybernetics?",
+        "answer": "norbert wiener",
+        "correct_answer": "norbert viner norbert vineris norbert wiener ",
+        "is_correct": true
+    },
+    {
+        "question": "Who wrote the story-tale \"the adventures of Pinocchio\"?",
+        "answer": "carlo collodi",
+        "correct_answer": "carlo lorenzini carlo collodi ",
+        "is_correct": true
+    },
+    {
+        "question": "Who wrote the poem \"Paradise Lost\"?",
+        "answer": "john milton",
+        "correct_answer": "john milton milton zh\u016bn milt\u016bn j\u0101n mil\u1e6dan giovanni milton \u012boann mil\u02b9ton joannes miltonus dzhon mil\u02b9ton gioanni milton j. m. ",
+        "is_correct": true
+    },
+    {
+        "question": "Who wrote the fairy tale \"Dwarf Nose\"?",
+        "answer": "wilhelm hauff",
+        "correct_answer": "wilhelm hauff ",
+        "is_correct": true
+    },
+    {
+        "question": "Who sailed on the papyrus boat \" RA \"and on the raft \"Kon-Tiki\"?",
+        "answer": "banks islands",
+        "correct_answer": "thor heyerdahl ",
+        "is_correct": false
+    },
+    {
+        "question": "Who came up with Alice Seleznev?",
+        "answer": "darya melnikova",
+        "correct_answer": "kir bulychov ",
+        "is_correct": false
+    },
+    {
+        "question": "Who invented the Commissioner Maigret.",
+        "answer": "bill finger",
+        "correct_answer": "georges simenon georges joseph christian simenon simenon ",
+        "is_correct": false
+    },
+    {
+        "question": "Who composed \"sabre Dance\"?",
+        "answer": "aram khachaturian",
+        "correct_answer": "aram khachaturian ",
+        "is_correct": true
+    },
+    {
+        "question": "Which music group was Fred mercury the leader of?",
+        "answer": "live aid",
+        "correct_answer": "queen ",
+        "is_correct": false
+    },
+    {
+        "question": "What planet was Luke Skywalker born on?",
+        "answer": "the force",
+        "correct_answer": "tatooine ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the capital of the Republic is Tegucigalpa?",
+        "answer": "sukhumi",
+        "correct_answer": "honduran republic republic of honduras hon honduras hn \ud83c\udded\ud83c\uddf3 ",
+        "is_correct": false
+    },
+    {
+        "question": "Which architect built St. Isaac's Cathedral in St. Petersburg?",
+        "answer": "peter the great",
+        "correct_answer": "oygust monferran auguste de montferrand ogi\ufe20u\ufe21st monferran ogyust monferran henri louis august ricard de montferrand auguste ricard de montferrand august ricard de montferrand henri louis auguste leger ricard henri louis auguste l\u00e9ger ricard ",
+        "is_correct": false
+    },
+    {
+        "question": "Which Russian poet was the husband of the famous dancer Isadora Duncan?",
+        "answer": "mercedes de acosta",
+        "correct_answer": "sergei yesenin ",
+        "is_correct": false
+    },
+    {
+        "question": "The country to which the \"Church\" wine owes its origin is Cahors",
+        "answer": "united states of america",
+        "correct_answer": "fr la france fra france french republic republic of france fr r\u00e9publique fran\u00e7aise ",
+        "is_correct": false
+    },
+    {
+        "question": "Which building in Hanoi was dubbed the Hanoi Hilton by American soldiers?",
+        "answer": "federal reserve system",
+        "correct_answer": "correctional facility penitentiary prison jail correctional institution jails correctional institutions penitentiaries prisons correctional facilities gaols gaol ",
+        "is_correct": false
+    },
+    {
+        "question": "Who said \"and you, Brutus\"?",
+        "answer": "konstantin fam",
+        "correct_answer": "gaius julius caesar iv gaio giulio cesare gayo julio cesar gaius iulius caesar caio giulio cesare iulius caesar gaius julius caesar julius caesar caesar gaius julius c. f. c. n. caesar divus julius juliusz cezar imperator gaius julius gaii filius gaii nepos caesar patris patriae ",
+        "is_correct": false
+    },
+    {
+        "question": "What country is the city of Bryansk located in?",
+        "answer": "soviet union",
+        "correct_answer": "rus rossijskaja federatsija ru russian federation rossiyskaya federatsiya rus rossiya russia rossija ru ",
+        "is_correct": false
+    },
+    {
+        "question": "In which theater did Vladimir Vysotsky perform?",
+        "answer": "moscow",
+        "correct_answer": "teatr na taganke taganka theatre ",
+        "is_correct": false
+    },
+    {
+        "question": "Where is Uttar Pradesh located",
+        "answer": "india",
+        "correct_answer": "\ud83c\uddee\ud83c\uddf3 bharatvarsh bharat in hindustan in republic of india india ind ",
+        "is_correct": true
+    },
+    {
+        "question": "What was Cain's brother's name?",
+        "answer": "enoch",
+        "correct_answer": "seth ",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of his brother Abel?",
+        "answer": "valdemar iii, duke of schleswig",
+        "correct_answer": "seth ",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of father Romulus, after whom the Romans even altered their calendar?",
+        "answer": "alypia",
+        "correct_answer": "mars god mars roman god mars ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the city in the United States where the world-famous Harvard University is located?",
+        "answer": "west point",
+        "correct_answer": "cambridge massachusetts cambridge ",
+        "is_correct": false
+    },
+    {
+        "question": "What is stamp collecting called?",
+        "answer": "psychological horror",
+        "correct_answer": "philately stamp collecting ",
+        "is_correct": false
+    },
+    {
+        "question": "What single combat brought the Hollywood star Jean-Claude van Damme the nickname \" muscles from Brussels\"",
+        "answer": "officer of the order of the crown",
+        "correct_answer": "karate-do karatedo karated\u014d karate-d\u014d karate-d\u00f4 karated\u00f4 karate ",
+        "is_correct": false
+    },
+    {
+        "question": "Which hero served as the prototype for A. Tolstoy to create the image of Pinocchio?",
+        "answer": "carlo collodi",
+        "correct_answer": "pinocchio ",
+        "is_correct": false
+    },
+    {
+        "question": "What artist made the zaporozhtzi write a letter to the Turkish Sultan?",
+        "answer": "ana bel\u00e9n",
+        "correct_answer": "ilja jefimovit\u0161 repin ilja jefimovi\u010d rjepin il\u02b9i\ufe20a\ufe21 efimovich ri\ufe20e\ufe21pin i. repin il'ya yefimovich repin elie r\u00e9pine illi\ufe20a\ufe21 i\ufe20a\ufe21fimavich r\u0117pin il'ja efimovic repin ilya repin il'ja efimovi\u010d repin ilja jefimowitsch rjepin ilja repin ilja jefimovic rjepin il'ya repin j. j. repin il'ia efimovich r\u00e9pine ilia e. repin ilja jefimowitsch repin ilia efimovich repin elias repin elie efimovitch riepin illja juchymovyc rjepin ilja jefimowitsch repine ilya yefimovich repin il'\ufe20i\ufe21a efimovich repin i. i\ufe20a\ufe21. r\u0117pin illi\ufe20a\ufe21 i\ufe20u\ufe21khymovych ri\ufe20e\ufe21pin i. e. ri\ufe20e\ufe21pin il\u02b9i\ufe20a\ufe21 efimovich repin repin il'ia efimovich repin elias efimovich repin ilja efimovic repin elie repine j. repin \u0438\u043b\u044c\u044f \u0435\u0444\u0438\u043c\u043e\u0432\u0438\u0447 \u0440\u0435\u043f\u0438\u043d ilja jefimovitsj repin ilja jofimowitsch repin, lebt in finnland beksajassen ilya efimovich repin i. e. repin ",
+        "is_correct": false
+    },
+    {
+        "question": "Which party is headed by Zhirinovsky (abbrev.)?",
+        "answer": "liberal democratic party of russia",
+        "correct_answer": "liberal democratic party of russia ldpr political party ldpr ",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the Achaean heroes of the Trojan war was the husband of Clytemnestra?",
+        "answer": "iphianassa",
+        "correct_answer": "agamemnon ",
+        "is_correct": false
+    },
+    {
+        "question": "What Chinese dynasty was founded by Xiao Yan",
+        "answer": "emperor of china",
+        "correct_answer": "liang dynasty southern liang dynasty ",
+        "is_correct": false
+    },
+    {
+        "question": "What happens if you transform napoleonder",
+        "answer": "psychological horror",
+        "correct_answer": "au aurum gold element 79 ",
+        "is_correct": false
+    },
+    {
+        "question": "What country is Bangkok?",
+        "answer": "thailand",
+        "correct_answer": "tha th kingdom of thailand \ud83c\uddf9\ud83c\udded siam land of smiles thailand ",
+        "is_correct": true
+    },
+    {
+        "question": "Where is mount Athos-the Holy mountain?",
+        "answer": "greece",
+        "correct_answer": "greek republic \ud83c\uddec\ud83c\uddf7 hellas hellenic republic el greece gre gr ",
+        "is_correct": true
+    },
+    {
+        "question": "What is the SI unit of magnetic induction called?",
+        "answer": "physical phenomenon",
+        "correct_answer": "tesla t ",
+        "is_correct": false
+    },
+    {
+        "question": "What fate awaited Hitler?",
+        "answer": "world war ii",
+        "correct_answer": "killed by self self-murder suicide ",
+        "is_correct": false
+    },
+    {
+        "question": "Where does the Ussuri river flow?",
+        "answer": "arsenyevka river",
+        "correct_answer": "amur river amur heilong jiang ",
+        "is_correct": false
+    },
+    {
+        "question": "Which river flows into the Dead sea?",
+        "answer": "world ocean",
+        "correct_answer": "river jordan jordan river ",
+        "is_correct": false
+    },
+    {
+        "question": "What river is the city of Baghdad on?",
+        "answer": "baghdad vilayet",
+        "correct_answer": "tigris ",
+        "is_correct": false
+    },
+    {
+        "question": "What day is Valentine's day celebrated?",
+        "answer": "day",
+        "correct_answer": "february 14 st valentines day 14th of february february 14th 14 february feb 14 ",
+        "is_correct": true
+    },
+    {
+        "question": "In what land of Germany is the ancient city of Weimar, where the museums of Goethe, Schiller And Liszt are located?",
+        "answer": "germany",
+        "correct_answer": "thuringia th\u00fcringen free state of thuringia ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the monetary unit of Aomin (Macao)?",
+        "answer": "guangdong",
+        "correct_answer": "$ hk$ hong kong dollar hkd ",
+        "is_correct": false
+    },
+    {
+        "question": "What city was Ludwig van Beethoven born in?",
+        "answer": "berlin",
+        "correct_answer": "bonn ",
+        "is_correct": false
+    },
+    {
+        "question": "Where was the great Russian self-taught inventor Ivan Petrovich Kulibin from?",
+        "answer": "soviet union",
+        "correct_answer": "nether novgorod nizhny nizhny novgorod gorky ",
+        "is_correct": false
+    },
+    {
+        "question": "What illness did Beethoven develop in the last years of his life?",
+        "answer": "naughty dog",
+        "correct_answer": "crohn disease crohn's disease regional ileocolitis regional enteritis of the large bowel crohn regional colitis regional ileitis regional enteritis regional enteritis of small intestine with large intestine pediatric crohn's disease granulomatous colitis crohn's disease of colon crohn's disease of colon (disorder) crohn's disease of large bowel ",
+        "is_correct": false
+    },
+    {
+        "question": "What science fiction writer came up with the three laws of robotics?",
+        "answer": "peter farrelly",
+        "correct_answer": "isaac asimov isaak osimov paul french asimov ",
+        "is_correct": false
+    },
+    {
+        "question": "What sport glorified the name of Sergey Bubka?",
+        "answer": "association football",
+        "correct_answer": "pole vault ",
+        "is_correct": false
+    },
+    {
+        "question": "What musical instrument glorified Vera Dulova?",
+        "answer": "harp",
+        "correct_answer": "harfa harp ",
+        "is_correct": true
+    },
+    {
+        "question": "Which country belongs to the island of Madeira, which gave the name to the strong wine of Madeira?",
+        "answer": "united states of america",
+        "correct_answer": "\ud83c\uddf5\ud83c\uddf9 portugal pt portuguese republic pt ",
+        "is_correct": false
+    },
+    {
+        "question": "What an animal (and only it!) produces the ambergris?",
+        "answer": "jack rapke",
+        "correct_answer": "sperm whale cachalot physeter macrocephalus sperm whale ",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the Rockefeller Plateau?",
+        "answer": "united states of america",
+        "correct_answer": "antarctica ",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the famous Greek Aristotle, who lived in the IV century BC?",
+        "answer": "stageira",
+        "correct_answer": "philosopher ",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is the capital of the Republic of Buryatia?",
+        "answer": "syktyvkar",
+        "correct_answer": "verkhneudinsk ulan-ude ",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the Iberian Peninsula located?",
+        "answer": "spain",
+        "correct_answer": "old continent europe ",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the Plesetsk cosmodrome located?",
+        "answer": "soviet union",
+        "correct_answer": "arkhangelsk oblast ",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is the capital of Chuvashia?",
+        "answer": "cheboksary",
+        "correct_answer": "cheboksary ",
+        "is_correct": true
+    },
+    {
+        "question": "What was Munchausen's title?",
+        "answer": "allemande",
+        "correct_answer": "baron baroness ",
+        "is_correct": false
+    },
+    {
+        "question": "What science studies the atmosphere and its composition?",
+        "answer": "don\u2019t nod",
+        "correct_answer": "meteorology ",
+        "is_correct": false
+    },
+    {
+        "question": "What metal is necessarily present in the amalgam?",
+        "answer": "speed metal",
+        "correct_answer": "hg quicksilver mercury hydrargyrum element 80 ",
+        "is_correct": false
+    },
+    {
+        "question": "The country in which the population was horrified by the TONTON-makuty?",
+        "answer": "united kingdom",
+        "correct_answer": "republic of haiti ht r\u00e9publique d'ha\u00efti \ud83c\udded\ud83c\uddf9 haiti hayti ht hai haitian republic ayiti ",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of the capital of the Aztec state?",
+        "answer": "tenochtitlan",
+        "correct_answer": "tenochtitlan [m\u00e9xico] tenochtitlan ",
+        "is_correct": true
+    },
+    {
+        "question": "In which city is the airport named after John Lennon",
+        "answer": "new york city",
+        "correct_answer": "liverpool city of liverpool ",
+        "is_correct": false
+    },
+    {
+        "question": "Who is credited with discovering the path of human evolution?",
+        "answer": "jean-baptiste de lamarck",
+        "correct_answer": "darwin charles robert darwin charles r. darwin charles darwin ",
+        "is_correct": false
+    },
+    {
+        "question": "What forms of the earth's surface does the speleologist study?",
+        "answer": "fictional planet",
+        "correct_answer": "cave cavern caves cave, grotto, cavern grotto ",
+        "is_correct": false
+    },
+    {
+        "question": "Who created the site in Contact?",
+        "answer": "carl sagan",
+        "correct_answer": "durov pavel durov ",
+        "is_correct": false
+    },
+    {
+        "question": "What river is the city of Saratov on?",
+        "answer": "syzranka",
+        "correct_answer": "river volga volga river volga ",
+        "is_correct": false
+    },
+    {
+        "question": "In what field of science did Sofia Kovalevskaya's outstanding abilities manifest themselves?",
+        "answer": "physicist",
+        "correct_answer": "math mathematics maths ",
+        "is_correct": false
+    },
+    {
+        "question": "Who wrote the text of the Russian anthem \"God save the Tsar\"?",
+        "answer": "vasily zhukovsky",
+        "correct_answer": "vasily andreyevich zhukovsky vasily zhukovsky vassili zhukovsky ",
+        "is_correct": true
+    },
+    {
+        "question": "Which country does the Shantar Islands belong to?",
+        "answer": "people's republic of china",
+        "correct_answer": "rus rossijskaja federatsija ru russian federation rossiyskaya federatsiya rus rossiya russia rossija ru ",
+        "is_correct": false
+    },
+    {
+        "question": "What time of year does the 2nd month of the French Republican Brumaire calendar correspond to?",
+        "answer": "utc+01:00",
+        "correct_answer": "fall fall season autumntime autumn season falltime autumntime season autumn ",
+        "is_correct": false
+    },
+    {
+        "question": "What river is Tver on?",
+        "answer": "volga",
+        "correct_answer": "river volga volga river volga ",
+        "is_correct": true
+    },
+    {
+        "question": "What is the official language of Ethiopia?",
+        "answer": "amharic",
+        "correct_answer": "amharic ",
+        "is_correct": true
+    },
+    {
+        "question": "What river is the city of Prague on?",
+        "answer": "vltava",
+        "correct_answer": "moldau vltava ",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is the administrative center (capital) of the state of Texas?",
+        "answer": "shelby county",
+        "correct_answer": "austin, texas austin ",
+        "is_correct": false
+    },
+    {
+        "question": "One of the fighters for civil rights belongs to the phrase \"I Have a dream...\"?",
+        "answer": "civil and political rights",
+        "correct_answer": "mlk jr michael king michael king jr. mlk martin luther king jr. dr. king dr mlk jr martin luther king martin luther, jr. king m.l. king ",
+        "is_correct": false
+    },
+    {
+        "question": "What river is Minsk on?",
+        "answer": "nyamiha river",
+        "correct_answer": "svislach svislach river svisla\u010d ",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is the capital of the Swiss Confederation?",
+        "answer": "bern",
+        "correct_answer": "bern berna berne city of bern ",
+        "is_correct": true
+    },
+    {
+        "question": "In which constellation is the brightest star called VEGA?",
+        "answer": "lyra",
+        "correct_answer": "lyra lyrae lyr ",
+        "is_correct": true
+    },
+    {
+        "question": "In what city did the collaborationist Petain government settle during the occupation of France by German troops?",
+        "answer": "vichy france",
+        "correct_answer": "vichy ",
+        "is_correct": false
+    },
+    {
+        "question": "What type of ship was the Korean that fought bravely with the Varangian against the Japanese squadron?",
+        "answer": "world war ii",
+        "correct_answer": "gunboat gunvessel ",
+        "is_correct": false
+    },
+    {
+        "question": "What are the names of Armenian banknotes?",
+        "answer": "diaspora",
+        "correct_answer": "armenian dram ",
+        "is_correct": false
+    },
+    {
+        "question": "What unit in the SI system is named after the inventor Nikola Tesla?",
+        "answer": "nikola tesla",
+        "correct_answer": "magnetic induction magnetic flux density b-field ",
+        "is_correct": false
+    },
+    {
+        "question": "Who wrote the fairy tale \"the Sleeping Princess\"?",
+        "answer": "romance",
+        "correct_answer": "vasily andreyevich zhukovsky vasily zhukovsky vassili zhukovsky ",
+        "is_correct": false
+    },
+    {
+        "question": "What country is the city of Antwerp located in?",
+        "answer": "belgium",
+        "correct_answer": "\ud83c\udde7\ud83c\uddea be bel belgium kingdom of belgium ",
+        "is_correct": true
+    },
+    {
+        "question": "In what city was born the famous actress Faina Ranevskaya?",
+        "answer": "taganrog",
+        "correct_answer": "taganrog ",
+        "is_correct": true
+    },
+    {
+        "question": "In what city was the prophet Muhammad (Mohammed) born?",
+        "answer": "mecca",
+        "correct_answer": "holy city of mecca mother of all settlements makkah umm al-qur\u0101 mecca bakkah makkah al-mukarramah the holy city of mecca ",
+        "is_correct": true
+    },
+    {
+        "question": "What style did the architect Rastrelli work in?",
+        "answer": "sculptor",
+        "correct_answer": "baroque ",
+        "is_correct": false
+    },
+    {
+        "question": "In what city is the novel of T. Mann \"Buddenbrooks\"",
+        "answer": "travem\u00fcnde",
+        "correct_answer": "lybeck hanseatic city of l\u00fcbeck l\u00fcbeck lubeck kreisfreie stadt l\u00fcbeck ",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of don Quixote's horse?",
+        "answer": "teenage mutant ninja turtles universe",
+        "correct_answer": "rocinante ",
+        "is_correct": false
+    },
+    {
+        "question": "Where does the Royal house of Bernadotte rule?",
+        "answer": "gr\u00f6dinge parish",
+        "correct_answer": "sweden se se kingdom of sweden swe ",
+        "is_correct": false
+    },
+    {
+        "question": "On which river is the famous Victoria falls located?",
+        "answer": "zambezi river",
+        "correct_answer": "zambesi zambezi river zambezi zambeze ",
+        "is_correct": true
+    },
+    {
+        "question": "What are the names of Armenian banknotes?",
+        "answer": "diaspora",
+        "correct_answer": "armenian dram ",
+        "is_correct": false
+    },
+    {
+        "question": "What unit in the SI system is named after the inventor Nikola Tesla?",
+        "answer": "nikola tesla",
+        "correct_answer": "magnetic induction magnetic flux density b-field ",
+        "is_correct": false
+    },
+    {
+        "question": "Who wrote the fairy tale \"the Sleeping Princess\"?",
+        "answer": "romance",
+        "correct_answer": "vasily andreyevich zhukovsky vasily zhukovsky vassili zhukovsky ",
+        "is_correct": false
+    },
+    {
+        "question": "What country is the city of Antwerp located in?",
+        "answer": "belgium",
+        "correct_answer": "\ud83c\udde7\ud83c\uddea be bel belgium kingdom of belgium ",
+        "is_correct": true
+    },
+    {
+        "question": "In what city was born the famous actress Faina Ranevskaya?",
+        "answer": "taganrog",
+        "correct_answer": "taganrog ",
+        "is_correct": true
+    },
+    {
+        "question": "In what city was the prophet Muhammad (Mohammed) born?",
+        "answer": "mecca",
+        "correct_answer": "holy city of mecca mother of all settlements makkah umm al-qur\u0101 mecca bakkah makkah al-mukarramah the holy city of mecca ",
+        "is_correct": true
+    },
+    {
+        "question": "What style did the architect Rastrelli work in?",
+        "answer": "sculptor",
+        "correct_answer": "baroque ",
+        "is_correct": false
+    },
+    {
+        "question": "In what city is the novel of T. Mann \"Buddenbrooks\"",
+        "answer": "travem\u00fcnde",
+        "correct_answer": "lybeck hanseatic city of l\u00fcbeck l\u00fcbeck lubeck kreisfreie stadt l\u00fcbeck ",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of don Quixote's horse?",
+        "answer": "teenage mutant ninja turtles universe",
+        "correct_answer": "rocinante ",
+        "is_correct": false
+    },
+    {
+        "question": "Where does the Royal house of Bernadotte rule?",
+        "answer": "gr\u00f6dinge parish",
+        "correct_answer": "sweden se se kingdom of sweden swe ",
+        "is_correct": false
+    },
+    {
+        "question": "On which river is the famous Victoria falls located?",
+        "answer": "zambezi river",
+        "correct_answer": "zambesi zambezi river zambezi zambeze ",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is the capital of the state of Alaska?",
+        "answer": "juneau",
+        "correct_answer": "juneau juneau, alaska juneau, ak ",
+        "is_correct": true
+    },
+    {
+        "question": "In some of the countries there are the resorts Sunny Day and Sunny Beach?",
+        "answer": "united states of america",
+        "correct_answer": "bulgaria bgr bul republic of bulgaria \ud83c\udde7\ud83c\uddec bg ",
+        "is_correct": false
+    },
+    {
+        "question": "Which country's son was Edmund Hillary, the first to conquer Everest with Sherpa N. Tenzing?",
+        "answer": "united states of america",
+        "correct_answer": "nz \ud83c\uddf3\ud83c\uddff new zealand nzl dominion of new zealand aotearoa nz ",
+        "is_correct": false
+    },
+    {
+        "question": "What island is the Fujiyama volcano located on?",
+        "answer": "japan",
+        "correct_answer": "honsh\u016b honshu ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the playing role of the football player Igor Akinfeev?",
+        "answer": "goalkeeper",
+        "correct_answer": "football goalkeeper gk goalkeeper soccer goalkeeper goalie ",
+        "is_correct": true
+    },
+    {
+        "question": "In which city the action is the story of Mark TWAIN's \"the Prince and the pauper\"?",
+        "answer": "united states of america",
+        "correct_answer": "london london, england london, uk london, united kingdom ",
+        "is_correct": false
+    },
+    {
+        "question": "In which city is the Prado Museum located?",
+        "answer": "berlin-mitte",
+        "correct_answer": "madrid, spain madrid city of madrid ",
+        "is_correct": false
+    },
+    {
+        "question": "Where is Tantalum cave?",
+        "answer": "chemical element",
+        "correct_answer": "at \ud83c\udde6\ud83c\uddf9 aut republic of austria austria republik \u00f6sterreich \u00f6sterreich aut at ",
+        "is_correct": false
+    },
+    {
+        "question": "Which band recorded the musical album \"Actress Spring\"?",
+        "answer": "public image ltd.",
+        "correct_answer": "ddt ",
+        "is_correct": false
+    },
+    {
+        "question": "Who was formulated the law that for every action there is an equal and opposite reaction?",
+        "answer": "robert recorde",
+        "correct_answer": "i. newton newton niu-tun. is. n'\u00fbton isaak n'juton isaak n'iuton ayzik nyuton isaak newton isaacus neutonus isaacus newtonus isaac newton issac newton izaak. newton sir isaac newton isaaco newton isaac neuton izaak. n'juton izaak newton isaac newtonius i. newtonius niu-tun isaak. n'\u00fbton ",
+        "is_correct": false
+    },
+    {
+        "question": "Which composer wrote the first Soviet rock Opera \"Orpheus and Eurydice\"?",
+        "answer": "alexander zhurbin",
+        "correct_answer": "alexander zhurbin ",
+        "is_correct": true
+    },
+    {
+        "question": "What was the name of Rembrandt's wife?",
+        "answer": "titus van rijn",
+        "correct_answer": "saskia van uylenburch saskia uylenburgh saskia van uylenburgh ",
+        "is_correct": false
+    },
+    {
+        "question": "Which artist was criticized by French high society for the scandalous \"Portrait of Madame X\"?",
+        "answer": "evening dress",
+        "correct_answer": "sargent j.s. sargent j.s. sargent j. sargent john sargent john s. sargent john s. sargent sargent john singer john singer sargent j. s. sargent j. singer sargent john singer sargeant john sargent js sargent sargent j.s. john-singer sargent ",
+        "is_correct": false
+    },
+    {
+        "question": "In what theater does O. Basilashvili play?",
+        "answer": "1922 encyclop\u00e6dia britannica",
+        "correct_answer": "suvorin theatre gorky bolshoi drama theater tovstonogov bolshoi drama theater ",
+        "is_correct": false
+    },
+    {
+        "question": "In what sea is the Yamal Peninsula located?",
+        "answer": "mediterranean sea",
+        "correct_answer": "kara sea ",
+        "is_correct": false
+    },
+    {
+        "question": "Which branch of philosophy includes the study of ethics and aesthetics?",
+        "answer": "philosophy",
+        "correct_answer": "axiology ",
+        "is_correct": false
+    },
+    {
+        "question": "Who wrote the music for the song \"Moscow nights\"?",
+        "answer": "vasily solovyov-sedoi",
+        "correct_answer": "vasily solovyov-sedoi ",
+        "is_correct": true
+    },
+    {
+        "question": "Russian Russian seasons, which made Russian ballet famous at the beginning of the XX century, were organized by who?",
+        "answer": "state anthem of the russian federation",
+        "correct_answer": "serge de diaghilev serge diaghilev sergey pavlovich dyagilev serge p. diaghilev serguei pavlovich diaghilev sergei diaghilev sergei p. diaghilev serge. diaghilev sergey dyagilev ",
+        "is_correct": false
+    },
+    {
+        "question": "What country does the island of Elba belong to-the place of Napoleon's exile?",
+        "answer": "united kingdom",
+        "correct_answer": "ita italia it italy \ud83c\uddee\ud83c\uddf9 it italian republic ",
+        "is_correct": false
+    },
+    {
+        "question": "What country is Banff national Park located in?",
+        "answer": "united states of america",
+        "correct_answer": "\ud83c\udde8\ud83c\udde6 ca ca can british north america can dominion of canada canada cdn ",
+        "is_correct": false
+    },
+    {
+        "question": "Who was Ivan the terrible's mother?",
+        "answer": "feodor i of russia",
+        "correct_answer": "elena glinskaya yelena vasilyevna glinskaya ",
+        "is_correct": false
+    },
+    {
+        "question": "What is the genre of Pushkin's \"captain's daughter\"?",
+        "answer": "female",
+        "correct_answer": "historical novel ",
+        "is_correct": false
+    },
+    {
+        "question": "What kind of sport was the famous tenor Zurab Sotkilava professionally engaged in?",
+        "answer": "association football",
+        "correct_answer": "association football football footy soccer futebol footie futbol ",
+        "is_correct": true
+    },
+    {
+        "question": "Which country belongs to the Bocas del Toro archipelago, where the last hero is being filmed?",
+        "answer": "united kingdom",
+        "correct_answer": "panama republic of panama pa \ud83c\uddf5\ud83c\udde6 ",
+        "is_correct": false
+    },
+    {
+        "question": "Which mountain is the highest point of the Caucasus?",
+        "answer": "caucasus mountains",
+        "correct_answer": "mount elbrus elbrus mingi tau ",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the author of the musical fantasy \"animal Carnival\"?",
+        "answer": "maksim dunayevsky",
+        "correct_answer": "camille saint-saens camille saint-sa\u00ebns charles-camille saint-sa\u00ebns ",
+        "is_correct": false
+    },
+    {
+        "question": "In which country has the leftist terrorist organization Sendero Luminoso been rampaging for many years?",
+        "answer": "european union",
+        "correct_answer": "\ud83c\uddf5\ud83c\uddea rep\u00fablica del per\u00fa republica del peru peru pe republic of peru ",
+        "is_correct": false
+    },
+    {
+        "question": "In which country does the Orange river flow?",
+        "answer": "lesotho",
+        "correct_answer": "south africa za rsa sa republic of south africa \ud83c\uddff\ud83c\udde6 zaf ",
+        "is_correct": false
+    },
+    {
+        "question": "Which singer married the captain of the football team \"Zenit\" Vladislav Radimov?",
+        "answer": "gazprom",
+        "correct_answer": "tatyana ivanovna bulanova tatiana bulanova ",
+        "is_correct": false
+    },
+    {
+        "question": "In what country is the temple complex Angkorwat?",
+        "answer": "india",
+        "correct_answer": "cambodia kingdom of cambodia kamboja kh campuchia kambodzha \ud83c\uddf0\ud83c\udded kampuchea camboya ",
+        "is_correct": false
+    },
+    {
+        "question": "Which country does the .co top-level domain belong to?",
+        "answer": "united states of america",
+        "correct_answer": "republic of colombia republica de colombia rep\u00fablica de colombia col \ud83c\udde8\ud83c\uddf4 co cartagena, colombia colombia ",
+        "is_correct": false
+    },
+    {
+        "question": "Who invented the phonograph, a device for recording and reproducing voice?",
+        "answer": "thomas edison",
+        "correct_answer": "thomas alva edison thomas edison edison thomas alva thomas a. edison ",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the cosmonauts participated in the joint Soyuz - Apollo flight with the United States?",
+        "answer": "arnaldo tamayo m\u00e9ndez",
+        "correct_answer": "alexey leonov aleksej arhipovi\u010d leonov aleksei arkhipovich leonov alexey arkhipovich leonov ",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the famous physicist Niels Bohr in his football role?",
+        "answer": "soccer player",
+        "correct_answer": "football goalkeeper gk goalkeeper soccer goalkeeper goalie ",
+        "is_correct": false
+    },
+    {
+        "question": "What river flows through the Grand Canyon in the United States?",
+        "answer": "atlantic ocean",
+        "correct_answer": "colorado river rio colorado r\u00edo colorado ",
+        "is_correct": false
+    },
+    {
+        "question": "Which team was the last champion of the USSR on football?",
+        "answer": "supreme soviet of the soviet union",
+        "correct_answer": "professional football club central sports club of army moscow pfc cska moscow pfc central sport club of the army moscow ",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is the capital of Kiribati?",
+        "answer": "south tarawa",
+        "correct_answer": "south tarawa ",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is the capital of Swaziland?",
+        "answer": "mbabane",
+        "correct_answer": "mbabane ",
+        "is_correct": true
+    },
+    {
+        "question": "What religion do the Crimean believers belong to?",
+        "answer": "sunni islam",
+        "correct_answer": "judaism jewish jewish religion ",
+        "is_correct": false
+    },
+    {
+        "question": "In what country is mount Kosciuszko located?",
+        "answer": "people's republic of china",
+        "correct_answer": "straya \ua737 au british colony of australia commonwealth of australia australia au aus ",
+        "is_correct": false
+    },
+    {
+        "question": "In which country was the FLAMENCO dance born?",
+        "answer": "spain",
+        "correct_answer": "\ud83c\uddea\ud83c\uddf8 kingdom of spain spain es espa\u00f1a esp ",
+        "is_correct": true
+    },
+    {
+        "question": "What physical quantity is measured in Newtons per meter?",
+        "answer": "kilolitre",
+        "correct_answer": "torque moment of force moment ",
+        "is_correct": false
+    },
+    {
+        "question": "Where are the Carlsbad caves?",
+        "answer": "san diego county",
+        "correct_answer": "the usa u.s.a. us u. s. the united states the us usa america united states of america u. s. a. u.s. united states the united states of america the states us of a ",
+        "is_correct": false
+    }
+]
