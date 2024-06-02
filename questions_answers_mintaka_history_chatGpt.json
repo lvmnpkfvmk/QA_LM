@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "What man was a famous American author and also a steamboat pilot on the Mississippi River?",
+        "answer": "mark twain",
+        "correct_answer": "mark twain",
+        "is_correct": true
+    },
+    {
+        "question": "How many children did Donald Trump have?",
+        "answer": "five",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries were in the Central Powers alliance in World War I?",
+        "answer": "four.",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "Who had a longer reign, Genghis Khan or Richard I?",
+        "answer": "genghis khan",
+        "correct_answer": "genghis khan",
+        "is_correct": true
+    },
+    {
+        "question": "Who had a longer reign, Nicholas II or Catherine II?",
+        "answer": "catherine ii",
+        "correct_answer": "catherine ii of russia",
+        "is_correct": false
+    },
+    {
+        "question": "Which war lasted longer, the Spanish-American War or the Vietnam War?",
+        "answer": "vietnam war",
+        "correct_answer": "vietnam war",
+        "is_correct": true
+    },
+    {
+        "question": "Which has been its own independent country longer, Australia or South Korea?",
+        "answer": "australia",
+        "correct_answer": "australia",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has the oldest still-standing castle, Germany or Syria?",
+        "answer": "germany",
+        "correct_answer": "syria",
+        "is_correct": false
+    },
+    {
+        "question": "Between Dan Quayle and Al Gore, which one was vice president the longest?",
+        "answer": "al gore",
+        "correct_answer": "al gore",
+        "is_correct": true
+    },
+    {
+        "question": "Did more American soldiers die in the American Civil War, or the American Revolution?",
+        "answer": "civil war",
+        "correct_answer": "american civil war",
+        "is_correct": false
+    },
+    {
+        "question": "Which Pope had a longer reign, Pius IX or Leo XIII?",
+        "answer": "pius ix",
+        "correct_answer": "pope pius ix",
+        "is_correct": false
+    },
+    {
+        "question": "Who was married more times, King Henry VII or King Henry VIII?",
+        "answer": "king henry viii",
+        "correct_answer": "henry viii of england",
+        "is_correct": false
+    },
+    {
+        "question": "Which war lasted longer, the Spanish American War or the French and Indian War?",
+        "answer": "french and indian war",
+        "correct_answer": "french and indian war",
+        "is_correct": true
+    },
+    {
+        "question": "Did the Civil War start before the Emancipation Proclamation?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Who lost the most soldiers during World War II, the United States or Russia?",
+        "answer": "russia",
+        "correct_answer": "russia",
+        "is_correct": true
+    },
+    {
+        "question": "Which state was admitted to the Union earlier, Illinois or Indiana?",
+        "answer": "indiana",
+        "correct_answer": "indiana",
+        "is_correct": true
+    },
+    {
+        "question": "Who was younger when they became vice president, Al Gore or Kamala Harris?",
+        "answer": "kamala harris",
+        "correct_answer": "al gore",
+        "is_correct": false
+    },
+    {
+        "question": "Who was older when they became president, John Quincy Adams or James Monroe?",
+        "answer": "james monroe",
+        "correct_answer": "james monroe",
+        "is_correct": true
+    },
+    {
+        "question": "Who was younger at the age of their ascension, Mary, Queen of Scots or Queen Victoria?",
+        "answer": "mary",
+        "correct_answer": "mary, queen of scots",
+        "is_correct": false
+    },
+    {
+        "question": "Which war was longer, Iraq War or World War II?",
+        "answer": "world war ii",
+        "correct_answer": "iraq",
+        "is_correct": false
+    },
+    {
+        "question": "Which war lasted longer, the Iran-Iraq War or the Yugoslav Wars?",
+        "answer": "iran-iraq war",
+        "correct_answer": "yugoslav wars",
+        "is_correct": false
+    },
+    {
+        "question": "Were the states of Rhode Island and Montana formed at the same time?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Which European monarchy is older, the Spanish monarchy or the Danish monarchy?",
+        "answer": "danish monarchy",
+        "correct_answer": "monarchy of denmark",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has more pyramids, Egypt or Sudan?",
+        "answer": "sudan",
+        "correct_answer": "sudan",
+        "is_correct": true
+    },
+    {
+        "question": "Was Julius Caesar born before Augustus?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Who was born first, Queen Victoria or Elizabeth Cady Stanton?",
+        "answer": "queen victoria",
+        "correct_answer": "elizabeth cady stanton",
+        "is_correct": false
+    },
+    {
+        "question": "Which Civil War battle occurred first, Antietam or Gettysburg?",
+        "answer": "antietam",
+        "correct_answer": "battle of antietam",
+        "is_correct": false
+    },
+    {
+        "question": "Which of these states became states first, Kentucky or Michigan?",
+        "answer": "kentucky",
+        "correct_answer": "kentucky",
+        "is_correct": true
+    },
+    {
+        "question": "Which battle was bloodier, Bull Run or Gettysburg?",
+        "answer": "gettysburg",
+        "correct_answer": "battle of gettysburg",
+        "is_correct": false
+    },
+    {
+        "question": "Which U.S. state was admitted to the union first, Missouri or Michigan?",
+        "answer": "missouri",
+        "correct_answer": "missouri",
+        "is_correct": true
+    },
+    {
+        "question": "Which war lasted longer, the Vietnam War or World War II?",
+        "answer": "world war ii",
+        "correct_answer": "vietnam war",
+        "is_correct": false
+    },
+    {
+        "question": "Which war lasted longer, Vietnam War or Iraq War?",
+        "answer": "vietnam war",
+        "correct_answer": "vietnam war",
+        "is_correct": true
+    },
+    {
+        "question": "Which war lasted longer, World War I or War of 1812?",
+        "answer": "world war i",
+        "correct_answer": "war of 1812",
+        "is_correct": false
+    },
+    {
+        "question": "Which war lasted longer, Russian Civil War or Persian Gulf War?",
+        "answer": "russian civil war",
+        "correct_answer": "russian civil war",
+        "is_correct": true
+    },
+    {
+        "question": "Which war had a larger death toll, World War I or World War II?",
+        "answer": "world war ii",
+        "correct_answer": "world war ii",
+        "is_correct": true
+    },
+    {
+        "question": "Which war lasted longer, Black War or Pacific War?",
+        "answer": "pacific war",
+        "correct_answer": "black war",
+        "is_correct": false
+    },
+    {
+        "question": "Who had less kids, Genghis Khan or Alexander The Great?",
+        "answer": "genghis khan",
+        "correct_answer": "alexander the great",
+        "is_correct": false
+    },
+    {
+        "question": "Who was older at his inauguration, William McKinley or James Buchanan?",
+        "answer": "buchanan",
+        "correct_answer": "james buchanan",
+        "is_correct": false
+    },
+    {
+        "question": "Who had a larger empire, Alexander the Great or Genghis Khan?",
+        "answer": "genghis khan",
+        "correct_answer": "genghis khan",
+        "is_correct": true
+    },
+    {
+        "question": "Which was shorter, the War in Afghanistan or the Iraq War?",
+        "answer": "iraq war",
+        "correct_answer": "iraq war",
+        "is_correct": true
+    },
+    {
+        "question": "Who had a shorter reign, Elizabeth I or Henry VIII?",
+        "answer": "elizabeth i",
+        "correct_answer": "henry viii of england",
+        "is_correct": false
+    },
+    {
+        "question": "Was the Statue of Liberty erected before 1900?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did the Korean War occur before or after World War II?",
+        "answer": "after world war ii",
+        "correct_answer": "after",
+        "is_correct": true
+    },
+    {
+        "question": "Which war lasted longer, World War II or the Korean War?",
+        "answer": "world war ii",
+        "correct_answer": "world war ii",
+        "is_correct": true
+    },
+    {
+        "question": "Which war lasted longer, the Revolutionary War or the Civil War?",
+        "answer": "civil war",
+        "correct_answer": "american revolutionary war",
+        "is_correct": false
+    },
+    {
+        "question": "Which war lasted longer, the War of 1812 or the Persian Gulf War?",
+        "answer": "war of 1812",
+        "correct_answer": "war of 1812",
+        "is_correct": true
+    },
+    {
+        "question": "Which was larger, the Umayyad Caliphate or the Mongol Empire?",
+        "answer": "mongol empire",
+        "correct_answer": "mongol empire",
+        "is_correct": true
+    },
+    {
+        "question": "Was the Korean War started before 1940?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Which battle lasted longer, the Battle of Verdun or the Anglo-Zanzibar War?",
+        "answer": "battle of verdun",
+        "correct_answer": "battle of verdun",
+        "is_correct": true
+    },
+    {
+        "question": "Which war had the most deaths, World War I or World War II?",
+        "answer": "world war ii",
+        "correct_answer": "world war ii",
+        "is_correct": true
+    },
+    {
+        "question": "Who walked on the moon earlier, Alan Bean or Charles Duke?",
+        "answer": "alan bean",
+        "correct_answer": "alan bean",
+        "is_correct": true
+    },
+    {
+        "question": "Which came first, the Korean war or the Vietnam war?",
+        "answer": "korean war",
+        "correct_answer": "korean war",
+        "is_correct": true
+    },
+    {
+        "question": "How many wives did Napoleon Bonaparte have?",
+        "answer": "two wives",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many children does Vladimir Putin have?",
+        "answer": "two",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries originally made up the United Nations?",
+        "answer": "51 countries",
+        "correct_answer": "50",
+        "is_correct": false
+    },
+    {
+        "question": "How many people signed the Declaration of Independence?",
+        "answer": "fifty-six",
+        "correct_answer": "56",
+        "is_correct": false
+    },
+    {
+        "question": "How many wives did King Phillip II of Spain have?",
+        "answer": "four wives",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many of Henry VIII's wives were beheaded?",
+        "answer": "two",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many heads of executive departments make up the U.S. president's cabinet?",
+        "answer": "fifteen",
+        "correct_answer": "15",
+        "is_correct": false
+    },
+    {
+        "question": "How many continents were involved in the battles during the Seven Years War?",
+        "answer": "five.",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many nations were founding members of the League of Nations?",
+        "answer": "42",
+        "correct_answer": "42",
+        "is_correct": true
+    },
+    {
+        "question": "How many wives did Caligula have?",
+        "answer": "4 wives",
+        "correct_answer": "4",
+        "is_correct": true
+    },
+    {
+        "question": "How many Original Colonies were there before the United States was formed?",
+        "answer": "thirteen colonies",
+        "correct_answer": "13",
+        "is_correct": false
+    },
+    {
+        "question": "How many total games did the United States play when they eventually won the Gold Medal in hockey in 1980 and who were the opponents?",
+        "answer": "seven games\nsoviet union, finland",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "How many nations did Germany conquer in WW II?",
+        "answer": "many.",
+        "correct_answer": "9",
+        "is_correct": false
+    },
+    {
+        "question": "How many US presidents were assassinated?",
+        "answer": "four.",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many cities were hit by a nuclear bomb during WW II?",
+        "answer": "two cities",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many ships did Columbus sail to the New World?",
+        "answer": "four.",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many US presidents were Catholic?",
+        "answer": "one",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many Civil Wars has America had?",
+        "answer": "one.",
+        "correct_answer": "1",
+        "is_correct": false
+    },
+    {
+        "question": "How many US presidents had a son that also became president?",
+        "answer": "two.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many original colonies did the English establish in America?",
+        "answer": "thirteen colonies",
+        "correct_answer": "13",
+        "is_correct": false
+    },
+    {
+        "question": "How many siblings did Cleopatra have?",
+        "answer": "two siblings",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many ships did Columbus have when he reached America?",
+        "answer": "three ships",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many presidents has Russia had?",
+        "answer": "three.",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many female leaders has South Korea had since 1945?",
+        "answer": "three.",
+        "correct_answer": "1",
+        "is_correct": false
+    },
+    {
+        "question": "How many women have been president of Argentina?",
+        "answer": "one.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many generals have served as U.S. presidents?",
+        "answer": "12",
+        "correct_answer": "12",
+        "is_correct": true
+    },
+    {
+        "question": "How many children did King Bhumibol Adulyadej have?",
+        "answer": "four.",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many Southern States were part of the American Civil War?",
+        "answer": "eleven",
+        "correct_answer": "11",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries remained unaligned during all of World War II?",
+        "answer": "13 countries",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "How many delegates signed the original Declaration of Independence?",
+        "answer": "fifty-six",
+        "correct_answer": "56",
+        "is_correct": false
+    },
+    {
+        "question": "How many atomic bombs did America drop on Japan?",
+        "answer": "two.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries, other than it's own, did Japan occupy in World War II?",
+        "answer": "11 countries",
+        "correct_answer": "21",
+        "is_correct": false
+    },
+    {
+        "question": "How many heads of state attended the 1945 Yalta Conference?",
+        "answer": "three.",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many people were invited to attend the 1927 Solvay Conference?",
+        "answer": "29 attendees",
+        "correct_answer": "29",
+        "is_correct": true
+    },
+    {
+        "question": "How many Kings did Rome have?",
+        "answer": "seven.",
+        "correct_answer": "7",
+        "is_correct": false
+    },
+    {
+        "question": "How many sons did Benjamin Franklin have?",
+        "answer": "three.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many wives did King Alexander the Great have?",
+        "answer": "3 wives",
+        "correct_answer": "3",
+        "is_correct": true
+    },
+    {
+        "question": "How many times did America fight a war against England?",
+        "answer": "five times.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many United States presidents were assassinated while in office?",
+        "answer": "four.",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many United States presidents have been formally impeached by Congress?",
+        "answer": "two",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many ships did Columbus set sail with on August 3, 1492?",
+        "answer": "three ships",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many wives did Stalin have?",
+        "answer": "two wives",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many heads of the Soviet Russian Republic were there?",
+        "answer": "five.",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many female prime ministers of the UK have there been?",
+        "answer": "two",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "What countries did not attend the 1988 Summer Olympics?",
+        "answer": "north korea, cuba",
+        "correct_answer": "cuba",
+        "is_correct": true
+    },
+    {
+        "question": "Which US president is said to have smoked pot but not inhaled?",
+        "answer": "bill clinton",
+        "correct_answer": "bill clinton",
+        "is_correct": true
+    },
+    {
+        "question": "Which presidential candidate ran in the general election in 2016 but did not win?",
+        "answer": "hillary clinton",
+        "correct_answer": "hillary clinton",
+        "is_correct": true
+    },
+    {
+        "question": "Which US president was impeached twice but not removed?",
+        "answer": "donald trump",
+        "correct_answer": "donald trump",
+        "is_correct": true
+    },
+    {
+        "question": "Which candidate in the 2020 US Presidential Election did not win?",
+        "answer": "donald trump",
+        "correct_answer": "donald trump",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the only US president to not be elected?",
+        "answer": "gerald ford",
+        "correct_answer": "gerald ford",
+        "is_correct": true
+    },
+    {
+        "question": "Which countries were not colonized in Africa?",
+        "answer": "liberia, ethiopia, and never colonized.",
+        "correct_answer": "ethiopia",
+        "is_correct": true
+    },
+    {
+        "question": "Which president was never elected as a president or vice president?",
+        "answer": "gerald ford",
+        "correct_answer": "gerald ford",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the only English king who did not ever marry in his life?",
+        "answer": "edward vi",
+        "correct_answer": "william ii of england",
+        "is_correct": false
+    },
+    {
+        "question": "Which U.S. president never got married?",
+        "answer": "buchanan",
+        "correct_answer": "james buchanan",
+        "is_correct": false
+    },
+    {
+        "question": "Which king of Thailand did not live past 21 years old?",
+        "answer": "ananda mahidol",
+        "correct_answer": "ananda mahidol",
+        "is_correct": true
+    },
+    {
+        "question": "Which ruler of Egypt's Second Dynasty had no predecessor?",
+        "answer": "peribsen",
+        "correct_answer": "hotepsekhemwy",
+        "is_correct": false
+    },
+    {
+        "question": "Who was president of the United States but did not get elected?",
+        "answer": "gerald ford",
+        "correct_answer": "gerald ford",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the thirteen colonies did not send delegates to The Constitutional Convention?",
+        "answer": "georgia",
+        "correct_answer": "rhode island",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first Supreme Court nominee to not be confirmed by the Senate?",
+        "answer": "robert bork",
+        "correct_answer": "william butler hornblower",
+        "is_correct": false
+    },
+    {
+        "question": "Which US president was never married?",
+        "answer": "buchanan",
+        "correct_answer": "james buchanan",
+        "is_correct": false
+    },
+    {
+        "question": "Which World War didn't take place after the Great Depression?",
+        "answer": "world war ii",
+        "correct_answer": "world war i",
+        "is_correct": true
+    },
+    {
+        "question": "Which son of Princess Diana didn't marry a British Citizen?",
+        "answer": "harry",
+        "correct_answer": "prince harry, duke of sussex",
+        "is_correct": false
+    },
+    {
+        "question": "Which country did not win the Revolutionary War in America?",
+        "answer": "britain",
+        "correct_answer": "great britain",
+        "is_correct": false
+    },
+    {
+        "question": "Which U.S. president was the first to not be Protestant?",
+        "answer": "john f. kennedy",
+        "correct_answer": "john f. kennedy",
+        "is_correct": true
+    },
+    {
+        "question": "Which of Benjamin Harrison's children did he not have with first wife?",
+        "answer": "russell.",
+        "correct_answer": "elizabeth harrison walker",
+        "is_correct": false
+    },
+    {
+        "question": "Which of Theodore Roosevelt's children did he not have with his second wife?",
+        "answer": "alice lee roosevelt.",
+        "correct_answer": "alice lee roosevelt",
+        "is_correct": true
+    },
+    {
+        "question": "Which British queen did not marry?",
+        "answer": "elizabeth i",
+        "correct_answer": "elizabeth i of england",
+        "is_correct": false
+    },
+    {
+        "question": "How many imposters claiming to be Marie Antoinette's son were not actually her son?",
+        "answer": "at least 3.",
+        "correct_answer": "100",
+        "is_correct": false
+    },
+    {
+        "question": "Which emperor of the Qing dynasty did not die in Peking?",
+        "answer": "yongzheng.",
+        "correct_answer": "hong taiji",
+        "is_correct": false
+    },
+    {
+        "question": "Which person who walked on the Moon did not do so before his 46th birthday?",
+        "answer": "alan shepard",
+        "correct_answer": "alan shepard",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the thirteen original colonies did not ratify the Constitution before 1790?",
+        "answer": "rhode island",
+        "correct_answer": "rhode island",
+        "is_correct": true
+    },
+    {
+        "question": "Which British kings never married?",
+        "answer": "edward v, edward viii",
+        "correct_answer": "william ii of england",
+        "is_correct": false
+    },
+    {
+        "question": "Who did not give up her bus seat, sparking national civil rights protests?",
+        "answer": "rosa parks",
+        "correct_answer": "rosa parks",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the three astronauts on the Apollo 11 mission did not walk on the Moon?",
+        "answer": "michael collins",
+        "correct_answer": "michael collins",
+        "is_correct": true
+    },
+    {
+        "question": "Which vice presidents since 1990 did not go on to become president of the United States?",
+        "answer": "al gore, dick cheney, joe biden",
+        "correct_answer": "mike pence",
+        "is_correct": false
+    },
+    {
+        "question": "Which major Axis country was not victorious during WW II?",
+        "answer": "italy",
+        "correct_answer": "germany",
+        "is_correct": false
+    },
+    {
+        "question": "Which wife of Henry VIII did not survive childbirth?",
+        "answer": "jane seymour",
+        "correct_answer": "jane seymour",
+        "is_correct": true
+    },
+    {
+        "question": "What Roman slave started a revolt but was not successful?",
+        "answer": "spartacus",
+        "correct_answer": "spartacus",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the ancient ruler to not lose a battle in 15 years of ruling?",
+        "answer": "alexander the great",
+        "correct_answer": "alexander the great",
+        "is_correct": true
+    },
+    {
+        "question": "Which was the first president of the USA that did not finish his term?",
+        "answer": "william henry harrison",
+        "correct_answer": "william henry harrison",
+        "is_correct": true
+    },
+    {
+        "question": "Which French president in the Fifth Republic never ran for reelection?",
+        "answer": "chirac",
+        "correct_answer": "fran\u00e7ois hollande",
+        "is_correct": false
+    },
+    {
+        "question": "Which English physicist never got married?",
+        "answer": "isaac newton",
+        "correct_answer": "isaac newton",
+        "is_correct": true
+    },
+    {
+        "question": "Which French emperor did not inherit the title by succession?",
+        "answer": "napoleon bonaparte",
+        "correct_answer": "napoleon",
+        "is_correct": true
+    },
+    {
+        "question": "Which country fought in The War of 1812, but did not win?",
+        "answer": "united states",
+        "correct_answer": "great britain",
+        "is_correct": false
+    },
+    {
+        "question": "Which Persian king invaded Greece in 480 BC, but did not conquer it?",
+        "answer": "xerxes i",
+        "correct_answer": "xerxes i",
+        "is_correct": true
+    },
+    {
+        "question": "Which U.S. president did not live past his forties?",
+        "answer": "william henry harrison",
+        "correct_answer": "john f. kennedy",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the last prime minister of the U.K. who did not attend university?",
+        "answer": "john major",
+        "correct_answer": "john major",
+        "is_correct": true
+    },
+    {
+        "question": "Which European countries did not participate in either of the World Wars?",
+        "answer": "ireland, spain, sweden",
+        "correct_answer": "spain",
+        "is_correct": true
+    },
+    {
+        "question": "Who is the most recent US president without a college degree?",
+        "answer": "harry truman",
+        "correct_answer": "harry s truman",
+        "is_correct": false
+    },
+    {
+        "question": "What was one of the major planes in the 9/11 attacks that did not crash into a building?",
+        "answer": "flight 93",
+        "correct_answer": "united airlines flight 93",
+        "is_correct": false
+    },
+    {
+        "question": "Which American president from the 19th century never got married?",
+        "answer": "buchanan",
+        "correct_answer": "james buchanan",
+        "is_correct": false
+    },
+    {
+        "question": "Which of all of the premiers of the USSR was not alive during the 1960's?",
+        "answer": "malenkov",
+        "correct_answer": "joseph stalin",
+        "is_correct": false
+    },
+    {
+        "question": "What United States president never lived in the White House?",
+        "answer": "george washington",
+        "correct_answer": "george washington",
+        "is_correct": true
+    },
+    {
+        "question": "What United States president was never elected president or vice president?",
+        "answer": "gerald ford",
+        "correct_answer": "gerald ford",
+        "is_correct": true
+    },
+    {
+        "question": "Which is the first capital of the United States and also the most populous state in US?",
+        "answer": "new york",
+        "correct_answer": "new york city",
+        "is_correct": false
+    },
+    {
+        "question": "Who was a U.S. Secretary of State and a former First Lady?",
+        "answer": "hillary clinton",
+        "correct_answer": "hillary clinton",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a Nobel Peace Prize winner and a president of the Soviet Union?",
+        "answer": "mikhail gorbachev",
+        "correct_answer": "mikhail gorbachev",
+        "is_correct": true
+    },
+    {
+        "question": "What country was Peter I the Great born in, and the location of the Blitz?",
+        "answer": "russia, london",
+        "correct_answer": "moscow",
+        "is_correct": false
+    },
+    {
+        "question": "Who was both a queen of the United Kingdom and a WW II mechanic?",
+        "answer": "queen elizabeth ii",
+        "correct_answer": "elizabeth ii",
+        "is_correct": true
+    },
+    {
+        "question": "Who was Secretary of State and the wife of a former US president?",
+        "answer": "hillary clinton",
+        "correct_answer": "hillary clinton",
+        "is_correct": true
+    },
+    {
+        "question": "Which country accommodated the largest concentration camp during World War II and was invaded by Germany in September of 1939?",
+        "answer": "poland",
+        "correct_answer": "poland",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a wife of King Henry VIII and also a daughter of Sir John Seymour?",
+        "answer": "jane seymour",
+        "correct_answer": "jane seymour",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a trailblazing female US Supreme Court Justice who graduated from James Madison High School in Brooklyn, N.Y?",
+        "answer": "ruth bader ginsburg",
+        "correct_answer": "ruth bader ginsburg",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a famous Hollywood actor and a president of the United States?",
+        "answer": "ronald reagan",
+        "correct_answer": "ronald reagan",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a US president and Martha Wayles's husband?",
+        "answer": "thomas jefferson",
+        "correct_answer": "thomas jefferson",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a president of Korea and married to an American woman?",
+        "answer": "syngman rhee",
+        "correct_answer": "rhee syng-man",
+        "is_correct": false
+    },
+    {
+        "question": "Who is a relative of King Tut and is buried at KV35?",
+        "answer": "nefertiti",
+        "correct_answer": "the younger lady",
+        "is_correct": false
+    },
+    {
+        "question": "What U.S. president was born in Massachusetts and was a Republican?",
+        "answer": "john adams",
+        "correct_answer": "george h. w. bush",
+        "is_correct": false
+    },
+    {
+        "question": "Who was an emperor of France and exiled to Elba?",
+        "answer": "napoleon bonaparte",
+        "correct_answer": "napoleon",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a U.S. president and was assassinated in a theatre?",
+        "answer": "abraham lincoln",
+        "correct_answer": "abraham lincoln",
+        "is_correct": true
+    },
+    {
+        "question": "Who was Tsar of Russia and first ruler born after Moscow's independence?",
+        "answer": "peter the great",
+        "correct_answer": "ivan iv vasilyevich",
+        "is_correct": false
+    },
+    {
+        "question": "Who was president after the Civil War and the only person to hold two non-consecutive terms as president?",
+        "answer": "grover cleveland",
+        "correct_answer": "grover cleveland",
+        "is_correct": true
+    },
+    {
+        "question": "Which US state joined the Union in 1863 and has a state motto of \"Mountaineers Are Always Free\"?",
+        "answer": "west virginia",
+        "correct_answer": "west virginia",
+        "is_correct": true
+    },
+    {
+        "question": "Who was a former United States Secretary of State and signed the treaty for the purchase of Alaska in 1867?",
+        "answer": "william h. seward",
+        "correct_answer": "william h. seward",
+        "is_correct": true
+    },
+    {
+        "question": "Who ordered the deaths of Leon Troksky and Dmitry Pavlov?",
+        "answer": "joseph stalin",
+        "correct_answer": "joseph stalin",
+        "is_correct": true
+    },
+    {
+        "question": "Which US president served in WW II and was impeached?",
+        "answer": "bill clinton",
+        "correct_answer": "richard nixon",
+        "is_correct": false
+    },
+    {
+        "question": "Who was both the 22nd and 24th president of the United States?",
+        "answer": "grover cleveland",
+        "correct_answer": "grover cleveland",
+        "is_correct": true
+    },
+    {
+        "question": "What country built the Suez Canal and failed to build a Panama canal?",
+        "answer": "france",
+        "correct_answer": "france",
+        "is_correct": true
+    },
+    {
+        "question": "What country is the oldest constitutional republic in the world and is located in the Apennine Mountains?",
+        "answer": "san marino",
+        "correct_answer": "san marino",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the king of Egypt and was married to Ankhesenamun?",
+        "answer": "tutankhamun",
+        "correct_answer": "tutankhamon",
+        "is_correct": false
+    },
+    {
+        "question": "Who initiated the strands of systematics and natural history for ornithology in the late 1600s?",
+        "answer": "john ray",
+        "correct_answer": "john ray",
+        "is_correct": true
+    },
+    {
+        "question": "Who was both a winner of an Emmy and a First Lady?",
+        "answer": "laura bush",
+        "correct_answer": "jacqueline kennedy onassis",
+        "is_correct": false
+    },
+    {
+        "question": "What country is located north of Mexico and south of Canada?",
+        "answer": "united states",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "Which European nation is a democracy and still retains a monarchy?",
+        "answer": "united kingdom",
+        "correct_answer": "england",
+        "is_correct": false
+    },
+    {
+        "question": "What state was the last added to the United States of America and is a set of islands?",
+        "answer": "hawaii",
+        "correct_answer": "hawaii",
+        "is_correct": true
+    },
+    {
+        "question": "Who was vice president of the United States, and female?",
+        "answer": "kamala harris",
+        "correct_answer": "kamala harris",
+        "is_correct": true
+    },
+    {
+        "question": "Who was queen of England, and the mother of Prince Charles?",
+        "answer": "queen elizabeth ii",
+        "correct_answer": "elizabeth ii",
+        "is_correct": true
+    },
+    {
+        "question": "What war took place in the United States, and began in 1861?",
+        "answer": "civil war",
+        "correct_answer": "american civil war",
+        "is_correct": false
+    },
+    {
+        "question": "What country was a part of World War II and was incited to battle after being victim of an overseas attack by Japan?",
+        "answer": "usa",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "What was the first former general to become president who was also a veteran of World War II?",
+        "answer": "eisenhower",
+        "correct_answer": "dwight d. eisenhower",
+        "is_correct": false
+    },
+    {
+        "question": "What country was part of the Axis Powers and the location of Mount Fiji?",
+        "answer": "japan",
+        "correct_answer": "japan",
+        "is_correct": true
+    },
+    {
+        "question": "What country participated in WW II and also used nuclear weapons in combat?",
+        "answer": "usa",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the last tsar of Russia and they were married to Alexandra Feodorovna?",
+        "answer": "nicholas ii",
+        "correct_answer": "nicholas ii of russia",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the mother of Queen Elizabeth I and the second wife of King Henry VIII?",
+        "answer": "anne boleyn",
+        "correct_answer": "anne boleyn",
+        "is_correct": true
+    },
+    {
+        "question": "Who ruled over Macedon as king and named one of his 70 cities after his horse Bucephala?",
+        "answer": "alexander the great",
+        "correct_answer": "alexander the great",
+        "is_correct": true
+    },
+    {
+        "question": "Who commanded the Allied invasion of western Europe at Normandy and was an American president?",
+        "answer": "dwight d. eisenhower",
+        "correct_answer": "dwight d. eisenhower",
+        "is_correct": true
+    },
+    {
+        "question": "What country was an ally of Germany and Italy in WW II and was admitted to the UN in 1956?",
+        "answer": "egypt",
+        "correct_answer": "japan",
+        "is_correct": false
+    },
+    {
+        "question": "Who was a great-granddaughter of Martha Washington and the wife of Robert E. Lee?",
+        "answer": "mary custis lee",
+        "correct_answer": "mary anna custis lee",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the president that was also a graduate of the U.S. Military Academy at West Point?",
+        "answer": "dwight d. eisenhower",
+        "correct_answer": "dwight d. eisenhower",
+        "is_correct": true
+    },
+    {
+        "question": "What U.S. battleship was attacked in WW II and is now located at Pearl Harbor as a War memorial?",
+        "answer": "uss arizona",
+        "correct_answer": "uss arizona",
+        "is_correct": true
+    },
+    {
+        "question": "What country was part of the Axis Powers and is an island nation?",
+        "answer": "japan",
+        "correct_answer": "japan",
+        "is_correct": true
+    },
+    {
+        "question": "Which Nazi Party leader was the husband to Eva Braun?",
+        "answer": "adolf hitler",
+        "correct_answer": "adolf hitler",
+        "is_correct": true
+    },
+    {
+        "question": "Where was the 16th president of the United States born?",
+        "answer": "hodgenville, kentucky",
+        "correct_answer": "hodgenville",
+        "is_correct": true
+    },
+    {
+        "question": "On what date did the first president of the United States famously cross the Delaware River?",
+        "answer": "december 25, 1776",
+        "correct_answer": "1776-12-25",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the wife of Queen Elizabeth II's third child?",
+        "answer": "camilla parker bowles",
+        "correct_answer": "sarah, duchess of york",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the leader of the army that lost the Battle of Waterloo in 1815?",
+        "answer": "napoleon bonaparte",
+        "correct_answer": "napoleon",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the US president during the start of the American Civil War?",
+        "answer": "abraham lincoln",
+        "correct_answer": "abraham lincoln",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the leader of North Vietnam during the Vietnam War?",
+        "answer": "ho chi minh",
+        "correct_answer": "ho chi minh",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the Vietnamese general that led North Vietnam in their attack of Saigon in 1975?",
+        "answer": "vo nguyen giap",
+        "correct_answer": "van tien dung",
+        "is_correct": false
+    },
+    {
+        "question": "How old was Queen Elizabeth II when her father King George VI died?",
+        "answer": "25 years.",
+        "correct_answer": "25",
+        "is_correct": true
+    },
+    {
+        "question": "The queen who was beheaded during the French Revolution was originally from what country?",
+        "answer": "austria",
+        "correct_answer": "austria",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the leader of the country that invaded Kuwait in 1990?",
+        "answer": "saddam hussein",
+        "correct_answer": "saddam hussein",
+        "is_correct": true
+    },
+    {
+        "question": "How old was George W Bush's father when he died?",
+        "answer": "94 years",
+        "correct_answer": "94",
+        "is_correct": true
+    },
+    {
+        "question": "During WWI, which country was a part of the Allied alliance until 1917?",
+        "answer": "russia",
+        "correct_answer": "russia",
+        "is_correct": true
+    },
+    {
+        "question": "How old was the youngest king of Egypt when he took the throne?",
+        "answer": "nine years old",
+        "correct_answer": "8",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the third emperor of Rome when he died?",
+        "answer": "41 years",
+        "correct_answer": "28",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the fifth emperor of Rome when he died?",
+        "answer": "78 years",
+        "correct_answer": "30",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the fifth Roman emperor when he died?",
+        "answer": "28 years.",
+        "correct_answer": "30",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the wife of the second president of the United States?",
+        "answer": "abigail adams",
+        "correct_answer": "abigail adams",
+        "is_correct": true
+    },
+    {
+        "question": "Where was 16th president of the United States assassinated?",
+        "answer": "ford's theatre",
+        "correct_answer": "ford's theatre",
+        "is_correct": true
+    },
+    {
+        "question": "How old was the mummy at KV62 when he died?",
+        "answer": "unknown",
+        "correct_answer": "19",
+        "is_correct": false
+    },
+    {
+        "question": "In what country was the inventor of the telephone born?",
+        "answer": "scotland",
+        "correct_answer": "scotland",
+        "is_correct": true
+    },
+    {
+        "question": "In what year did the inventor of the printing press die?",
+        "answer": "1468",
+        "correct_answer": "1468",
+        "is_correct": true
+    },
+    {
+        "question": "What year was the first president of the United States born?",
+        "answer": "1732",
+        "correct_answer": "1732",
+        "is_correct": true
+    },
+    {
+        "question": "What year was the dictator of Romania executed by firing squad?",
+        "answer": "1989",
+        "correct_answer": "1989",
+        "is_correct": true
+    },
+    {
+        "question": "Which U.S. president succeeded the president who was assassinated in 1963?",
+        "answer": "lyndon b. johnson",
+        "correct_answer": "lyndon b. johnson",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the youngest daughter of the last tsar of Russia?",
+        "answer": "anastasia romanov",
+        "correct_answer": "grand duchess anastasia nikolaevna of russia",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the last king of France when he was executed in 1793?",
+        "answer": "38 years.",
+        "correct_answer": "38",
+        "is_correct": true
+    },
+    {
+        "question": "How old was the last emperor of Rome when he died?",
+        "answer": "17 years.",
+        "correct_answer": "46",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the first president of PRC when he died?",
+        "answer": "82 years",
+        "correct_answer": "82",
+        "is_correct": true
+    },
+    {
+        "question": "How old was the first president of ROC when he died?",
+        "answer": "73 years.",
+        "correct_answer": "58",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the queen of the dynasty founded by Ptolemy I Soter?",
+        "answer": "cleopatra vii",
+        "correct_answer": "cleopatra",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the king of Great Britain when they invaded America during the American Revolution?",
+        "answer": "george iii",
+        "correct_answer": "george iii of great britain",
+        "is_correct": false
+    },
+    {
+        "question": "Who was Genghis Khan's eldest son?",
+        "answer": "jochi",
+        "correct_answer": "orda khan",
+        "is_correct": false
+    },
+    {
+        "question": "Which cousin of the U.S. president who fought in the Spanish-American War served the most presidential terms?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "What was the occupation of Abraham Lincoln's assassin?",
+        "answer": "actor",
+        "correct_answer": "actor",
+        "is_correct": true
+    },
+    {
+        "question": "How old was the 16th president of the United States when he died?",
+        "answer": "56 years.",
+        "correct_answer": "56",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the wife of the prime minister of the UK during World War II?",
+        "answer": "clementine churchill",
+        "correct_answer": "clementine churchill, baroness spencer-churchill",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the fifth president of the United States when he died?",
+        "answer": "78 years",
+        "correct_answer": "85",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the US president when Lehman Brothers went bankrupt?",
+        "answer": "george w. bush",
+        "correct_answer": "barack obama",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the assassin of the man who was president of the United States in 1865?",
+        "answer": "john wilkes booth",
+        "correct_answer": "john wilkes booth",
+        "is_correct": true
+    },
+    {
+        "question": "What is the date of birth of the first president of India?",
+        "answer": "november 14, 1889",
+        "correct_answer": "1884-12-03",
+        "is_correct": false
+    },
+    {
+        "question": "What is the first name of the second Russian president's wife?",
+        "answer": "lyudmila.",
+        "correct_answer": "lyudmila putina",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the youngest British monarch at the start of their reign?",
+        "answer": "9 years old",
+        "correct_answer": "6 days",
+        "is_correct": false
+    },
+    {
+        "question": "How long was the deadliest war in history?",
+        "answer": "world war ii",
+        "correct_answer": "6 years",
+        "is_correct": false
+    },
+    {
+        "question": "How old was the second US president when he died?",
+        "answer": "90 years.",
+        "correct_answer": "90",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the youngest emperor of Rome?",
+        "answer": "nero",
+        "correct_answer": "gordian iii",
+        "is_correct": false
+    },
+    {
+        "question": "What was the second country to attempt to build the Panama Canal?",
+        "answer": "france",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the third president of the United States?",
+        "answer": "thomas jefferson",
+        "correct_answer": "thomas jefferson",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first female prime minister of Canada?",
+        "answer": "kim campbell",
+        "correct_answer": "kim campbell",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the second president of the United States to be assassinated?",
+        "answer": "garfield",
+        "correct_answer": "james a. garfield",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first prime minister of England?",
+        "answer": "sir robert walpole",
+        "correct_answer": "robert walpole",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the 25th president of the USA?",
+        "answer": "william mckinley",
+        "correct_answer": "william mckinley",
+        "is_correct": true
+    },
+    {
+        "question": "What axis country surrendered first in the Second World War?",
+        "answer": "axis: italy",
+        "correct_answer": "italy",
+        "is_correct": true
+    },
+    {
+        "question": "Who was George Washington's first wife?",
+        "answer": "martha custis.",
+        "correct_answer": "martha washington",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the twelfth US president?",
+        "answer": "zachary taylor",
+        "correct_answer": "zachary taylor",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the second queen of England?",
+        "answer": "anne boleyn",
+        "correct_answer": "elizabeth i of england",
+        "is_correct": false
+    },
+    {
+        "question": "What was the second state to ratify the US Constitution?",
+        "answer": "pennsylvania",
+        "correct_answer": "pennsylvania",
+        "is_correct": true
+    },
+    {
+        "question": "What was the first person to sign the Declaration of Independence?",
+        "answer": "john hancock",
+        "correct_answer": "john hancock",
+        "is_correct": true
+    },
+    {
+        "question": "What was the fourth state to ratify the Articles of Confederation?",
+        "answer": "georgia",
+        "correct_answer": "georgia",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the second person to walk on the moon?",
+        "answer": "buzz aldrin",
+        "correct_answer": "buzz aldrin",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first Saxon king?",
+        "answer": "egbert",
+        "correct_answer": "egbert of wessex",
+        "is_correct": false
+    },
+    {
+        "question": "What was the first country to declare war on Germany in World War I?",
+        "answer": "belgium",
+        "correct_answer": "british empire",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the last pharaoh of ancient Egypt?",
+        "answer": "cleopatra vii",
+        "correct_answer": "caesarion",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the second emperor of Rome?",
+        "answer": "augustus.",
+        "correct_answer": "tiberius",
+        "is_correct": false
+    },
+    {
+        "question": "Where was the first national park established in the world?",
+        "answer": "yellowstone.",
+        "correct_answer": "yellowstone national park",
+        "is_correct": false
+    },
+    {
+        "question": "What was the first battle of WW2?",
+        "answer": "battle of westerplatte",
+        "correct_answer": "invasion of poland",
+        "is_correct": false
+    },
+    {
+        "question": "What was the first American state?",
+        "answer": "delaware",
+        "correct_answer": "delaware",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first female chancellor of Germany?",
+        "answer": "angela merkel",
+        "correct_answer": "angela merkel",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first American president?",
+        "answer": "george washington",
+        "correct_answer": "george washington",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the last general to surrender during the Civil War?",
+        "answer": "robert e. lee",
+        "correct_answer": "stand watie",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first country to surrender to the allies in World War II?",
+        "answer": "france",
+        "correct_answer": "italy",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first female monarch of England?",
+        "answer": "mary i",
+        "correct_answer": "mary i of england",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first woman to make a million dollars in the United States?",
+        "answer": "madam c.j. walker",
+        "correct_answer": "madam c. j. walker",
+        "is_correct": false
+    },
+    {
+        "question": "Who won the first Pulitzer Prize for medicine?",
+        "answer": "ross g. harrison",
+        "correct_answer": "emil adolf von behring",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the last king of Vietnam?",
+        "answer": "bao dai",
+        "correct_answer": "b\u1ea3o \u0111\u1ea1i",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the third Chinese emperor?",
+        "answer": "emperor wen.",
+        "correct_answer": "zhu di",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the fourth president of the USA?",
+        "answer": "james madison",
+        "correct_answer": "james madison",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first senator of Montana?",
+        "answer": "wilbur f. sanders",
+        "correct_answer": "wilbur f. sanders",
+        "is_correct": true
+    },
+    {
+        "question": "What was the twentieth state in US history?",
+        "answer": "louisiana",
+        "correct_answer": "mississippi",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the 39th president of the United States?",
+        "answer": "jimmy carter",
+        "correct_answer": "jimmy carter",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first country to drop a nuclear bomb on another country?",
+        "answer": "united states",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the fifth president of Brazil?",
+        "answer": "fernando collor de mello",
+        "correct_answer": "francisco de paula rodrigues alves",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first US president to win election despite losing the popular vote?",
+        "answer": "john quincy adams",
+        "correct_answer": "john quincy adams",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first king of Rome?",
+        "answer": "romulus",
+        "correct_answer": "romulus",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the 27th president of the United States of America?",
+        "answer": "william howard taft",
+        "correct_answer": "william howard taft",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first recorded emperor of China?",
+        "answer": "qin shi huang",
+        "correct_answer": "qin shi huangdi",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the last Tudor monarch of England?",
+        "answer": "elizabeth i",
+        "correct_answer": "elizabeth i of england",
+        "is_correct": false
+    },
+    {
+        "question": "Who was King Henry VIII's sixth wife?",
+        "answer": "catherine parr",
+        "correct_answer": "catherine parr",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the second historically confirmed female pharaoh of Egypt?",
+        "answer": "hatshepsut",
+        "correct_answer": "hatshepsut",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first monarch of England?",
+        "answer": "william i",
+        "correct_answer": "egbert of wessex",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the final leader of the Soviet Union?",
+        "answer": "mikhail gorbachev",
+        "correct_answer": "mikhail gorbachev",
+        "is_correct": true
+    },
+    {
+        "question": "What was the longest battle in the Civil War?",
+        "answer": "battle of gettysburg",
+        "correct_answer": "battle of gettysburg",
+        "is_correct": true
+    },
+    {
+        "question": "What was the longest battle in the Vietnam War?",
+        "answer": "tet offensive",
+        "correct_answer": "battle of khe sanh",
+        "is_correct": false
+    },
+    {
+        "question": "Which American president spent the shortest amount of time in office?",
+        "answer": "william henry harrison",
+        "correct_answer": "william henry harrison",
+        "is_correct": true
+    },
+    {
+        "question": "Which Egyptian queen ruled the longest?",
+        "answer": "cleopatra vii",
+        "correct_answer": "hatshepsut",
+        "is_correct": false
+    },
+    {
+        "question": "What Chinese emperor ruled the longest?",
+        "answer": "kangxi\n61 years",
+        "correct_answer": "kangxi emperor",
+        "is_correct": false
+    },
+    {
+        "question": "Which United States president granted the greatest number of presidential pardons?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "Which United States president won the largest percentage of the electoral vote in their election?",
+        "answer": "george washington",
+        "correct_answer": "george washington",
+        "is_correct": true
+    },
+    {
+        "question": "What was the longest war in history?",
+        "answer": "hundred years' war",
+        "correct_answer": "reconquista",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the oldest person to sign the Constitution?",
+        "answer": "benjamin franklin",
+        "correct_answer": "benjamin franklin",
+        "is_correct": true
+    },
+    {
+        "question": "Who was president of the USA the longest?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "Who was president of the USA for the shortest amount of time?",
+        "answer": "william henry harrison",
+        "correct_answer": "william henry harrison",
+        "is_correct": true
+    },
+    {
+        "question": "Which U.S. president served the longest in office?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "Which war had the most deaths?",
+        "answer": "world war ii",
+        "correct_answer": "world war ii",
+        "is_correct": true
+    },
+    {
+        "question": "Which Roman emperor had the shortest reign?",
+        "answer": "didius julianus",
+        "correct_answer": "gordian i",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the youngest monarch of England at the start of their reign?",
+        "answer": "henry iii",
+        "correct_answer": "mary, queen of scots",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the oldest president of the USA at his inauguration?",
+        "answer": "joe biden",
+        "correct_answer": "joe biden",
+        "is_correct": true
+    },
+    {
+        "question": "Which president had the shortest time in office?",
+        "answer": "william henry harrison",
+        "correct_answer": "william henry harrison",
+        "is_correct": true
+    },
+    {
+        "question": "What president has had the longest term in office?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "What was the largest battleship ever?",
+        "answer": "yamato",
+        "correct_answer": "japanese battleship yamato",
+        "is_correct": false
+    },
+    {
+        "question": "In which election did Donald Trump suffer his largest popular vote loss?",
+        "answer": "2020",
+        "correct_answer": "2020",
+        "is_correct": true
+    },
+    {
+        "question": "What was the shortest length of US combat forces' participation in wars?",
+        "answer": "1 year",
+        "correct_answer": "bay of pigs invasion",
+        "is_correct": false
+    },
+    {
+        "question": "Which US president was the youngest when they entered office?",
+        "answer": "theodore roosevelt",
+        "correct_answer": "theodore roosevelt",
+        "is_correct": true
+    },
+    {
+        "question": "Who had the longest term as US president?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the longest reigning French monarch?",
+        "answer": "louis xiv",
+        "correct_answer": "louis xiv of france",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the longest reigning sovereign monarch in history?",
+        "answer": "louis xiv",
+        "correct_answer": "louis xiv of france",
+        "is_correct": false
+    },
+    {
+        "question": "Who served as U.S. president the longest?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "Which U.S. state has the fewest private colleges in it?",
+        "answer": "alaska",
+        "correct_answer": "wyoming",
+        "is_correct": false
+    },
+    {
+        "question": "Who has survived the most assassination attempts in history?",
+        "answer": "fidel castro",
+        "correct_answer": "fidel castro",
+        "is_correct": true
+    },
+    {
+        "question": "Which war was the shortest in human history?",
+        "answer": "six-day war",
+        "correct_answer": "anglo-zanzibar war",
+        "is_correct": false
+    },
+    {
+        "question": "Which British royal dynasty ruled the longest?",
+        "answer": "windsor.",
+        "correct_answer": "house of plantagenet",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the wealthiest industrialist of the 20th century?",
+        "answer": "rockefeller",
+        "correct_answer": "andrew carnegie",
+        "is_correct": false
+    },
+    {
+        "question": "What was the tallest American building in the 20th century?",
+        "answer": "empire state building",
+        "correct_answer": "world trade center",
+        "is_correct": false
+    },
+    {
+        "question": "Which American president has had the longest stay in office?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "Which individual has the most Olympic gold medals in history?",
+        "answer": "michael phelps",
+        "correct_answer": "michael phelps",
+        "is_correct": true
+    },
+    {
+        "question": "Which president of the United States served the longest?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the longest reigning queen of England?",
+        "answer": "queen victoria",
+        "correct_answer": "elizabeth ii",
+        "is_correct": false
+    },
+    {
+        "question": "Who has the shortest presidency in US history?",
+        "answer": "william henry harrison",
+        "correct_answer": "william henry harrison",
+        "is_correct": true
+    },
+    {
+        "question": "Which state suffered the most casualties in the Civil War?",
+        "answer": "virginia",
+        "correct_answer": "new york",
+        "is_correct": false
+    },
+    {
+        "question": "Which French monarch had the longest reign?",
+        "answer": "louis xiv",
+        "correct_answer": "louis xiv of france",
+        "is_correct": false
+    },
+    {
+        "question": "Who has the world record for the world's longest ruling monarch?",
+        "answer": "king louis xiv",
+        "correct_answer": "pepi ii",
+        "is_correct": false
+    },
+    {
+        "question": "Who has served in the House of Representatives the longest?",
+        "answer": "john dingell",
+        "correct_answer": "john dingell, jr.",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the longest serving American president?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "What American president had the longest reign?",
+        "answer": "franklin d. roosevelt",
+        "correct_answer": "franklin delano roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "What was the longest US war?",
+        "answer": "vietnam war",
+        "correct_answer": "war in afghanistan",
+        "is_correct": false
+    },
+    {
+        "question": "What is the shortest battle in history?",
+        "answer": "40 minutes",
+        "correct_answer": "anglo-zanzibar war",
+        "is_correct": false
+    },
+    {
+        "question": "Which US president served the shortest amount of time?",
+        "answer": "william henry harrison",
+        "correct_answer": "william henry harrison",
+        "is_correct": true
+    },
+    {
+        "question": "Which British prime minister served the longest amount of time?",
+        "answer": "winston churchill",
+        "correct_answer": "robert walpole",
+        "is_correct": false
+    },
+    {
+        "question": "Which British prime minister served the shortest amount of time?",
+        "answer": "george canning",
+        "correct_answer": "george canning",
+        "is_correct": true
+    },
+    {
+        "question": "Was the Battle of Hastings fought in 1066?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was Julius Caesar assassinated by friends and colleagues?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Salvador Dal\u00ed paint the Mona Lisa?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did Astronaut John Glenn land on the moon?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did Virginia become a U.S. state before Tennessee?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was China involved in battle in World War I?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did Marie Antoinette die by execution?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Confucius have any children?",
+        "answer": "yes, one son.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did the Hundred Years' War last over 100 years?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did John F. Kennedy die in 1960?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Was the Treaty of Paris signed in the 19th century?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did the allies in World War 2 use nuclear weapons?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did Henry VIII have any of his wives executed?",
+        "answer": "yes, two.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did King Charles IX have four wives?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Was Nerva the sixth emperor of Rome?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did Germany win WW2?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did American casualties exceed 100,000 during WW2?",
+        "answer": "yes, 291,557 casualties.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Hitler have any sons?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did New Zealand participate in WW2?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Alexander the Great ever lose a battle?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is the exact medical cause of Alexander the Great's death known?",
+        "answer": "malaria",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Has Russia ever fought a war against Afghanistan?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did the United States fight multiple wars against Iraq before capturing Saddam Hussein and overthrowing the Iraqi government?",
+        "answer": "yes, gulf war.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Cleopatra have 5 spouses?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Was Japan part of the Axis Alliance in World War II?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was the Soviet Union part of the Great Allied Powers in World War II?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Spartacus die in the fight for freedom?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did the confederate soldiers win the Civil War?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did Neil Armstrong become the first person to reach outer space?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did the Hundred Years' War last 100 years?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did West Germany build the Berlin Wall?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did King Henry VIII behead two of his wives?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Cleopatra have Julius Caesar's baby?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was Benjamin Franklin president of the USA?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Was Columbus the first person to discover America?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Did the pilgrims arrive on The Mayflower?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was Abraham Lincoln the 16th president of the US?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Abraham Lincoln own slaves?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Were pigeons domesticated in Egypt during the Fifth Dynasty?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Aristotle begin studying birds, setting down the framework for modern ornithology?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was Eric the Victorious the first king of Sweden?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did the United States of America take part in World War I?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was Thomas Jefferson the first US president?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Was America part of the Allied alliance in WWII?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was John F. Kennedy assassinated?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was Julius Caesar kidnapped by pirates?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was Genghis Khan born with that name?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Was John Adams the first president to live in the White House?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Was emperor Jimmu the first emperor of Japan?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Did Martin Luther King Jr. get assassinated?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which war lasted longer, World War I or World War II?",
+        "answer": "world war ii",
+        "correct_answer": "world war ii",
+        "is_correct": true
+    },
+    {
+        "question": "How many wives did King Henry VIII have?",
+        "answer": "six wives",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "Who was a queen of Egypt and the romantic interest of both Julius Caesar and Mark Antony?",
+        "answer": "cleopatra",
+        "correct_answer": "cleopatra",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the leader of the country that invaded Poland in 1939?",
+        "answer": "adolf hitler",
+        "correct_answer": "adolf hitler",
+        "is_correct": true
+    },
+    {
+        "question": "Which British monarch had the shortest reign?",
+        "answer": "lady jane grey",
+        "correct_answer": "lady jane grey",
+        "is_correct": true
+    },
+    {
+        "question": "What was the longest battle in World War II?",
+        "answer": "stalingrad",
+        "correct_answer": "battle of the atlantic",
+        "is_correct": false
+    },
+    {
+        "question": "How many wives did Roman Emperor Vespasian have?",
+        "answer": "two wives",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many wives did Theodore Roosevelt have?",
+        "answer": "two wives",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "What countries were allied against Germany in WW2?",
+        "answer": "soviet union, united states, united kingdom, france, china",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "Who is the son of the 41st president of the United States who was also a president?",
+        "answer": "george w. bush",
+        "correct_answer": "george w. bush",
+        "is_correct": true
+    },
+    {
+        "question": "How old was the last queen of Egypt when she died?",
+        "answer": "39 years.",
+        "correct_answer": "39",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the wife of the first African American president?",
+        "answer": "michelle obama",
+        "correct_answer": "michelle obama",
+        "is_correct": true
+    },
+    {
+        "question": "How old was the last emperor of Austria when he died?",
+        "answer": "86 years.",
+        "correct_answer": "34",
+        "is_correct": false
+    },
+    {
+        "question": "Which brother of the 35th U.S. president was also assassinated?",
+        "answer": "robert kennedy",
+        "correct_answer": "robert f. kennedy",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the last king of the Greeks before Alexander the Great?",
+        "answer": "philip ii",
+        "correct_answer": "philip ii of macedon",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first Pharaoh of the Middle Kingdom of Egypt?",
+        "answer": "mentuhotep ii",
+        "correct_answer": "mentuhotep ii",
+        "is_correct": true
+    },
+    {
+        "question": "Who is Henry VIII's second wife?",
+        "answer": "anne boleyn",
+        "correct_answer": "anne boleyn",
+        "is_correct": true
+    },
+    {
+        "question": "What city was Alexander the Great born in?",
+        "answer": "pella, macedonia",
+        "correct_answer": "pella",
+        "is_correct": true
+    },
+    {
+        "question": "What document was created by Abraham Lincoln during the Civil War that attempted to free slaves?",
+        "answer": "emancipation proclamation",
+        "correct_answer": "emancipation proclamation",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the Vikings most important God?",
+        "answer": "odin",
+        "correct_answer": "odin",
+        "is_correct": true
+    },
+    {
+        "question": "When did Pizarro reach the Inca territory?",
+        "answer": "1532",
+        "correct_answer": "1532",
+        "is_correct": true
+    },
+    {
+        "question": "Where was the Ptolemaic Kingdom based?",
+        "answer": "egypt",
+        "correct_answer": "egypt",
+        "is_correct": true
+    },
+    {
+        "question": "In ancient Rome what were the men who fought for the entertainment of others called?",
+        "answer": "gladiators",
+        "correct_answer": "gladiators",
+        "is_correct": true
+    },
+    {
+        "question": "What political party did Hitler belong to?",
+        "answer": "nazi party",
+        "correct_answer": "national socialist german workers' party (nazi party)",
+        "is_correct": false
+    },
+    {
+        "question": "Who walked on the Moon first?",
+        "answer": "neil armstrong",
+        "correct_answer": "neil armstrong",
+        "is_correct": true
+    },
+    {
+        "question": "In what year did Operation Desert Storm begin?",
+        "answer": "1991",
+        "correct_answer": "1990",
+        "is_correct": false
+    },
+    {
+        "question": "Whom did Billy Jean King beat in the 1973 Battle of The Sexes Tennis Match?",
+        "answer": "bobby riggs",
+        "correct_answer": "bobby riggs",
+        "is_correct": true
+    },
+    {
+        "question": "Where did Greek inventor Archimedes die?",
+        "answer": "syracuse, sicily",
+        "correct_answer": "syracuse",
+        "is_correct": true
+    },
+    {
+        "question": "What year did the second Punic War begin?",
+        "answer": "218 bc",
+        "correct_answer": "218 bc",
+        "is_correct": true
+    },
+    {
+        "question": "What year did the United States enter World War I?",
+        "answer": "1917",
+        "correct_answer": "1917",
+        "is_correct": true
+    },
+    {
+        "question": "Where was Constantinople?",
+        "answer": "istanbul, turkey",
+        "correct_answer": "turkey",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first person to fly solo around the world?",
+        "answer": "wiley post",
+        "correct_answer": "wiley post",
+        "is_correct": true
+    },
+    {
+        "question": "What year did Marie Curie win the Nobel Prize for Chemistry?",
+        "answer": "1911",
+        "correct_answer": "1911",
+        "is_correct": true
+    },
+    {
+        "question": "Where is the oldest civilization in the world?",
+        "answer": "mesopotamia",
+        "correct_answer": "mesopotamia",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first human in space?",
+        "answer": "yuri gagarin",
+        "correct_answer": "yuri gagarin",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the man who invented the car?",
+        "answer": "karl benz",
+        "correct_answer": "karl benz",
+        "is_correct": true
+    },
+    {
+        "question": "In what year did the Assyrian Empire fall?",
+        "answer": "612 bc",
+        "correct_answer": "612",
+        "is_correct": true
+    },
+    {
+        "question": "What famous American said, \"Give me liberty, or give me death\"?",
+        "answer": "patrick henry",
+        "correct_answer": "patrick henry",
+        "is_correct": true
+    },
+    {
+        "question": "What is considered Mexico's first known society?",
+        "answer": "olmec",
+        "correct_answer": "olmec",
+        "is_correct": true
+    },
+    {
+        "question": "When did the Greek Empire fall?",
+        "answer": "1453",
+        "correct_answer": "323 bce",
+        "is_correct": false
+    },
+    {
+        "question": "When did the British Empire start?",
+        "answer": "16th century",
+        "correct_answer": "1490",
+        "is_correct": false
+    },
+    {
+        "question": "When was Winston Churchill born?",
+        "answer": "30 november 1874",
+        "correct_answer": "1874-11-30",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of the treaty that ended WW I?",
+        "answer": "treaty of versailles",
+        "correct_answer": "treaty of versailles",
+        "is_correct": true
+    },
+    {
+        "question": "Who became king of England in 1135?",
+        "answer": "stephen of blois",
+        "correct_answer": "stephen of england",
+        "is_correct": false
+    },
+    {
+        "question": "How many gods did the Incas believe in?",
+        "answer": "many gods",
+        "correct_answer": "polytheism",
+        "is_correct": false
+    },
+    {
+        "question": "What was the side in WW I that had Germany, Austria, Hungry, Bulgaria and the Ottoman Empire?",
+        "answer": "central powers",
+        "correct_answer": "central powers",
+        "is_correct": true
+    },
+    {
+        "question": "The Korean War was how many years?",
+        "answer": "3 years",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the 3rd president of the United States?",
+        "answer": "thomas jefferson",
+        "correct_answer": "thomas jefferson",
+        "is_correct": true
+    },
+    {
+        "question": "Who is known as the Father of Medicine?",
+        "answer": "hippocrates",
+        "correct_answer": "hippocrates",
+        "is_correct": true
+    },
+    {
+        "question": "Adolf Hitler was the leader of which party?",
+        "answer": "nazi party",
+        "correct_answer": "national socialist german workers' party (nazi party)",
+        "is_correct": false
+    },
+    {
+        "question": "Which emperor built the Great Wall of China?",
+        "answer": "qin shi huang",
+        "correct_answer": "qin shi huangdi",
+        "is_correct": false
+    },
+    {
+        "question": "When did the Ming Dynasty end?",
+        "answer": "1644",
+        "correct_answer": "1644",
+        "is_correct": true
+    },
+    {
+        "question": "What year was the Christmas Truce of WW I?",
+        "answer": "1914",
+        "correct_answer": "1914",
+        "is_correct": true
+    },
+    {
+        "question": "First civilization to use mail?",
+        "answer": "egypt",
+        "correct_answer": "ancient egypt",
+        "is_correct": false
+    },
+    {
+        "question": "What year did the Vietnam War end?",
+        "answer": "1975",
+        "correct_answer": "1975",
+        "is_correct": true
+    },
+    {
+        "question": "Which brothers first flew at Kitty Hawk?",
+        "answer": "wright brothers",
+        "correct_answer": "wright brothers",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the last ruler of Ptolemaic Kingdom of Egypt?",
+        "answer": "cleopatra vii",
+        "correct_answer": "cleopatra",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first Pharaoh?",
+        "answer": "narmer",
+        "correct_answer": "menes",
+        "is_correct": false
+    },
+    {
+        "question": "What year did Mother Teresa die?",
+        "answer": "1997",
+        "correct_answer": "1997",
+        "is_correct": true
+    },
+    {
+        "question": "How old was King Tut when he died?",
+        "answer": "18 years",
+        "correct_answer": "19",
+        "is_correct": false
+    },
+    {
+        "question": "Who founded the Tan Dynasty?",
+        "answer": "li shimin",
+        "correct_answer": "emperor gaozu of tang",
+        "is_correct": false
+    },
+    {
+        "question": "How old was Paul Revere when he died?",
+        "answer": "83 years",
+        "correct_answer": "83",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the last Roman emperor?",
+        "answer": "romulus augustulus",
+        "correct_answer": "romulus augustus",
+        "is_correct": false
+    },
+    {
+        "question": "When did the Mayans become obsolete?",
+        "answer": "900 ad",
+        "correct_answer": "9th century",
+        "is_correct": false
+    },
+    {
+        "question": "What present day country was Paracas Ancient South American culture formerly found in?",
+        "answer": "peru",
+        "correct_answer": "peru",
+        "is_correct": true
+    },
+    {
+        "question": "Which US state was the Mexican American War fought over?",
+        "answer": "texas",
+        "correct_answer": "texas",
+        "is_correct": true
+    },
+    {
+        "question": "When did the American Civil War end?",
+        "answer": "1865",
+        "correct_answer": "1865",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the president of the United States during the Civil War?",
+        "answer": "abraham lincoln",
+        "correct_answer": "abraham lincoln",
+        "is_correct": true
+    },
+    {
+        "question": "Who killed Abraham Lincoln?",
+        "answer": "john wilkes booth",
+        "correct_answer": "john wilkes booth",
+        "is_correct": true
+    },
+    {
+        "question": "What year was the first issue of Oprah Winfrey's magazine published?",
+        "answer": "2000",
+        "correct_answer": "2000",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the 5th emperor of the Romans?",
+        "answer": "nero",
+        "correct_answer": "nero",
+        "is_correct": true
+    },
+    {
+        "question": "What was the first complex civilization in the world?",
+        "answer": "sumeria",
+        "correct_answer": "sumer",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the Greek goddess of love?",
+        "answer": "aphrodite",
+        "correct_answer": "aphrodite",
+        "is_correct": true
+    },
+    {
+        "question": "The Great Wall of China was made to protect their civilization from who?",
+        "answer": "mongolians",
+        "correct_answer": "mongols",
+        "is_correct": false
+    },
+    {
+        "question": "Where was Cleopatra the ruler of?",
+        "answer": "egypt",
+        "correct_answer": "egypt",
+        "is_correct": true
+    },
+    {
+        "question": "What was the last major battle of World War II?",
+        "answer": "battle of berlin",
+        "correct_answer": "battle of okinawa",
+        "is_correct": false
+    },
+    {
+        "question": "How long did the Hundred Years War actually last?",
+        "answer": "116 years",
+        "correct_answer": "116 years",
+        "is_correct": true
+    },
+    {
+        "question": "When did Nikola Tesla set sail for America from Europe?",
+        "answer": "1884",
+        "correct_answer": "1884",
+        "is_correct": true
+    },
+    {
+        "question": "Which amendment is about freedom of speech?",
+        "answer": "first amendment",
+        "correct_answer": "first amendment to the constitution of the united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "Which river did George Washington's troops cross to engage in the Battle of Trenton?",
+        "answer": "delaware river",
+        "correct_answer": "delaware river",
+        "is_correct": true
+    },
+    {
+        "question": "Whose assassination sparked the beginning of World War I?",
+        "answer": "archduke franz ferdinand",
+        "correct_answer": "archduke franz ferdinand",
+        "is_correct": true
+    },
+    {
+        "question": "Where does the name China originate?",
+        "answer": "qin dynasty",
+        "correct_answer": "sanskrit",
+        "is_correct": false
+    },
+    {
+        "question": "Who led the Rough Riders during the Spanish American war?",
+        "answer": "teddy roosevelt",
+        "correct_answer": "theodore roosevelt",
+        "is_correct": false
+    },
+    {
+        "question": "What was the name of China's famous path of commerce during the Han Dynasty?",
+        "answer": "silk road",
+        "correct_answer": "silk road",
+        "is_correct": true
+    },
+    {
+        "question": "When did World War I begin?",
+        "answer": "1914",
+        "correct_answer": "1914",
+        "is_correct": true
+    },
+    {
+        "question": "What year did the first Opium War start?",
+        "answer": "1839",
+        "correct_answer": "1839",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the wife of King Arthur?",
+        "answer": "guinevere",
+        "correct_answer": "guinevere",
+        "is_correct": true
+    },
+    {
+        "question": "What US president was in office at the beginning of World War I?",
+        "answer": "woodrow wilson",
+        "correct_answer": "woodrow wilson",
+        "is_correct": true
+    },
+    {
+        "question": "In the late 1940s, who invented c-14 dating?",
+        "answer": "willard libby",
+        "correct_answer": "willard libby",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first emperor of the Roman Empire?",
+        "answer": "augustus caesar",
+        "correct_answer": "augustus",
+        "is_correct": true
+    },
+    {
+        "question": "What was the first city an atomic bomb was dropped on in World War II?",
+        "answer": "hiroshima",
+        "correct_answer": "hiroshima",
+        "is_correct": true
+    },
+    {
+        "question": "Who were the pyramids of Egypt built as tombs for?",
+        "answer": "pharaohs",
+        "correct_answer": "pharaoh",
+        "is_correct": true
+    },
+    {
+        "question": "On what holiday was the Tet Offensive fought?",
+        "answer": "tet offensive",
+        "correct_answer": "chinese new year",
+        "is_correct": false
+    },
+    {
+        "question": "How long did Alexander the Great rule?",
+        "answer": "10 years",
+        "correct_answer": "13",
+        "is_correct": false
+    },
+    {
+        "question": "Which two leading Greek city states fought against each other in the Peloponnesian war?",
+        "answer": "athens, sparta",
+        "correct_answer": "athens",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the fifth president of the US?",
+        "answer": "james monroe",
+        "correct_answer": "james monroe",
+        "is_correct": true
+    },
+    {
+        "question": "What civilization was Hannibal from?",
+        "answer": "carthage",
+        "correct_answer": "carthage",
+        "is_correct": true
+    },
+    {
+        "question": "Which is the oldest civilization?",
+        "answer": "mesopotamia",
+        "correct_answer": "sumer",
+        "is_correct": false
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "saul",
+        "correct_answer": "saul",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the most distinguished Spartan officer during the second Peloponnesian War?",
+        "answer": "brasidas",
+        "correct_answer": "brasidas",
+        "is_correct": true
+    },
+    {
+        "question": "When did the Vietnam War start?",
+        "answer": "1955",
+        "correct_answer": "1955",
+        "is_correct": true
+    },
+    {
+        "question": "Which country was Ferdinand Magellan born in?",
+        "answer": "portugal",
+        "correct_answer": "portugal",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the last Holy Roman Emperor?",
+        "answer": "francis ii",
+        "correct_answer": "francis ii, holy roman emperor",
+        "is_correct": false
+    },
+    {
+        "question": "How many Americans died in Vietnam?",
+        "answer": "58,220",
+        "correct_answer": "58000",
+        "is_correct": false
+    },
+    {
+        "question": "What year did the Korean War begin?",
+        "answer": "1950",
+        "correct_answer": "1950",
+        "is_correct": true
+    },
+    {
+        "question": "In what year was the Six-Day War fought?",
+        "answer": "1967",
+        "correct_answer": "1967",
+        "is_correct": true
+    },
+    {
+        "question": "What naval battle between Mark Antony and Octavian is often said to mark the beginning of the Roman Empire?",
+        "answer": "actium",
+        "correct_answer": "battle of actium",
+        "is_correct": false
+    },
+    {
+        "question": "Which ancient civilization followed after the Mycenaean civilization?",
+        "answer": "minoan civilization",
+        "correct_answer": "ancient greece",
+        "is_correct": false
+    },
+    {
+        "question": "Where was Christopher Columbus born?",
+        "answer": "genoa, italy",
+        "correct_answer": "italy",
+        "is_correct": true
+    },
+    {
+        "question": "When did Aristotle die?",
+        "answer": "322 bc",
+        "correct_answer": "322 bc",
+        "is_correct": true
+    },
+    {
+        "question": "What pharaoh was the Great Pyramid built under?",
+        "answer": "khufu",
+        "correct_answer": "khufu",
+        "is_correct": true
+    },
+    {
+        "question": "Which ancient civilization was the first to use democracy?",
+        "answer": "athens, greece",
+        "correct_answer": "ancient greece",
+        "is_correct": false
+    },
+    {
+        "question": "Who authored the Divine Comedy?",
+        "answer": "dante alighieri",
+        "correct_answer": "dante alighieri",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the last Egyptian pharaoh?",
+        "answer": "cleopatra vii",
+        "correct_answer": "cleopatra",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the king of England during the American Revolution?",
+        "answer": "george iii",
+        "correct_answer": "george iii of great britain",
+        "is_correct": false
+    },
+    {
+        "question": "Which city was the first to suffer an atomic bombing?",
+        "answer": "hiroshima",
+        "correct_answer": "hiroshima",
+        "is_correct": true
+    },
+    {
+        "question": "What year did the US Civil War end?",
+        "answer": "1865",
+        "correct_answer": "1865",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the third pharaoh of the 20th Dynasty of the New Kingdom?",
+        "answer": "ramesses iii",
+        "correct_answer": "ramesses iv",
+        "is_correct": false
+    }
+]

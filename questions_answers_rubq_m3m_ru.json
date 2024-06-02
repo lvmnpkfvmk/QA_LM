@@ -1,0 +1,1434 @@
+{
+    "question": "Что может вызвать цунами?",
+    "answer": "Error",
+    "correct_answer": "землетрясение",
+    "is_correct": false
+},
+{
+    "question": "Кто написал роман «Хижина дяди Тома»?",
+    "answer": "альберт великий",
+    "correct_answer": "г. бичер-стоу",
+    "is_correct": false
+},
+{
+    "question": "Кто автор пьесы «Ромео и Джульетта»?",
+    "answer": "Error",
+    "correct_answer": "шекспир",
+    "is_correct": false
+},
+{
+    "question": "Как называется столица Румынии?",
+    "answer": "бухарест",
+    "correct_answer": "бухарест",
+    "is_correct": true
+},
+{
+    "question": "На каком инструменте играл Джимми Хендрикс?",
+    "answer": "Error",
+    "correct_answer": "гитара",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежит остров Таити?",
+    "answer": "франция",
+    "correct_answer": "франции",
+    "is_correct": false
+},
+{
+    "question": "Кто создал Зимний дворец в Санкт-Петербурге?",
+    "answer": "иоганн бернхард фишер фон эрлах",
+    "correct_answer": "растрелли",
+    "is_correct": false
+},
+{
+    "question": "Кто режиссер фильма \"Бриллиантовая рука\"?",
+    "answer": "леонид иович гайдай",
+    "correct_answer": "л.гайдай",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежат Канарские острова?",
+    "answer": "испания",
+    "correct_answer": "испания",
+    "is_correct": true
+},
+{
+    "question": "Какой географический объект называется Лимпопо?",
+    "answer": "лимпопо",
+    "correct_answer": "река",
+    "is_correct": false
+},
+{
+    "question": "Какое современное государство занимает территорию, на которой находился древний ассирийский город Ниневия?",
+    "answer": "ирак",
+    "correct_answer": "ирак",
+    "is_correct": true
+},
+{
+    "question": "По какой шкале измеряют силу землетрясений?",
+    "answer": "Error",
+    "correct_answer": "по шкале рихтера",
+    "is_correct": false
+},
+{
+    "question": "В какой стране впервые появилась игра в гольф?",
+    "answer": "Error",
+    "correct_answer": "шотландия",
+    "is_correct": false
+},
+{
+    "question": "Каким видом спорта увлекался президент РФ В.В.Путин?",
+    "answer": "вид вооружённых сил",
+    "correct_answer": "дзюдо",
+    "is_correct": false
+},
+{
+    "question": "Как звали отца Северуса Снейпа?",
+    "answer": "принц-полукровка",
+    "correct_answer": "тоббиас снегг (снейп)",
+    "is_correct": false
+},
+{
+    "question": "Как звали сына Драко?",
+    "answer": "скорпиус малфой",
+    "correct_answer": "скорпиус гиперион малфой",
+    "is_correct": false
+},
+{
+    "question": "Как звали маму Северуса Снейпа?",
+    "answer": "Error",
+    "correct_answer": "эйлин принц",
+    "is_correct": false
+},
+{
+    "question": "Как звали создателя факультета Когтевран (Рейвенкло)?",
+    "answer": "кандида когтевран",
+    "correct_answer": "кандида когтевран (ровена рэйвенкло)",
+    "is_correct": true
+},
+{
+    "question": "Как звали дракончика Хагрида?",
+    "answer": "рикардо / рикарду",
+    "correct_answer": "норберт",
+    "is_correct": false
+},
+{
+    "question": "Кто автор исторического романа 'Княжна Тараканова'?",
+    "answer": "Error",
+    "correct_answer": "г. п. данилевский",
+    "is_correct": false
+},
+{
+    "question": "Какой цвет имеет краска \"индиго\"?",
+    "answer": "красители",
+    "correct_answer": "синий",
+    "is_correct": false
+},
+{
+    "question": "На каком языке сочиняет стихи Расул Гамзатов?",
+    "answer": "аварский язык",
+    "correct_answer": "на аварском",
+    "is_correct": false
+},
+{
+    "question": "Какой пролив древние греки называли \"Геркулесовы столбы\"?",
+    "answer": "мифология",
+    "correct_answer": "гибралтар",
+    "is_correct": false
+},
+{
+    "question": "С какой страной связано название БЛИСТАТЕЛЬНАЯ ПОРТА?",
+    "answer": "суверенное государство",
+    "correct_answer": "турция",
+    "is_correct": false
+},
+{
+    "question": "Кто автор музыки к фильму \"Александр Невский\"?",
+    "answer": "Error",
+    "correct_answer": "с. прокофьев",
+    "is_correct": false
+},
+{
+    "question": "В какой стране живут кхмеры?",
+    "answer": "Error",
+    "correct_answer": "камбоджа",
+    "is_correct": false
+},
+{
+    "question": "В какой стране находится гора Эверест?",
+    "answer": "китай",
+    "correct_answer": "непал",
+    "is_correct": false
+},
+{
+    "question": "В какой стране находится город Семипалатинск?",
+    "answer": "казахстан",
+    "correct_answer": "казахстан",
+    "is_correct": true
+},
+{
+    "question": "В какой стране находятся две великие реки – Тигр и Евфрат?",
+    "answer": "турция",
+    "correct_answer": "ирак",
+    "is_correct": false
+},
+{
+    "question": "В какой стране обитает кенгуру?",
+    "answer": "Error",
+    "correct_answer": "австралия",
+    "is_correct": false
+},
+{
+    "question": "В каком американском штате находится Большой Каньон?",
+    "answer": "аризона",
+    "correct_answer": "аризона",
+    "is_correct": true
+},
+{
+    "question": "В каком виде спорта прославился Е. Кафельников?",
+    "answer": "теннисист",
+    "correct_answer": "теннис",
+    "is_correct": false
+},
+{
+    "question": "В каком государстве находится город Сент-Питерсберг?",
+    "answer": "боро пенсильвании",
+    "correct_answer": "сша",
+    "is_correct": false
+},
+{
+    "question": "В каком польском городе зародилось движение \"Солидарность\"?",
+    "answer": "Error",
+    "correct_answer": "гданьск",
+    "is_correct": false
+},
+{
+    "question": "В каком романе Франсуа Рабле главного героя сопровождал персонаж по имени Панург?",
+    "answer": "гаргантюа и пантагрюэль",
+    "correct_answer": "гаргантюа и пантагрюэль",
+    "is_correct": true
+},
+{
+    "question": "В каком штате США расположена самая длинная пещера в мире (530 км) с забавным названием Флинт-Мамонтова?",
+    "answer": "сша",
+    "correct_answer": "кентукки",
+    "is_correct": false
+},
+{
+    "question": "Где происходят действия романа \"Отверженные\" Виктора Гюго?",
+    "answer": "техас",
+    "correct_answer": "париж",
+    "is_correct": false
+},
+{
+    "question": "Из какой породы рыб в древнем Китае вывели аквариумную золотую рыбку?",
+    "answer": "ракетные войска народно-освободительной армии китая",
+    "correct_answer": "карась",
+    "is_correct": false
+},
+{
+    "question": "К какой династии относился Ричард Львиное Сердце?",
+    "answer": "плантагенеты",
+    "correct_answer": "плантагенет",
+    "is_correct": false
+},
+{
+    "question": "Как звали коня Александра Македонского?",
+    "answer": "геракл",
+    "correct_answer": "буцефал",
+    "is_correct": false
+},
+{
+    "question": "Как звали мать Александра Македонского?",
+    "answer": "геракл",
+    "correct_answer": "олимпиада",
+    "is_correct": false
+},
+{
+    "question": "Как иначе называется канун Рождества Христова?",
+    "answer": "Error",
+    "correct_answer": "сочельник",
+    "is_correct": false
+},
+{
+    "question": "Как называется административный центр штата Аляска?",
+    "answer": "сша",
+    "correct_answer": "джуно",
+    "is_correct": false
+},
+{
+    "question": "Как называется главный труд Карла Маркса?",
+    "answer": "Error",
+    "correct_answer": "капитал",
+    "is_correct": false
+},
+{
+    "question": "Как называется столица Камбоджи?",
+    "answer": "государственный гимн",
+    "correct_answer": "пномпень",
+    "is_correct": false
+},
+{
+    "question": "Как называются деньги в Гондурасе?",
+    "answer": "разменная денежная единица",
+    "correct_answer": "лемпира",
+    "is_correct": false
+},
+{
+    "question": "Какое безобидное существо носит странное название \"Мертвая голова\"?",
+    "answer": "кольцо",
+    "correct_answer": "бабочка бражник",
+    "is_correct": false
+},
+{
+    "question": "Какой город на черноморском побережье назывался Кафа?",
+    "answer": "феодосия (городской округ)",
+    "correct_answer": "феодосия",
+    "is_correct": false
+},
+{
+    "question": "Какой город расположен на южном берегу пролива Золотые Ворота?",
+    "answer": "украина",
+    "correct_answer": "сан-франциско",
+    "is_correct": false
+},
+{
+    "question": "Какой город является административным центром штата Нью-Йорк?",
+    "answer": "олбани",
+    "correct_answer": "олбани",
+    "is_correct": true
+},
+{
+    "question": "Какой город является столицей Нигерии?",
+    "answer": "лагос",
+    "correct_answer": "абуджа",
+    "is_correct": false
+},
+{
+    "question": "Какой музыкальный инструмент прославил имя Луи Армстронга?",
+    "answer": "корнет",
+    "correct_answer": "труба",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежит авиакомпания \"KLM\"?",
+    "answer": "нидерланды",
+    "correct_answer": "голландия",
+    "is_correct": false
+},
+{
+    "question": "Какому музею принадлежит \"Джоконда\" великого Леонардо?",
+    "answer": "базилика санта-кроче",
+    "correct_answer": "лувр",
+    "is_correct": false
+},
+{
+    "question": "Какую стезю избрал на пятом десятке француз Мишель де Монтень, вдоволь посражавшись на стороне Генриха IV, кем он стал?",
+    "answer": "французский моралист",
+    "correct_answer": "философ",
+    "is_correct": false
+},
+{
+    "question": "Какую страну римляне называли \"Каледония\"?",
+    "answer": "великобритания",
+    "correct_answer": "шотландию",
+    "is_correct": false
+},
+{
+    "question": "Кому принадлежат слова \"И ты, Брут\"?",
+    "answer": "сравнительные жизнеописания",
+    "correct_answer": "цезарю",
+    "is_correct": false
+},
+{
+    "question": "Кому принадлежат слова: \"Я мыслю, следовательно существую\"?",
+    "answer": "Error",
+    "correct_answer": "декарт",
+    "is_correct": false
+},
+{
+    "question": "Кто автор произведения \"Ученые женщины\"?",
+    "answer": "антонио сальери",
+    "correct_answer": "мольер",
+    "is_correct": false
+},
+{
+    "question": "Кто автор романа \"Спартак\"?",
+    "answer": "вагит юсуфович алекперов",
+    "correct_answer": "джованьоли",
+    "is_correct": false
+},
+{
+    "question": "Кто заложил основы кибернетики?",
+    "answer": "Error",
+    "correct_answer": "винер",
+    "is_correct": false
+},
+{
+    "question": "Кто написал повесть-сказку \"Приключения Пиноккио\"?",
+    "answer": "коуди камерон",
+    "correct_answer": "коллоди",
+    "is_correct": false
+},
+{
+    "question": "Кто написал поэму \"Потерянный рай\"?",
+    "answer": "Error",
+    "correct_answer": "мильтон",
+    "is_correct": false
+},
+{
+    "question": "Кто написал поэму \"Черный человек\"?",
+    "answer": "Error",
+    "correct_answer": "есенин",
+    "is_correct": false
+},
+{
+    "question": "Кто написал сказку \"Карлик-Нос\"?",
+    "answer": "Error",
+    "correct_answer": "гауф",
+    "is_correct": false
+},
+{
+    "question": "Кто плавал на папирусной лодке \"Ра\" и на плоту \"Кон-Тики\"?",
+    "answer": "энциклопедический словарь гранат",
+    "correct_answer": "хейердал",
+    "is_correct": false
+},
+{
+    "question": "Кто придумал Алису Селезневу?",
+    "answer": "Error",
+    "correct_answer": "булычев",
+    "is_correct": false
+},
+{
+    "question": "Кто придумал комиссара Мегрэ?",
+    "answer": "Error",
+    "correct_answer": "сименон",
+    "is_correct": false
+},
+{
+    "question": "Кто придумал персонаж по имени Анастасия Каменская?",
+    "answer": "Error",
+    "correct_answer": "маринина",
+    "is_correct": false
+},
+{
+    "question": "Кто сочинил \"Танец с саблями\"?",
+    "answer": "арам хачатурян",
+    "correct_answer": "хачатурян",
+    "is_correct": false
+},
+{
+    "question": "Лидером какой музыкальной группы был Фред Меркьюри?",
+    "answer": "Error",
+    "correct_answer": "queen",
+    "is_correct": false
+},
+{
+    "question": "На какой планете родился Люк Скайвокер?",
+    "answer": "татуин",
+    "correct_answer": "татуин",
+    "is_correct": true
+},
+{
+    "question": "Столицей какой республики является Тегусигальпа?",
+    "answer": "гондурас",
+    "correct_answer": "гондурас",
+    "is_correct": true
+},
+{
+    "question": "Какой архитектор построил Исаакиевский собор в Санкт-Петербурге?",
+    "answer": "огюст монферран",
+    "correct_answer": "монферран",
+    "is_correct": false
+},
+{
+    "question": "Какой русский поэт был мужем знаменитой танцовщицы Айседоры Дункан?",
+    "answer": "мерседес де акоста",
+    "correct_answer": "есенин",
+    "is_correct": false
+},
+{
+    "question": "Страна, которой обязано своим происхождением \"церковное\" вино – кагор",
+    "answer": "Error",
+    "correct_answer": "франция",
+    "is_correct": false
+},
+{
+    "question": "Какое здание в Ханое американские солдаты окрестили ханойским \"Хилтоном\"?",
+    "answer": "ханой",
+    "correct_answer": "тюрьму",
+    "is_correct": false
+},
+{
+    "question": "Кто сказал \"И ты, Брут\"?",
+    "answer": "юния терция",
+    "correct_answer": "цезарь",
+    "is_correct": false
+},
+{
+    "question": "В какой стране находится город Брянск?",
+    "answer": "Error",
+    "correct_answer": "россия",
+    "is_correct": false
+},
+{
+    "question": "В каком театре выступал Владимир Высоцкий?",
+    "answer": "московский государственный строительный университет",
+    "correct_answer": "таганка",
+    "is_correct": false
+},
+{
+    "question": "Где находится штат Уттар-Прадеш",
+    "answer": "индия",
+    "correct_answer": "индия",
+    "is_correct": true
+},
+{
+    "question": "Как звали брата Каина?",
+    "answer": "оссип",
+    "correct_answer": "авель",
+    "is_correct": false
+},
+{
+    "question": "Как звали брата Авеля?",
+    "answer": "Error",
+    "correct_answer": "каин",
+    "is_correct": false
+},
+{
+    "question": "Как звали отца Ромула, в честь которого римляне даже переделали свой календарь?",
+    "answer": "ромул",
+    "correct_answer": "марс",
+    "is_correct": false
+},
+{
+    "question": "Как называется город в США, где расположен всемирно известный Гарвардский университет?",
+    "answer": "вашингтон",
+    "correct_answer": "кембридж",
+    "is_correct": false
+},
+{
+    "question": "Как называется коллекционирование марок?",
+    "answer": "тёртое какао",
+    "correct_answer": "филателия",
+    "is_correct": false
+},
+{
+    "question": "Какое единоборство принесло голливудской звезде Жан-Клоду Ван Дамму прозвище \"мускулы из Брюсселя\"",
+    "answer": "завентем",
+    "correct_answer": "карате",
+    "is_correct": false
+},
+{
+    "question": "Какой герой послужил прототипом А. Толстому для создания образа Буратино?",
+    "answer": "конструкторское бюро транспортного машиностроения",
+    "correct_answer": "пиноккио",
+    "is_correct": false
+},
+{
+    "question": "Какой художник заставил запорожцев написать письмо турецкому султану?",
+    "answer": "Error",
+    "correct_answer": "репин",
+    "is_correct": false
+},
+{
+    "question": "Какую партию возглавляет Жириновский (аббрев.)?",
+    "answer": "медаль анатолия кони",
+    "correct_answer": "лдпр",
+    "is_correct": false
+},
+{
+    "question": "Кто из ахейцев-героев Троянской войны был мужем Клитемнестры?",
+    "answer": "Error",
+    "correct_answer": "агамемнон",
+    "is_correct": false
+},
+{
+    "question": "Основателем какой китайской династии был Сяо Янь",
+    "answer": "император китая",
+    "correct_answer": "лян",
+    "is_correct": false
+},
+{
+    "question": "Что получится, если переплавить наполеондор",
+    "answer": "фраза",
+    "correct_answer": "золото",
+    "is_correct": false
+},
+{
+    "question": "В какой стране город Бангкок?",
+    "answer": "таиланд",
+    "correct_answer": "тайланд",
+    "is_correct": false
+},
+{
+    "question": "Где находится Афон – святая гора?",
+    "answer": "Error",
+    "correct_answer": "греция",
+    "is_correct": false
+},
+{
+    "question": "Как в системе СИ называется единица магнитной индукции?",
+    "answer": "авторитетный файл",
+    "correct_answer": "тесла",
+    "is_correct": false
+},
+{
+    "question": "Какая участь ждала Гитлера?",
+    "answer": "железный крест",
+    "correct_answer": "самоубийство",
+    "is_correct": false
+},
+{
+    "question": "Куда впадает река Уссури?",
+    "answer": "Error",
+    "correct_answer": "амур",
+    "is_correct": false
+},
+{
+    "question": "Какая река впадает в Мертвое море?",
+    "answer": "Error",
+    "correct_answer": "иордан",
+    "is_correct": false
+},
+{
+    "question": "На какой реке стоит город Багдад?",
+    "answer": "Error",
+    "correct_answer": "тигр",
+    "is_correct": false
+},
+{
+    "question": "Какого числа отмечают день Святого Валентина?",
+    "answer": "Error",
+    "correct_answer": "14 февраля",
+    "is_correct": false
+},
+{
+    "question": "В какой земле Германии находится старинный город Веймар, где расположены музеи И. В. Гете, И. Ф. Шиллера и Ф. Листа?",
+    "answer": "Error",
+    "correct_answer": "тюрингия",
+    "is_correct": false
+},
+{
+    "question": "Как называется денежная единица Аомыня (Макао)?",
+    "answer": "Error",
+    "correct_answer": "патака",
+    "is_correct": false
+},
+{
+    "question": "В каком городе родился Людвиг ван Бетховен?",
+    "answer": "Error",
+    "correct_answer": "бонн",
+    "is_correct": false
+},
+{
+    "question": "Откуда родом был великий русский изобретатель-самоучка Иван Петрович Кулибин?",
+    "answer": "Error",
+    "correct_answer": "нижний новгород",
+    "is_correct": false
+},
+{
+    "question": "Какая болезнь развилась у Бетховена в последние годы жизни?",
+    "answer": "гений",
+    "correct_answer": "глухота",
+    "is_correct": false
+},
+{
+    "question": "Кто такие «морские свиньи»?",
+    "answer": "зубатые киты",
+    "correct_answer": "киты (подотряд зубатых китов)",
+    "is_correct": false
+},
+{
+    "question": "Какой писатель-фантаст придумал три закона робототехники?",
+    "answer": "Error",
+    "correct_answer": "айзек азимов",
+    "is_correct": false
+},
+{
+    "question": "Какой вид спорта прославил имя Сергея Бубки?",
+    "answer": "Error",
+    "correct_answer": "прыжки с шестом",
+    "is_correct": false
+},
+{
+    "question": "Какой музыкальный инструмент прославил Веру Дулову?",
+    "answer": "инструментовка",
+    "correct_answer": "арфа",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежит остров Мадейра, давший название крепкому вину мадере?",
+    "answer": "португалия",
+    "correct_answer": "португалии",
+    "is_correct": false
+},
+{
+    "question": "Какое животное (и только оно!) вырабатывает амбру?",
+    "answer": "Error",
+    "correct_answer": "кашалот",
+    "is_correct": false
+},
+{
+    "question": "Где находится Рокфеллер Плато?",
+    "answer": "Error",
+    "correct_answer": "антарктида",
+    "is_correct": false
+},
+{
+    "question": "Кем был знаменитый грек Аристотель, который жил в  IV веке до н.э.?",
+    "answer": "сикион",
+    "correct_answer": "философом",
+    "is_correct": false
+},
+{
+    "question": "Кто автор строк: \"Белеет парус одинокий...\"?",
+    "answer": "валентин петрович катаев",
+    "correct_answer": "м.ю.лермонтов",
+    "is_correct": false
+},
+{
+    "question": "Какой город является столицей республики Бурятия?",
+    "answer": "улан-удэ",
+    "correct_answer": "улан-удэ",
+    "is_correct": true
+},
+{
+    "question": "Где расположен Пиренейский полуостров?",
+    "answer": "гибралтар",
+    "correct_answer": "европа",
+    "is_correct": false
+},
+{
+    "question": "Где расположен космодром Плесецк?",
+    "answer": "Error",
+    "correct_answer": "архангельская область",
+    "is_correct": false
+},
+{
+    "question": "Какой город является столицей Чувашии?",
+    "answer": "чебоксары",
+    "correct_answer": "чебоксары",
+    "is_correct": true
+},
+{
+    "question": "Какой титул был у Мюнхгаузена?",
+    "answer": "барон",
+    "correct_answer": "барон",
+    "is_correct": true
+},
+{
+    "question": "Какая наука изучает атмосферу и её состав?",
+    "answer": "Error",
+    "correct_answer": "метеорология",
+    "is_correct": false
+},
+{
+    "question": "Какой металл обязательно присутствует в амальгаме?",
+    "answer": "переходные металлы",
+    "correct_answer": "ртуть",
+    "is_correct": false
+},
+{
+    "question": "В какой стране на население наводили ужас тонтон-макуты?",
+    "answer": "Error",
+    "correct_answer": "гаити",
+    "is_correct": false
+},
+{
+    "question": "Как называлась столица государства ацтеков?",
+    "answer": "мерв",
+    "correct_answer": "теночтитлан",
+    "is_correct": false
+},
+{
+    "question": "В каком городе аэропорт назван именем Джона Леннона",
+    "answer": "нью-йорк",
+    "correct_answer": "ливерпуль",
+    "is_correct": false
+},
+{
+    "question": "Кому приписывается открытие пути эволюции человека?",
+    "answer": "Error",
+    "correct_answer": "чарльз дарвин",
+    "is_correct": false
+},
+{
+    "question": "Кто из персонажей романа Л.Н.Толстого \"Война и мир\" является мужем Наташи Ростовой?",
+    "answer": "Error",
+    "correct_answer": "пьер безухов",
+    "is_correct": false
+},
+{
+    "question": "Какие формы земной поверхности изучает спелеолог?",
+    "answer": "Error",
+    "correct_answer": "пещеры",
+    "is_correct": false
+},
+{
+    "question": "Кто создал сайт в Контакте?",
+    "answer": "павел дуров",
+    "correct_answer": "павел дуров",
+    "is_correct": true
+},
+{
+    "question": "В какой легкоатлетической дисциплине олимпийский рекорд Боба Бимона 1968 года был побит только в 1991",
+    "answer": "баскетбол",
+    "correct_answer": "прыжки в длинну",
+    "is_correct": false
+},
+{
+    "question": "На какой реке стоит город Саратов?",
+    "answer": "приволжская железная дорога",
+    "correct_answer": "волга",
+    "is_correct": false
+},
+{
+    "question": "В какой области науки проявились выдающиеся способности Софьи Ковалевской?",
+    "answer": "механика",
+    "correct_answer": "математика",
+    "is_correct": false
+},
+{
+    "question": "Кто написал текст российского гимна «Боже, царя храни»?",
+    "answer": "василий андреевич жуковский",
+    "correct_answer": "василий жуковский",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежат Шантарские острова?",
+    "answer": "россия",
+    "correct_answer": "россия",
+    "is_correct": true
+},
+{
+    "question": "Кто из великих художников Возрождения расписывал Сикстинскую капеллу Ватикана?",
+    "answer": "ибрагим кодра",
+    "correct_answer": "микеланджело",
+    "is_correct": false
+},
+{
+    "question": "Какому времени года соответствует 2-й месяц французского республиканского календаря брюмер?",
+    "answer": "Error",
+    "correct_answer": "осень",
+    "is_correct": false
+},
+{
+    "question": "На какой реке стоит Тверь?",
+    "answer": "Error",
+    "correct_answer": "волга",
+    "is_correct": false
+},
+{
+    "question": "Какой язык является государственным языком Эфиопии?",
+    "answer": "национальный банк эфиопии",
+    "correct_answer": "амхарский",
+    "is_correct": false
+},
+{
+    "question": "На какой реке стоит город Прага?",
+    "answer": "влтава",
+    "correct_answer": "влтава",
+    "is_correct": true
+},
+{
+    "question": "Какой город является административным центром (столицей) штата Техас?",
+    "answer": "хьюстон",
+    "correct_answer": "остин",
+    "is_correct": false
+},
+{
+    "question": "Кто убил Петра Столыпина?",
+    "answer": "горчакова, наталья михайловна",
+    "correct_answer": "богров",
+    "is_correct": false
+},
+{
+    "question": "Кому из борцов за гражданские права принадлежит фраза \"У меня есть мечта...\"?",
+    "answer": "электромагнитный спектр",
+    "correct_answer": "мартину лютеру кингу",
+    "is_correct": false
+},
+{
+    "question": "На какой реке стоит Минск?",
+    "answer": "раковское предместье",
+    "correct_answer": "свислочь",
+    "is_correct": false
+},
+{
+    "question": "Какой из городов является столицей Швейцарской конфедерации?",
+    "answer": "берн",
+    "correct_answer": "берн",
+    "is_correct": true
+},
+{
+    "question": "В каком созвездии самая яркая звезда называется Вега?",
+    "answer": "энциклопедический лексикон, 1835—1841",
+    "correct_answer": "лира",
+    "is_correct": false
+},
+{
+    "question": "Кто победил на конкурсе ''Мисс Мира'' в 1994 году?",
+    "answer": "Error",
+    "correct_answer": "айшвария рай",
+    "is_correct": false
+},
+{
+    "question": "В какой город переселился из Мекки Мухаммед в 622 году, дав тем самым точку отсчета для мусульманского летосчисления?",
+    "answer": "александрия",
+    "correct_answer": "медина",
+    "is_correct": false
+},
+{
+    "question": "В каком городе обосновалось коллаборационистское правительство Петена в период оккупации Франции немецкими войсками?",
+    "answer": "париж",
+    "correct_answer": "виши",
+    "is_correct": false
+},
+{
+    "question": "Кто создал Лестерский кодекс - тетрадь научных работ, которую Билл Гейтс приобрел за 30 миллионов долларов?",
+    "answer": "билл гейтс",
+    "correct_answer": "леонардо да винчи",
+    "is_correct": false
+},
+{
+    "question": "Каким типом корабля был \"Кореец\", храбро сражавшийся вместе с \"Варягом\" против японской эскадры?",
+    "answer": "Error",
+    "correct_answer": "канонерская лодка",
+    "is_correct": false
+},
+{
+    "question": "Как называются денежные купюры Армении?",
+    "answer": "валюта",
+    "correct_answer": "драмы",
+    "is_correct": false
+},
+{
+    "question": "Какая единица в системе СИ носит имя изобретателя Николы Тесла?",
+    "answer": "аутоиммунные заболевания",
+    "correct_answer": "магнитной индукции",
+    "is_correct": false
+},
+{
+    "question": "Кто написал сказку \"Спящая царевна\"?",
+    "answer": "Error",
+    "correct_answer": "в. а. жуковский",
+    "is_correct": false
+},
+{
+    "question": "В какой стране расположен город Антверпен?",
+    "answer": "бельгия",
+    "correct_answer": "бельгия",
+    "is_correct": true
+},
+{
+    "question": "В какой стране в 1960 году Сиримаво Бандаранаике стала первой женщиной премьер-министром?",
+    "answer": "премьер-министр шри-ланки",
+    "correct_answer": "шри-ланка",
+    "is_correct": false
+},
+{
+    "question": "В каком городе родилась известная актриса Фаина Раневская?",
+    "answer": "таганрог",
+    "correct_answer": "таганрог",
+    "is_correct": true
+},
+{
+    "question": "В каком городе родился пророк Мухаммед (Магомет)?",
+    "answer": "Error",
+    "correct_answer": "мекка",
+    "is_correct": false
+},
+{
+    "question": "В каком стиле работал архитектор Растрелли?",
+    "answer": "барокко",
+    "correct_answer": "барокко",
+    "is_correct": true
+},
+{
+    "question": "В каком городе происходит действие романа Т. Манна \"Будденброки\"",
+    "answer": "бад-швартау",
+    "correct_answer": "в любеке.",
+    "is_correct": false
+},
+{
+    "question": "Как звали лошадь Дон Кихота?",
+    "answer": "дон кихот",
+    "correct_answer": "росинант",
+    "is_correct": false
+},
+{
+    "question": "Где правит королевский дом Бернадотов?",
+    "answer": "Error",
+    "correct_answer": "швеция",
+    "is_correct": false
+},
+{
+    "question": "На какой реке находится знаменитый водопад Виктория?",
+    "answer": "замбези",
+    "correct_answer": "замбези",
+    "is_correct": true
+},
+{
+    "question": "В каком регионе России находится старинный город Сарапул?",
+    "answer": "Error",
+    "correct_answer": "удмуртия",
+    "is_correct": false
+},
+{
+    "question": "Какой город является столицей штата Аляска?",
+    "answer": "сша",
+    "correct_answer": "джуно",
+    "is_correct": false
+},
+{
+    "question": "В какой из стран есть курорты Солнечный День и Солнечный Берег?",
+    "answer": "болгария",
+    "correct_answer": "в болгарии",
+    "is_correct": false
+},
+{
+    "question": "Сыном какой страны был Эдмунд Хиллари, первым вместе с шерпом Н. Тенцингом покорившим Эверест?",
+    "answer": "новая зеландия",
+    "correct_answer": "новая зеландия",
+    "is_correct": true
+},
+{
+    "question": "На каком острове находится вулкан Фудзияма?",
+    "answer": "япония",
+    "correct_answer": "хонсю",
+    "is_correct": false
+},
+{
+    "question": "Какое игровое амплуа у футболиста Игоря Акинфеева?",
+    "answer": "футбол",
+    "correct_answer": "вратарь",
+    "is_correct": false
+},
+{
+    "question": "В каком городе происходит действие повести Марка Твена \"Принц и нищий\"?",
+    "answer": "Error",
+    "correct_answer": "лондон",
+    "is_correct": false
+},
+{
+    "question": "В каком городе расположен музей \"Прадо\"?",
+    "answer": "самора",
+    "correct_answer": "мадрид",
+    "is_correct": false
+},
+{
+    "question": "Где находится Танталова пещера?",
+    "answer": "зальцбург",
+    "correct_answer": "австрия",
+    "is_correct": false
+},
+{
+    "question": "Какая группа записала музыкальный альбом \"Актриса Весна\"?",
+    "answer": "ддт",
+    "correct_answer": "\"ддт\"",
+    "is_correct": true
+},
+{
+    "question": "Кем был сформулирован закон, что действию всегда есть равное противодействие?",
+    "answer": "Error",
+    "correct_answer": "ньютоном",
+    "is_correct": false
+},
+{
+    "question": "Какой композитор написал первую советскую рок-оперу «Орфей и Эвридика»?",
+    "answer": "якопо пери",
+    "correct_answer": "александр журбин",
+    "is_correct": false
+},
+{
+    "question": "Как звали жену Рембрандта?",
+    "answer": "рембрандт",
+    "correct_answer": "саския",
+    "is_correct": false
+},
+{
+    "question": "Какой художник был подвергнут критике французского высшего общества за скандальный \"Портрет мадам Икс\"?",
+    "answer": "джон сингер сарджент",
+    "correct_answer": "джон сингер сарджент",
+    "is_correct": true
+},
+{
+    "question": "В каком театре играет О.Басилашвили?",
+    "answer": "русский алфавит",
+    "correct_answer": "бдт",
+    "is_correct": false
+},
+{
+    "question": "В каком море находится полуостров Ямал?",
+    "answer": "Error",
+    "correct_answer": "карское",
+    "is_correct": false
+},
+{
+    "question": "Какая ветвь философии включает в себя изучение этики и эстетики?",
+    "answer": "раздел науки",
+    "correct_answer": "аксиология",
+    "is_correct": false
+},
+{
+    "question": "Кто написал музыку к песне \"Подмосковные вечера\"?",
+    "answer": "Error",
+    "correct_answer": "соловьев-седой",
+    "is_correct": false
+},
+{
+    "question": "Кто организовал зарубежные \"русские сезоны\", прославившие в начале XX века русский балет?",
+    "answer": "сергей павлович дягилев",
+    "correct_answer": "дягилев",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежит остров Эльба-место ссылки Наполеона?",
+    "answer": "россия",
+    "correct_answer": "италия",
+    "is_correct": false
+},
+{
+    "question": "В какой стране находится национальный парк Банф?",
+    "answer": "канада",
+    "correct_answer": "канада",
+    "is_correct": true
+},
+{
+    "question": "Кто был матерью Ивана Грозного?",
+    "answer": "Error",
+    "correct_answer": "елена глинская",
+    "is_correct": false
+},
+{
+    "question": "Каков жанр произведения А.С.Пушкина \"Капитанская дочка\"?",
+    "answer": "Error",
+    "correct_answer": "повесть",
+    "is_correct": false
+},
+{
+    "question": "Каким видом спорта профессионально занимался известный тенор Зураб Соткилава?",
+    "answer": "футбол",
+    "correct_answer": "футбол",
+    "is_correct": true
+},
+{
+    "question": "Какой город архитектор Оскар Нимейер возвел ''на пустом месте''?",
+    "answer": "собор пресвятой девы марии",
+    "correct_answer": "бразилия",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежит архипелаг Бокас-дель-Торо, на котором проходят съемки \"Последнего героя\"?",
+    "answer": "Error",
+    "correct_answer": "панама",
+    "is_correct": false
+},
+{
+    "question": "Какая гора - наивысшая точка Кавказа?",
+    "answer": "мамисонский перевал",
+    "correct_answer": "эльбрус",
+    "is_correct": false
+},
+{
+    "question": "Кто автор музыкальной фантазии «Карнавал животных»?",
+    "answer": "камиль сен-санс",
+    "correct_answer": "камиль сен-санс",
+    "is_correct": true
+},
+{
+    "question": "В какой стране многие годы бесчинствовала левацкая террористическая организация \"Сендеро Луминосо\"?",
+    "answer": "перу",
+    "correct_answer": "перу",
+    "is_correct": true
+},
+{
+    "question": "В какой стране течет река Оранжевая?",
+    "answer": "Error",
+    "correct_answer": "юар",
+    "is_correct": false
+},
+{
+    "question": "Какая певица вышла замуж за капитана футбольной команды «Зенит» Владислава Радимова?",
+    "answer": "газпром",
+    "correct_answer": "татьяна буланова",
+    "is_correct": false
+},
+{
+    "question": "В какой стране расположен храмовый комплекс Ангкорвоат?",
+    "answer": "камбоджа",
+    "correct_answer": "камбоджа",
+    "is_correct": true
+},
+{
+    "question": "Какой стране принадлежит домен высшего уровня .co?",
+    "answer": "Error",
+    "correct_answer": "колумбия",
+    "is_correct": false
+},
+{
+    "question": "Кто автор книги \"Шевалье де Сент-Эрмин\"?",
+    "answer": "соратники иегу",
+    "correct_answer": "александр дюма",
+    "is_correct": false
+},
+{
+    "question": "В каком итальянском городе находится картинная галерея Уффици?",
+    "answer": "округ 1 - исторический центр флоренции",
+    "correct_answer": "флоренция",
+    "is_correct": false
+},
+{
+    "question": "Кем по профессии был Джеймс Бонд, чьим именем был назван герой серии книг Яна Ланкастера Флеминга?",
+    "answer": "политик",
+    "correct_answer": "орнитолог",
+    "is_correct": false
+},
+{
+    "question": "Какая звезда изображена на флаге Аргентины?",
+    "answer": "песо",
+    "correct_answer": "солнце",
+    "is_correct": false
+},
+{
+    "question": "В каком музее мира находится картина Винсента Ван Гога \"Красные виноградники в Арле\"?",
+    "answer": "амстердам",
+    "correct_answer": "гос. музей изобразительных искусств им. а.с.пушкина, москва.",
+    "is_correct": false
+},
+{
+    "question": "Гражданином какой страны был открыватель пенициллина Александр Флеминг?",
+    "answer": "великобритания",
+    "correct_answer": "великобритания.",
+    "is_correct": true
+},
+{
+    "question": "Кто из отечественных режиссёров, снимавших фильмы по романам А.Дюма, поставил киноленту \"Узник замка Иф\"?",
+    "answer": "георгий эмильевич юнгвальд-хилькевич",
+    "correct_answer": "г.юнгвальд-хилькевич",
+    "is_correct": false
+},
+{
+    "question": "Кто написал оперу Евгений Онегин?",
+    "answer": "Error",
+    "correct_answer": "п. и. чайковский",
+    "is_correct": false
+},
+{
+    "question": "Какой город является центром Уральского федерального округа?",
+    "answer": "екатеринбург",
+    "correct_answer": "екатеринбург",
+    "is_correct": true
+},
+{
+    "question": "Какой город является столицей Австралии?",
+    "answer": "австралия",
+    "correct_answer": "канберра",
+    "is_correct": false
+},
+{
+    "question": "Где находится одна из наиболее сохранившихся ископаемых формаций Бержес-Шейл?",
+    "answer": "Error",
+    "correct_answer": "канада",
+    "is_correct": false
+},
+{
+    "question": "Кинематографисты какой страны сняли знаменитый телесериал \"Ставка больше чем жизнь\"?",
+    "answer": "польша",
+    "correct_answer": "пнр (польская народная республика)",
+    "is_correct": false
+},
+{
+    "question": "Кто изобрёл фонограф - устройство для записи и воспроизведения голоса?",
+    "answer": "Error",
+    "correct_answer": "томас эдисон",
+    "is_correct": false
+},
+{
+    "question": "Кто из космонавтов участвовал в совместном с США полете \"Союз - Аполлон\"?",
+    "answer": "вэнс бранд",
+    "correct_answer": "алексей леонов, валерий кубасов, томас стаффорд, вэнс бранд, дональд слейтон.",
+    "is_correct": true
+},
+{
+    "question": "Кем был по футбольному амплуа известный физик Нильс Бор?",
+    "answer": "футболист",
+    "correct_answer": "вратарь",
+    "is_correct": false
+},
+{
+    "question": "Какая река протекает по Большому Каньону в США?",
+    "answer": "атлантический океан",
+    "correct_answer": "колорадо",
+    "is_correct": false
+},
+{
+    "question": "Какая команда стала последним чемпионом СССР по футболу?",
+    "answer": "футбол",
+    "correct_answer": "цска москва",
+    "is_correct": false
+},
+{
+    "question": "Какой город является столицей Кирибати?",
+    "answer": "южная тарава",
+    "correct_answer": "южная тарава",
+    "is_correct": true
+},
+{
+    "question": "Какой стадион принимал финал чемпионата мира по футболу 1966 года?",
+    "answer": "Error",
+    "correct_answer": "уэмбли (лондон)",
+    "is_correct": false
+},
+{
+    "question": "Какой город является столицей Свазиленда?",
+    "answer": "валюта",
+    "correct_answer": "мбабане",
+    "is_correct": false
+},
+{
+    "question": "К какой религии принадлежат верующие КРЫМЧАКИ?",
+    "answer": "монотеизм",
+    "correct_answer": "иудаизм",
+    "is_correct": false
+},
+{
+    "question": "В какой стране находится гора Косцюшко?",
+    "answer": "сша",
+    "correct_answer": "австралия",
+    "is_correct": false
+},
+{
+    "question": "В какой стране родился танец ФЛАМЕНКО?",
+    "answer": "испания",
+    "correct_answer": "испания",
+    "is_correct": true
+},
+{
+    "question": "Каким театром с 1988 года руководит Юрий Соломин?",
+    "answer": "государственная премия рсфср имени братьев васильевых",
+    "correct_answer": "руководитель малого театра россии",
+    "is_correct": false
+},
+{
+    "question": "Какая физическая величина измеряется в ньютонах на метр?",
+    "answer": "физические науки",
+    "correct_answer": "момент силы",
+    "is_correct": false
+},
+{
+    "question": "Где находятся Карлсбадские пещеры?",
+    "answer": "сша",
+    "correct_answer": "сша",
+    "is_correct": true
+},
+{
+    "question": "Где можно прогуляться по Патагонии?",
+    "answer": "географический регион",
+    "correct_answer": "в аргентине",
+    "is_correct": false
+},
+{
+    "question": "Кого в Англии называют \"синими воротничками\"?",
+    "answer": "палата лордов",
+    "correct_answer": "рабочих",
+    "is_correct": false
+},
+{
+    "question": "Кто ввёл термин \"Эдипов комплекс\"?",
+    "answer": "зигмунд фрейд",
+    "correct_answer": "зигмунд фрейд  в 1910 году в небольшой работе «об особом типе выбора объекта у мужчин»",
+    "is_correct": true
+},
+{
+    "question": "В какой стране стоит известный памятник «Воину-освободителю»?",
+    "answer": "трептов-кёпеник",
+    "correct_answer": "германия",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежит домен высшего уровня .nz?",
+    "answer": "Error",
+    "correct_answer": "новая зеландия",
+    "is_correct": false
+},
+{
+    "question": "Где находится вулкан Этна?",
+    "answer": "астероид",
+    "correct_answer": "италия, регион сицилия, провинция катания (действующий, 3329 м)",
+    "is_correct": false
+},
+{
+    "question": "В какой стране находится Мекка?",
+    "answer": "саудовская аравия",
+    "correct_answer": "саудовская аравия",
+    "is_correct": true
+},
+{
+    "question": "Кто написал роман \"На маяк\"?",
+    "answer": "вирджиния вулф",
+    "correct_answer": "вирджиния вулф",
+    "is_correct": true
+},
+{
+    "question": "Где родился Дмитрий Дмитриевич Шостакович?",
+    "answer": "санкт-петербург",
+    "correct_answer": "в санкт-петербурге",
+    "is_correct": true
+},
+{
+    "question": "Как звали мать мифологического Минотавра?",
+    "answer": "пасифая",
+    "correct_answer": "пасифая",
+    "is_correct": true
+},
+{
+    "question": "Какая римская богиня соответствует греческой Персефоне?",
+    "answer": "Error",
+    "correct_answer": "прозерпина",
+    "is_correct": false
+},
+{
+    "question": "В каком городе расположен Альгамбра?",
+    "answer": "сан-марино",
+    "correct_answer": "в гранаде.",
+    "is_correct": false
+},
+{
+    "question": "В каком городе расположен Тадж - Махал?",
+    "answer": "Error",
+    "correct_answer": "в агре.",
+    "is_correct": false
+},
+{
+    "question": "В каком городе расположен Акрополь?",
+    "answer": "афины",
+    "correct_answer": "в афинах.",
+    "is_correct": false
+},
+{
+    "question": "Какой автомобильной компании принадлежит марка \"Плимут\"?",
+    "answer": "chrysler",
+    "correct_answer": "крайслер",
+    "is_correct": false
+},
+{
+    "question": "Какой город является столицей Нагорно-Карабахской Республики?",
+    "answer": "ханкенди",
+    "correct_answer": "степанакерт",
+    "is_correct": false
+},
+{
+    "question": "Какой стране принадлежит домен высшего уровня .mo?",
+    "answer": "Error",
+    "correct_answer": "макао",
+    "is_correct": false
+},
+{
+    "question": "В каком городе пребывает Международный суд ООН?",
+    "answer": "штаб-квартира оон",
+    "correct_answer": "гаага",
+    "is_correct": false
+},

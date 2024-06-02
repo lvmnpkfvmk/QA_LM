@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "Does Italy have a larger population than China?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Which river is longer in the USA, Missouri or Mississippi?",
+        "answer": "mississippi",
+        "correct_answer": "missouri river",
+        "is_correct": false
+    },
+    {
+        "question": "Which country in Europe is the poorest, Ukraine or Moldova?",
+        "answer": "moldova",
+        "correct_answer": "moldova",
+        "is_correct": true
+    },
+    {
+        "question": "Which is hotter, the Gobi Desert or Death Valley in California?",
+        "answer": "death valley.",
+        "correct_answer": "death valley",
+        "is_correct": true
+    },
+    {
+        "question": "Is the Pacific ocean larger than the Atlantic Ocean?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Mount Fuji taller than Mount St. Helens?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Does Mumbai have a higher population than Tokyo?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has a smaller population, the US or Canada?",
+        "answer": "canada",
+        "correct_answer": "canada",
+        "is_correct": true
+    },
+    {
+        "question": "Which country is larger by land mass, Canada or the United States?",
+        "answer": "canada",
+        "correct_answer": "canada",
+        "is_correct": true
+    },
+    {
+        "question": "Which U.S. city has a higher altitude, Boulder, Colorado or Atlanta, Georgia?",
+        "answer": "boulder, colorado",
+        "correct_answer": "boulder",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, India or Nigeria?",
+        "answer": "india",
+        "correct_answer": "india",
+        "is_correct": true
+    },
+    {
+        "question": "Which country is bigger in area, the U.S.A or Albania?",
+        "answer": "usa",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "Which continent is less populated, South America or Antarctica?",
+        "answer": "antarctica",
+        "correct_answer": "antarctica",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, the United States or China?",
+        "answer": "china",
+        "correct_answer": "people's republic of china",
+        "is_correct": false
+    },
+    {
+        "question": "Is Mount Kilimanjaro taller than Mount Denali?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Which desert has a larger total area, Sonoran Desert or the Chihuahuan Desert?",
+        "answer": "sonoran desert",
+        "correct_answer": "chihuahuan desert",
+        "is_correct": false
+    },
+    {
+        "question": "Which river is longer, the Amazon or the Nile?",
+        "answer": "amazon",
+        "correct_answer": "amazon",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, Syria or Chad?",
+        "answer": "syria",
+        "correct_answer": "syria",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, Cambodia or Zambia?",
+        "answer": "zambia",
+        "correct_answer": "zambia",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, Cuba or Benin?",
+        "answer": "cuba",
+        "correct_answer": "benin",
+        "is_correct": false
+    },
+    {
+        "question": "Which is the most populated state, California or New York?",
+        "answer": "california",
+        "correct_answer": "new york",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Mississippi River bigger than the Missouri River?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has a larger population, Argentina or Colombia?",
+        "answer": "colombia",
+        "correct_answer": "colombia",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, Bangladesh or Pakistan?",
+        "answer": "pakistan",
+        "correct_answer": "pakistan",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, the United States or Canada?",
+        "answer": "united states",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has a larger area, France or Spain?",
+        "answer": "france",
+        "correct_answer": "france",
+        "is_correct": true
+    },
+    {
+        "question": "Is the United States larger in area than Brazil?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is China bigger than India?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which state has a larger population, New York or Chicago?",
+        "answer": "new york",
+        "correct_answer": "new york",
+        "is_correct": true
+    },
+    {
+        "question": "Is Mount Baker taller than Mount Rainer?",
+        "answer": "yes",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Pike's Peak taller than Mount Baker?",
+        "answer": "yes",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which federated state in Brazil is located in the North Region: Acre or Bahia?",
+        "answer": "acre",
+        "correct_answer": "acre",
+        "is_correct": true
+    },
+    {
+        "question": "What lake is deeper, Erie or Superior?",
+        "answer": "superior",
+        "correct_answer": "lake superior",
+        "is_correct": false
+    },
+    {
+        "question": "Who has the larger density of forest, Chile or Mongolia?",
+        "answer": "chile",
+        "correct_answer": "chile",
+        "is_correct": true
+    },
+    {
+        "question": "Which has the larger land mass, Canada or Mexico?",
+        "answer": "canada",
+        "correct_answer": "canada",
+        "is_correct": true
+    },
+    {
+        "question": "Which has a larger population, Russia or Thailand?",
+        "answer": "russia",
+        "correct_answer": "russia",
+        "is_correct": true
+    },
+    {
+        "question": "How many U.S. states have a population over 13 million?",
+        "answer": "three",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many U.S. Which states have a population over 12 million?",
+        "answer": "9. california, texas, florida.",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries in Europe have a population over 50 million?",
+        "answer": "three.",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many South American countries have a population over 40 million?",
+        "answer": "two",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many states in the U.S. border Canada?",
+        "answer": "13",
+        "correct_answer": "13",
+        "is_correct": true
+    },
+    {
+        "question": "How many countries are Northern Africa?",
+        "answer": "7 countries",
+        "correct_answer": "7",
+        "is_correct": true
+    },
+    {
+        "question": "How many countries are in Europe?",
+        "answer": "forty-six.",
+        "correct_answer": "44",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries are there in South America?",
+        "answer": "12 countries",
+        "correct_answer": "12",
+        "is_correct": true
+    },
+    {
+        "question": "How many countries are there in North America?",
+        "answer": "23 countries",
+        "correct_answer": "7",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries are in the United Kingdom?",
+        "answer": "four.",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many oceans is the state of Washington next to?",
+        "answer": "one",
+        "correct_answer": "1",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries does Alaska touch?",
+        "answer": "two.",
+        "correct_answer": "1",
+        "is_correct": false
+    },
+    {
+        "question": "How many mountains in the U.S. are taller than 20,000 feet?",
+        "answer": "none",
+        "correct_answer": "1",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries border directly north of Hungary?",
+        "answer": "7",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries border the country of Laos?",
+        "answer": "5 countries",
+        "correct_answer": "5",
+        "is_correct": true
+    },
+    {
+        "question": "How many rivers are more than 3,000 miles long?",
+        "answer": "10",
+        "correct_answer": "8",
+        "is_correct": false
+    },
+    {
+        "question": "How many capital cities are at an altitude of over 7,000 feet?",
+        "answer": "five cities",
+        "correct_answer": "8",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries are in North America?",
+        "answer": "23 countries",
+        "correct_answer": "23",
+        "is_correct": true
+    },
+    {
+        "question": "How many countries in the world have over 1 billion in population?",
+        "answer": "two.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many U.S. states have a total area of over 150,000 square miles?",
+        "answer": "seven",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many cities in Europe have a population over 10 million?",
+        "answer": "three",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many international airports are there in Ghana?",
+        "answer": "3 airports",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many regions are in Canada?",
+        "answer": "13",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many sovereign states have made territorial claims in Antarctica?",
+        "answer": "seven.",
+        "correct_answer": "7",
+        "is_correct": false
+    },
+    {
+        "question": "How many cities in Texas have a population over 1 million?",
+        "answer": "four",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many cities in Texas have a population of under a million but over 500,000?",
+        "answer": "five cities",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries are in East Asia?",
+        "answer": "sixteen.",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries have a population over 100 million?",
+        "answer": "12",
+        "correct_answer": "14",
+        "is_correct": false
+    },
+    {
+        "question": "How many states are in Australia?",
+        "answer": "six.",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "How many states are on the West Coast of the United States?",
+        "answer": "three",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries are there in the continent of Australia?",
+        "answer": "one.",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries have a population of over 1 billion?",
+        "answer": "two.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many U.S. states have more than 20 million people living in them?",
+        "answer": "three",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many U.S. states have a population of less than 1 million?",
+        "answer": "seven",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "What is the widest river not on the North American continent?",
+        "answer": "amazon river",
+        "correct_answer": "amazon",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the top 5 longest rivers are not located in China?",
+        "answer": "amazon, congo, nile",
+        "correct_answer": "nile",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest mountain that is not located in Asia?",
+        "answer": "mount aconcagua",
+        "correct_answer": "aconcagua",
+        "is_correct": true
+    },
+    {
+        "question": "Which named oceans do not reach the North Pole?",
+        "answer": "arctic ocean",
+        "correct_answer": "pacific ocean",
+        "is_correct": false
+    },
+    {
+        "question": "What Ivy League schools are not in New England?",
+        "answer": "cornell, penn",
+        "correct_answer": "princeton university",
+        "is_correct": false
+    },
+    {
+        "question": "Which state borders have no natural boundaries?",
+        "answer": "kansas, colorado, wyoming",
+        "correct_answer": "colorado",
+        "is_correct": true
+    },
+    {
+        "question": "Which continent does not have cities?",
+        "answer": "antarctica",
+        "correct_answer": "antarctica",
+        "is_correct": true
+    },
+    {
+        "question": "Which European countries haven't been to war since 1814?",
+        "answer": "switzerland, sweden",
+        "correct_answer": "sweden",
+        "is_correct": true
+    },
+    {
+        "question": "Which adjacent country is not south of the United States of America?",
+        "answer": "canada",
+        "correct_answer": "canada",
+        "is_correct": true
+    },
+    {
+        "question": "Which Asian countries are not part of the mainland?",
+        "answer": "japan, philippines, indonesia",
+        "correct_answer": "philippines",
+        "is_correct": true
+    },
+    {
+        "question": "Which Australian states are not connected to the main Australian landmass?",
+        "answer": "tasmania",
+        "correct_answer": "tasmania",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the Great Lakes do not share a border New York?",
+        "answer": "michigan.",
+        "correct_answer": "lake huron",
+        "is_correct": false
+    },
+    {
+        "question": "Which of the five Great Lakes does not touch Canada?",
+        "answer": "ontario",
+        "correct_answer": "lake michigan",
+        "is_correct": false
+    },
+    {
+        "question": "Which oceans do not border North America?",
+        "answer": "arctic, indian.",
+        "correct_answer": "indian ocean",
+        "is_correct": false
+    },
+    {
+        "question": "Which oceans do not border Mexico?",
+        "answer": "arctic, atlantic.",
+        "correct_answer": "indian ocean",
+        "is_correct": false
+    },
+    {
+        "question": "Which Asian countries do not have direct ocean access?",
+        "answer": "laos, mongolia, afghanistan",
+        "correct_answer": "afghanistan",
+        "is_correct": true
+    },
+    {
+        "question": "Which African countries do not border an ocean?",
+        "answer": "lesotho, eswatini",
+        "correct_answer": "botswana",
+        "is_correct": false
+    },
+    {
+        "question": "Which of the top 5 longest rivers on Earth are not in North America?",
+        "answer": "nile, amazon",
+        "correct_answer": "amazon",
+        "is_correct": true
+    },
+    {
+        "question": "Which mountain system that divides Europe and Asia is not found in the west?",
+        "answer": "ural mountains",
+        "correct_answer": "ural mountains",
+        "is_correct": true
+    },
+    {
+        "question": "Which California 14er is not in the Sierra Nevada?",
+        "answer": "whitney",
+        "correct_answer": "mount shasta",
+        "is_correct": false
+    },
+    {
+        "question": "Which continent does not have a desert?",
+        "answer": "antarctica",
+        "correct_answer": "europe",
+        "is_correct": false
+    },
+    {
+        "question": "The equator crosses which South American nations?",
+        "answer": "ecuador, colombia, brazil.",
+        "correct_answer": "ecuador",
+        "is_correct": true
+    },
+    {
+        "question": "Which South American countries do not border the sea?",
+        "answer": "paraguay, bolivia, paraguay",
+        "correct_answer": "bolivia",
+        "is_correct": true
+    },
+    {
+        "question": "What is the deepest canyon in North America but not as deep as Hells Canyon?",
+        "answer": "copper canyon",
+        "correct_answer": "palo duro canyon",
+        "is_correct": false
+    },
+    {
+        "question": "Which of the top 3 smallest United States is not considered to be in the Northeastern area of the United States?",
+        "answer": "hawaii",
+        "correct_answer": "delaware",
+        "is_correct": false
+    },
+    {
+        "question": "Which Gulf states don't share a border with Florida?",
+        "answer": "texas, louisiana",
+        "correct_answer": "louisiana",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the Great Lakes is not located partly in Canada?",
+        "answer": "lake michigan",
+        "correct_answer": "lake michigan",
+        "is_correct": true
+    },
+    {
+        "question": "What are the only states in the United States that are not contiguous?",
+        "answer": "hawaii, alaska",
+        "correct_answer": "alaska",
+        "is_correct": true
+    },
+    {
+        "question": "What is the only country in Southeast Asia that was never colonized?",
+        "answer": "thailand",
+        "correct_answer": "thailand",
+        "is_correct": true
+    },
+    {
+        "question": "What mountain is in the Himalayas and was first climbed by a 1954 Italian expedition?",
+        "answer": "k2",
+        "correct_answer": "k2",
+        "is_correct": true
+    },
+    {
+        "question": "Which state has the tallest mountain and the most rivers?",
+        "answer": "alaska",
+        "correct_answer": "alaska",
+        "is_correct": true
+    },
+    {
+        "question": "Which river flows through Egypt and is the longest river in the world?",
+        "answer": "nile river",
+        "correct_answer": "nile",
+        "is_correct": true
+    },
+    {
+        "question": "What is the second longest River in the U.S. and flows through 10 states?",
+        "answer": "mississippi river",
+        "correct_answer": "mississippi river",
+        "is_correct": true
+    },
+    {
+        "question": "Which state is the tenth largest by area and also contains an active volcano?",
+        "answer": "hawaii",
+        "correct_answer": "wyoming",
+        "is_correct": false
+    },
+    {
+        "question": "Which African freshwater lake is the most polluted as of 2021?",
+        "answer": "lake victoria",
+        "correct_answer": "lake nyanza",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is the capital of the Philippines and holds the title of the world's fourth most densely populated city?",
+        "answer": "manila",
+        "correct_answer": "manila",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has the most yearly rainfall and a population of approximately 50 million people?",
+        "answer": "india",
+        "correct_answer": "columbia",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has the most islands and a cross in the national flag?",
+        "answer": "finland",
+        "correct_answer": "sweden",
+        "is_correct": false
+    },
+    {
+        "question": "Which state is the 8th largest by area and home to Pike's Peak?",
+        "answer": "colorado",
+        "correct_answer": "colorado",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is the most populated and home to the Statue of Liberty?",
+        "answer": "new york city",
+        "correct_answer": "new york city",
+        "is_correct": true
+    },
+    {
+        "question": "Which city has wildfires and is home to Yosemite National Park?",
+        "answer": "california",
+        "correct_answer": "california",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is a tourist hotspot in the desert and home to Caesar's Palace?",
+        "answer": "las vegas",
+        "correct_answer": "las vegas",
+        "is_correct": true
+    },
+    {
+        "question": "Which river is the longest one in the United States and has 17,200 dams and reservoirs?",
+        "answer": "mississippi",
+        "correct_answer": "missouri river",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest freshwater lake by surface area in the world that also has a surface elevation of 577 feet?",
+        "answer": "lake superior",
+        "correct_answer": "lake michigan\u2013huron",
+        "is_correct": false
+    },
+    {
+        "question": "Which state has the state bird of the California Quail and is home to Death Valley?",
+        "answer": "california",
+        "correct_answer": "california",
+        "is_correct": true
+    },
+    {
+        "question": "Which mountain has been dormant since 1707 but is still considered active by geologists?",
+        "answer": "mount fuji",
+        "correct_answer": "mount fuji",
+        "is_correct": true
+    },
+    {
+        "question": "Which mountain is the major feature of Fuji-Hakone-Izu National Park and is at the center of a UNESCO World Heritage site designated in 2013?",
+        "answer": "mount fuji",
+        "correct_answer": "mount fuji",
+        "is_correct": true
+    },
+    {
+        "question": "What river is located in South America and is 3,999 miles long?",
+        "answer": "amazon river",
+        "correct_answer": "amazon",
+        "is_correct": true
+    },
+    {
+        "question": "What is the southernmost continent and is about 98% covered in ice?",
+        "answer": "antarctica",
+        "correct_answer": "antarctica",
+        "is_correct": true
+    },
+    {
+        "question": "What state is the largest and is the northernmost state in the U.S.?",
+        "answer": "alaska",
+        "correct_answer": "alaska",
+        "is_correct": true
+    },
+    {
+        "question": "What mountain has had over 100 successful ascents and is also the tallest mountain in the world?",
+        "answer": "mount everest",
+        "correct_answer": "mount everest",
+        "is_correct": true
+    },
+    {
+        "question": "What state is in New England and doesn't border Massachusetts?",
+        "answer": "vermont",
+        "correct_answer": "maine",
+        "is_correct": false
+    },
+    {
+        "question": "What river flows through Egypt and is the longest river in Africa?",
+        "answer": "nile river",
+        "correct_answer": "nile",
+        "is_correct": true
+    },
+    {
+        "question": "Which state is the 47th largest state by area and home to Kilauea?",
+        "answer": "hawaii",
+        "correct_answer": "hawaii",
+        "is_correct": true
+    },
+    {
+        "question": "What river flows past New York City and also connects to the Erie Canal?",
+        "answer": "hudson river",
+        "correct_answer": "hudson river",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the Great Lake that touches Canada and also touches the Upper Peninsula of Michigan?",
+        "answer": "lake superior",
+        "correct_answer": "lake superior",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the island that is in Lake Superior and was designated a national park in 1940?",
+        "answer": "isle royale",
+        "correct_answer": "isle royale",
+        "is_correct": true
+    },
+    {
+        "question": "What country is surrounded by Italy and is also a republic?",
+        "answer": "san marino",
+        "correct_answer": "san marino",
+        "is_correct": true
+    },
+    {
+        "question": "What is the most populated and largest United States territory?",
+        "answer": "puerto rico",
+        "correct_answer": "puerto rico",
+        "is_correct": true
+    },
+    {
+        "question": "What U.S. state is on the east cost and has the largest population?",
+        "answer": "new york",
+        "correct_answer": "florida",
+        "is_correct": false
+    },
+    {
+        "question": "Which country serves as a border and unites two continents at the same time?",
+        "answer": "turkey",
+        "correct_answer": "egypt",
+        "is_correct": false
+    },
+    {
+        "question": "What state is the 13th largest state by area and home to Zion National Park?",
+        "answer": "utah",
+        "correct_answer": "utah",
+        "is_correct": true
+    },
+    {
+        "question": "What state is the 13th largest by area and home to Arches Park?",
+        "answer": "utah",
+        "correct_answer": "utah",
+        "is_correct": true
+    },
+    {
+        "question": "Which ocean touches the west coast of the United States and is the largest on Earth?",
+        "answer": "pacific ocean",
+        "correct_answer": "pacific ocean",
+        "is_correct": true
+    },
+    {
+        "question": "What is the highest point in Oregon that also last erupted around 220-170 years ago?",
+        "answer": "mount hood",
+        "correct_answer": "mount hood",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the dead river that flows through the capital city of India?",
+        "answer": "yamuna.",
+        "correct_answer": "yamuna",
+        "is_correct": true
+    },
+    {
+        "question": "What is the population of the largest country in Europe?",
+        "answer": "russia: 146 million",
+        "correct_answer": "145912025",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest mountain in the largest country in Asia?",
+        "answer": "mount everest",
+        "correct_answer": "mount everest",
+        "is_correct": true
+    },
+    {
+        "question": "What is the capital city of the U.S. state that was the 45th to join the Union?",
+        "answer": "olympia",
+        "correct_answer": "salt lake city",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the town that is home to the tallest volcano in Germany?",
+        "answer": "unknown",
+        "correct_answer": "26178",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the country where the Colosseum is located?",
+        "answer": "60 million",
+        "correct_answer": "2.873 million",
+        "is_correct": false
+    },
+    {
+        "question": "What is the oldest monument in the capital of France?",
+        "answer": "notre dame.",
+        "correct_answer": "ar\u00e8nes de lut\u00e8ce",
+        "is_correct": false
+    },
+    {
+        "question": "What is the capital of the country where Mount Fuji is located?",
+        "answer": "tokyo",
+        "correct_answer": "tokyo",
+        "is_correct": true
+    },
+    {
+        "question": "Exactly how old is the oldest river in the United States?",
+        "answer": "new river - 320 million",
+        "correct_answer": "325 million years",
+        "is_correct": false
+    },
+    {
+        "question": "The tallest tree in the United States, how tall is it?",
+        "answer": "379.7 feet",
+        "correct_answer": "115.72 meters",
+        "is_correct": false
+    },
+    {
+        "question": "What is the smallest principality in Europe?",
+        "answer": "monaco",
+        "correct_answer": "monaco",
+        "is_correct": true
+    },
+    {
+        "question": "What is the smallest country containing part of the Sahara desert?",
+        "answer": "tunisia",
+        "correct_answer": "tunisia",
+        "is_correct": true
+    },
+    {
+        "question": "What is the currency of the country whose capital city is New Delhi?",
+        "answer": "indian rupee",
+        "correct_answer": "indian rupee",
+        "is_correct": true
+    },
+    {
+        "question": "What is the capital of the country with the largest land area in the world?",
+        "answer": "moscow",
+        "correct_answer": "moscow",
+        "is_correct": true
+    },
+    {
+        "question": "What is the population of the city where the Dodger Stadium is located?",
+        "answer": "4 million",
+        "correct_answer": "3898747",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest national park in the westernmost state in the U.S.?",
+        "answer": "wrangell-st. elias",
+        "correct_answer": "wrangell\u2013st. elias national park and preserve",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the oldest state in the U.S.?",
+        "answer": "1. 39.6 million",
+        "correct_answer": "973,764",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest building in the most populous city in the U.S.?",
+        "answer": "one world trade center",
+        "correct_answer": "one world trade center",
+        "is_correct": true
+    },
+    {
+        "question": "What is the capital of the state that touches four of the Great Lakes?",
+        "answer": "lansing",
+        "correct_answer": "lansing",
+        "is_correct": true
+    },
+    {
+        "question": "What are the tallest buildings in the capital city of Malaysia?",
+        "answer": "petronas towers",
+        "correct_answer": "petronas towers",
+        "is_correct": true
+    },
+    {
+        "question": "What is the most populous city of the U.S. state with Harrisburg as a capital?",
+        "answer": "philadelphia",
+        "correct_answer": "philadelphia",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest completed building in the capital city of Qatar?",
+        "answer": "aspire tower",
+        "correct_answer": "aspire tower",
+        "is_correct": true
+    },
+    {
+        "question": "What is the population in the capital city of the United States?",
+        "answer": "700,000",
+        "correct_answer": "692683",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population in the capital city of the Mexico?",
+        "answer": "9.2 million",
+        "correct_answer": "8855000",
+        "is_correct": false
+    },
+    {
+        "question": "How many main pyramids are there in the capital city of Mexico?",
+        "answer": "one.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the state where Red Canyon is located?",
+        "answer": "3.2 million",
+        "correct_answer": "3271616",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the state where Mount Baker is located?",
+        "answer": "7.6 million",
+        "correct_answer": "7705281",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the country with the 3rd longest river in the world?",
+        "answer": "dr congo",
+        "correct_answer": "people's republic of china",
+        "is_correct": false
+    },
+    {
+        "question": "What is the capital of the largest state (by area) in the U.S.?",
+        "answer": "juneau",
+        "correct_answer": "juneau",
+        "is_correct": true
+    },
+    {
+        "question": "What is the capital of the country where Mount Everest is located?",
+        "answer": "kathmandu",
+        "correct_answer": "beijing",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the state where the biggest dam in the USA is located?",
+        "answer": "nevada",
+        "correct_answer": "california",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the country that boast the most populated city in Africa?",
+        "answer": "nigeria",
+        "correct_answer": "nigeria",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the U.S. state with the biggest volcano?",
+        "answer": "hawaii",
+        "correct_answer": "washington",
+        "is_correct": false
+    },
+    {
+        "question": "What is the capital of the country where the Eiffel Tower is located?",
+        "answer": "paris",
+        "correct_answer": "paris",
+        "is_correct": true
+    },
+    {
+        "question": "What's the tallest building in the state where Yosemite National Park is located?",
+        "answer": "yosemite national park is located in california. the tallest building in california is the wilshire grand center in los angeles.",
+        "correct_answer": "wilshire grand center",
+        "is_correct": true
+    },
+    {
+        "question": "What is the fifth longest river system in the world?",
+        "answer": "mississippi river",
+        "correct_answer": "yenisey",
+        "is_correct": false
+    },
+    {
+        "question": "Which is the fourth largest earthquake in the world?",
+        "answer": "1960 valdivia earthquake",
+        "correct_answer": "2011 t\u014dhoku earthquake and tsunami",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second largest lake in the U.S.?",
+        "answer": "michigan",
+        "correct_answer": "lake huron",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second deepest lake in the North America?",
+        "answer": "great slave lake",
+        "correct_answer": "crater lake",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second largest desert in North America?",
+        "answer": "great basin",
+        "correct_answer": "sonoran desert",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest country in Europe?",
+        "answer": "russia",
+        "correct_answer": "france",
+        "is_correct": false
+    },
+    {
+        "question": "What is the third tallest mountain in South America?",
+        "answer": "yerupaj\u00e1.",
+        "correct_answer": "monte pissis",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second largest ocean?",
+        "answer": "atlantic ocean",
+        "correct_answer": "atlantic ocean",
+        "is_correct": true
+    },
+    {
+        "question": "What is the third largest rainforest in the world?",
+        "answer": "congo.",
+        "correct_answer": "bosaw\u00e1s biosphere reserve",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second tallest mountain in North America?",
+        "answer": "mount logan",
+        "correct_answer": "mount logan",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the second tallest mountain in the USA?",
+        "answer": "mount saint elias",
+        "correct_answer": "mount saint elias",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the third tallest mountain in the USA?",
+        "answer": "mount rainier",
+        "correct_answer": "mount foraker",
+        "is_correct": false
+    },
+    {
+        "question": "When was the last eruption of Mount Etna?",
+        "answer": "2021",
+        "correct_answer": "2021-02",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second biggest river in Texas?",
+        "answer": "red river",
+        "correct_answer": "red river of the south",
+        "is_correct": false
+    },
+    {
+        "question": "What is the 4th longest river in the USA?",
+        "answer": "yukon",
+        "correct_answer": "rio grande",
+        "is_correct": false
+    },
+    {
+        "question": "What is the 6th longest river in the USA?",
+        "answer": "missouri",
+        "correct_answer": "colorado river",
+        "is_correct": false
+    },
+    {
+        "question": "What is the third largest mountain in the world?",
+        "answer": "kangchenjunga",
+        "correct_answer": "kanchenjunga",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the 2nd tallest mountain in the world?",
+        "answer": "k2, pakistan",
+        "correct_answer": "k2",
+        "is_correct": true
+    },
+    {
+        "question": "What is the third highest mountain in Africa?",
+        "answer": "mount kenya",
+        "correct_answer": "mawenzi",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second highest volcano in Asia?",
+        "answer": "mount kerinci",
+        "correct_answer": "damavand",
+        "is_correct": false
+    },
+    {
+        "question": "When was the first eruption of Mount Vesuvius?",
+        "answer": "79 ad",
+        "correct_answer": "70",
+        "is_correct": false
+    },
+    {
+        "question": "What is the seventh largest country in the world?",
+        "answer": "india",
+        "correct_answer": "india",
+        "is_correct": true
+    },
+    {
+        "question": "What is the second largest continent?",
+        "answer": "africa",
+        "correct_answer": "africa",
+        "is_correct": true
+    },
+    {
+        "question": "What is the second largest island in the world?",
+        "answer": "new guinea",
+        "correct_answer": "new guinea",
+        "is_correct": true
+    },
+    {
+        "question": "What is the fourth longest river in America?",
+        "answer": "yukon river",
+        "correct_answer": "rio grande",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second poorest country in Europe?",
+        "answer": "moldova",
+        "correct_answer": "ukraine",
+        "is_correct": false
+    },
+    {
+        "question": "What is the third largest lake in Texas?",
+        "answer": "sam rayburn reservoir",
+        "correct_answer": "livingston lake",
+        "is_correct": false
+    },
+    {
+        "question": "Which mountain is the second highest in Europe?",
+        "answer": "mont blanc",
+        "correct_answer": "dykh-tau",
+        "is_correct": false
+    },
+    {
+        "question": "What is the fourth largest lake in the world?",
+        "answer": "superior",
+        "correct_answer": "lake huron",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second longest boundary between the two countries?",
+        "answer": "china-india (3 words)",
+        "correct_answer": "michigan",
+        "is_correct": false
+    },
+    {
+        "question": "What is the longest river in South America?",
+        "answer": "amazon river",
+        "correct_answer": "amazon",
+        "is_correct": true
+    },
+    {
+        "question": "What is the longest underwater tunnel in Japan?",
+        "answer": "seikan tunnel",
+        "correct_answer": "seikan tunnel",
+        "is_correct": true
+    },
+    {
+        "question": "What's the tallest mountain in the world?",
+        "answer": "mount everest",
+        "correct_answer": "mount everest",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest lake in the United States?",
+        "answer": "lake superior",
+        "correct_answer": "lake superior",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest lake in France?",
+        "answer": "lake geneva",
+        "correct_answer": "lake geneva",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in Australia by population?",
+        "answer": "sydney",
+        "correct_answer": "sydney",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest wilderness in the U.S.?",
+        "answer": "alaska",
+        "correct_answer": "wrangell \u2013 saint elias wilderness",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest volcano in the world?",
+        "answer": "ojos del salado",
+        "correct_answer": "ojos del salado",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest freshwater lake in the U.S.?",
+        "answer": "lake superior",
+        "correct_answer": "lake superior",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in America by population?",
+        "answer": "new york city",
+        "correct_answer": "new york city",
+        "is_correct": true
+    },
+    {
+        "question": "Which United States state has the smallest land mass?",
+        "answer": "rhode island",
+        "correct_answer": "rhode island",
+        "is_correct": true
+    },
+    {
+        "question": "What is the hottest average country in the world?",
+        "answer": "burkina faso",
+        "correct_answer": "mali",
+        "is_correct": false
+    },
+    {
+        "question": "Which state has the highest mean elevation of any other U.S. state?",
+        "answer": "colorado",
+        "correct_answer": "colorado",
+        "is_correct": true
+    },
+    {
+        "question": "Which is the smallest planet in our solar system?",
+        "answer": "mercury",
+        "correct_answer": "mercury",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest desert in North America?",
+        "answer": "great basin.",
+        "correct_answer": "chihuahuan desert",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest mountain in the U.S.?",
+        "answer": "denali",
+        "correct_answer": "denali",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in Germany by population?",
+        "answer": "berlin",
+        "correct_answer": "berlin",
+        "is_correct": true
+    },
+    {
+        "question": "What state has the most U.S. representatives?",
+        "answer": "california",
+        "correct_answer": "california",
+        "is_correct": true
+    },
+    {
+        "question": "What is the smallest European country by area?",
+        "answer": "vatican city",
+        "correct_answer": "vatican city",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest lake by square mileage found completely within the U.S.?",
+        "answer": "lake michigan",
+        "correct_answer": "lake superior",
+        "is_correct": false
+    },
+    {
+        "question": "What is the shortest mountain in the world?",
+        "answer": "rocciamelone - 3,538",
+        "correct_answer": "mount tenp\u014d",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "answer": "burj khalifa",
+        "correct_answer": "burj khalifa",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest active volcano in the United States?",
+        "answer": "mauna loa",
+        "correct_answer": "pico de orizaba",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest U.S. city by population?",
+        "answer": "new york city",
+        "correct_answer": "new york city",
+        "is_correct": true
+    },
+    {
+        "question": "What is the smallest town in America by population?",
+        "answer": "monowi, nebraska",
+        "correct_answer": "monowi",
+        "is_correct": true
+    },
+    {
+        "question": "What is the least populous state in the United States?",
+        "answer": "wyoming",
+        "correct_answer": "wyoming",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest mountain in Georgia?",
+        "answer": "mount shkhara",
+        "correct_answer": "cold mountain",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest mountain in Alabama?",
+        "answer": "cheaha mountain",
+        "correct_answer": "cheaha mountain",
+        "is_correct": true
+    },
+    {
+        "question": "What is the smallest capital city in the United States?",
+        "answer": "montpelier, vermont",
+        "correct_answer": "montpelier",
+        "is_correct": true
+    },
+    {
+        "question": "Which country is home to the world's deepest freshwater lake?",
+        "answer": "russia",
+        "correct_answer": "russia",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in Japan by population according to the UN 2018 population estimates?",
+        "answer": "tokyo",
+        "correct_answer": "tokyo",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in Mexico by population according to the UN 2018 population estimates?",
+        "answer": "mexico city",
+        "correct_answer": "mexico city",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest mountain in the U.S. by elevation (feet)?",
+        "answer": "denali (20,310)",
+        "correct_answer": "denali",
+        "is_correct": true
+    },
+    {
+        "question": "Which U.S. state has the largest population?",
+        "answer": "california",
+        "correct_answer": "california",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest mountain on the South American continent?",
+        "answer": "aconcagua",
+        "correct_answer": "aconcagua",
+        "is_correct": true
+    },
+    {
+        "question": "Where is the coldest place on earth?",
+        "answer": "antarctica",
+        "correct_answer": "oymyakon",
+        "is_correct": false
+    },
+    {
+        "question": "Is Tokyo colder on average than Seoul?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is India the largest country in the world?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Pacific Ocean the largest ocean in the world?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Frankfort the capital of Kentucky?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Abraj Al-Bait Clock Tower the oldest building in South Korea?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Amsterdam the capital of the Netherlands?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Russia the largest country?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is there a city in Texas named Moscow?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is there any animal life in deserts?",
+        "answer": "yes, some.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Bermuda Triangle located in the Caribbean?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Sydney the capital of Australia?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is there an active volcano in Florida?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Does Africa contain a country that is completely landlocked by another country?",
+        "answer": "yes, lesotho.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Hong Kong the capital of China?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is San Francisco in California?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Luxembourg in Asia?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Egypt in the Southern Hemisphere?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Mississippi River the longest in the United States?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is New York City the most populated city in the United States?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Mississippi River the longest river in North America?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Alaska the newest US state?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is the capital of France, Paris?",
+        "answer": "yes",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Are there more than 150 active volcanos in the United States?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Does Japan include more than 6000 islands?",
+        "answer": "yes, 6000+ islands",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is there a crater in the Yucat\u00e1n Peninsula?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Reykjavik the capital of Iceland?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Istanbul the capital of Turkey?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is the United Kingdom part of the EU?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Russia the largest country in the world?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Tokyo in China?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Sahara the world's largest hot desert?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is the state Rhode Island in the East Coast of the United States?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Australia a continent?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Middle East part of Asia?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which is the largest freshwater lake by volume, Lake Superior or Lake Baikal?",
+        "answer": "lake baikal",
+        "correct_answer": "lake baikal",
+        "is_correct": true
+    },
+    {
+        "question": "Does Andorra have a larger population than San Marino?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has a larger population, Russia or India?",
+        "answer": "india",
+        "correct_answer": "india",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, Indonesia or India?",
+        "answer": "india",
+        "correct_answer": "india",
+        "is_correct": true
+    },
+    {
+        "question": "Which country has a larger population, Pakistan or Nigeria?",
+        "answer": "nigeria",
+        "correct_answer": "pakistan",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has a larger population, Thailand or Malaysia?",
+        "answer": "thailand",
+        "correct_answer": "thailand",
+        "is_correct": true
+    },
+    {
+        "question": "Which Massachusetts island is bigger, Nantucket or Martha's Vineyard?",
+        "answer": "martha's vineyard",
+        "correct_answer": "martha's vineyard",
+        "is_correct": true
+    },
+    {
+        "question": "Which country is more populated, USA or China?",
+        "answer": "china",
+        "correct_answer": "people's republic of china",
+        "is_correct": false
+    },
+    {
+        "question": "Is Lake Superior deeper than Lake Baikal?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Russia bigger than Canada?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Texas larger than Alaska?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Which tower is taller, Tokyo Tower or the Eiffel Tower?",
+        "answer": "eiffel tower",
+        "correct_answer": "tokyo tower",
+        "is_correct": false
+    },
+    {
+        "question": "How many active volcanoes are there in Hawaii?",
+        "answer": "five.",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many U.S. States have a population under one million?",
+        "answer": "seven",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries are in South America?",
+        "answer": "12 countries",
+        "correct_answer": "12",
+        "is_correct": true
+    },
+    {
+        "question": "How many colors are on the Australian flag?",
+        "answer": "three",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many provinces are there in Canada?",
+        "answer": "ten provinces",
+        "correct_answer": "10",
+        "is_correct": false
+    },
+    {
+        "question": "How many of the Great Lakes are there in the United States?",
+        "answer": "five.",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many rivers are in Africa?",
+        "answer": "1,000+",
+        "correct_answer": "7",
+        "is_correct": false
+    },
+    {
+        "question": "How many U.S. states border Canada?",
+        "answer": "five",
+        "correct_answer": "13",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries make up the United Kingdom?",
+        "answer": "four.",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "How many time zones are in the United States?",
+        "answer": "six.",
+        "correct_answer": "6",
+        "is_correct": false
+    },
+    {
+        "question": "Which country in Africa is not colonized?",
+        "answer": "liberia",
+        "correct_answer": "ethiopia",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries in Africa do not have Spanish as its second language?",
+        "answer": "fifty-four.",
+        "correct_answer": "53",
+        "is_correct": false
+    },
+    {
+        "question": "Which country in Central America does not have Spanish as an official language?",
+        "answer": "belize",
+        "correct_answer": "belize",
+        "is_correct": true
+    },
+    {
+        "question": "Which second longest river in the U.S. is not located on the West Coast?",
+        "answer": "mississippi river",
+        "correct_answer": "mississippi river",
+        "is_correct": true
+    },
+    {
+        "question": "Which major mountain system can be found on the East Coast of the United States but not the West?",
+        "answer": "appalachian mountains",
+        "correct_answer": "appalachian mountains",
+        "is_correct": true
+    },
+    {
+        "question": "Which island between Northern Ireland and Great Britain is not part of the United Kingdom?",
+        "answer": "ireland",
+        "correct_answer": "isle of man",
+        "is_correct": false
+    },
+    {
+        "question": "Which Hawaiian island does not have any black sand beaches?",
+        "answer": "kauai",
+        "correct_answer": "oahu",
+        "is_correct": false
+    },
+    {
+        "question": "In what direction is South Korea not bordered by water?",
+        "answer": "north.",
+        "correct_answer": "north",
+        "is_correct": true
+    },
+    {
+        "question": "What is a 1.5-million-acre wetlands preserve and national park that is not home to the western coast of the United States?",
+        "answer": "everglades national park",
+        "correct_answer": "everglades",
+        "is_correct": true
+    },
+    {
+        "question": "What is the smallest country that has no river?",
+        "answer": "vatican city",
+        "correct_answer": "vatican city",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest country in Africa that does not have a river?",
+        "answer": "libya",
+        "correct_answer": "libya",
+        "is_correct": true
+    },
+    {
+        "question": "Which country contains the largest number of people who have not ever been contacted by outsiders, containing the largest number of full tribes with no connection to the outside world?",
+        "answer": "india",
+        "correct_answer": "brazil",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the mountain in Washington state that is over 7,900 feet tall but not located in the Cascades?",
+        "answer": "mount adams",
+        "correct_answer": "mount olympus",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest mountain in Washington state not retaining its Native American name?",
+        "answer": "mount rainier",
+        "correct_answer": "mount rainier",
+        "is_correct": true
+    },
+    {
+        "question": "What is the second tallest mountain in Washington state not retaining its Native American name?",
+        "answer": "mount stuart",
+        "correct_answer": "mount adams",
+        "is_correct": false
+    },
+    {
+        "question": "Which U.S. state is not connected to Canada or a part of the contiguous states?",
+        "answer": "hawaii",
+        "correct_answer": "hawaii",
+        "is_correct": true
+    },
+    {
+        "question": "Which Canadian territory borders Alaska and also contains Dawson City?",
+        "answer": "yukon territory",
+        "correct_answer": "yukon",
+        "is_correct": true
+    },
+    {
+        "question": "Which Hawaiian island contains the state's most active volcano and is also the largest Hawaiian island?",
+        "answer": "hawaii island",
+        "correct_answer": "hawaii",
+        "is_correct": true
+    },
+    {
+        "question": "Which state has the four largest cities in the United States and also does not share any borders with any other U.S. States?",
+        "answer": "alaska",
+        "correct_answer": "alaska",
+        "is_correct": true
+    },
+    {
+        "question": "What river flows through Canada and is the second largest river of North America?",
+        "answer": "mackenzie river",
+        "correct_answer": "mackenzie river",
+        "is_correct": true
+    },
+    {
+        "question": "Which state connects to Mississippi and Arkansas?",
+        "answer": "tennessee",
+        "correct_answer": "louisiana",
+        "is_correct": false
+    },
+    {
+        "question": "Which state features the Brooklyn Bridge and the Statue of Liberty?",
+        "answer": "new york",
+        "correct_answer": "new york",
+        "is_correct": true
+    },
+    {
+        "question": "Which river is located in South America and is the second longest river in the world?",
+        "answer": "amazon river",
+        "correct_answer": "amazon",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of the tallest mountain in Africa that is known as the highest free standing mountain in the world?",
+        "answer": "mount kilimanjaro",
+        "correct_answer": "mount kilimanjaro",
+        "is_correct": true
+    },
+    {
+        "question": "What is the name of a 1.5-million-acre wetlands preserve on the southern tip of the U.S. state of Florida?",
+        "answer": "everglades national park",
+        "correct_answer": "everglades",
+        "is_correct": true
+    },
+    {
+        "question": "What mountain was first climbed by an American lead team and is located in the Mahalangur Himalayas range?",
+        "answer": "mount everest",
+        "correct_answer": "makalu",
+        "is_correct": false
+    },
+    {
+        "question": "What state is home to Grand Teton National Park and calls the meadowlark its state bird?",
+        "answer": "wyoming",
+        "correct_answer": "wyoming",
+        "is_correct": true
+    },
+    {
+        "question": "What body of water is the second largest world ocean and covers approximately 29% of Earth's water surface area?",
+        "answer": "atlantic ocean",
+        "correct_answer": "atlantic ocean",
+        "is_correct": true
+    },
+    {
+        "question": "What system of mountains rests in the United States and spans through 13 states?",
+        "answer": "rocky mountains",
+        "correct_answer": "appalachian mountains",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the state where Mount Rushmore is located?",
+        "answer": "885,000",
+        "correct_answer": "884,659",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest building in the capital city of Nigeria?",
+        "answer": "abuja: 270",
+        "correct_answer": "nitel building",
+        "is_correct": false
+    },
+    {
+        "question": "Which U.S. state has the tallest mountain in North America?",
+        "answer": "alaska",
+        "correct_answer": "alaska",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest building in the westernmost city of Germany?",
+        "answer": "kolntriangle",
+        "correct_answer": "commerzbank tower",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest building in the capital of Texas?",
+        "answer": "the independent",
+        "correct_answer": "the independent",
+        "is_correct": true
+    },
+    {
+        "question": "What is the population of the city where the National Civil Rights Museum in located?",
+        "answer": "650,000",
+        "correct_answer": "633,885",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the capital city of the country that only shares a border with Spain?",
+        "answer": "andorra la vella",
+        "correct_answer": "lisbon",
+        "is_correct": false
+    },
+    {
+        "question": "What is the name of the river that runs through the capital city of England?",
+        "answer": "thames",
+        "correct_answer": "river thames",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the country where the \"Spanish Steps\" are located?",
+        "answer": "60 million",
+        "correct_answer": "4.2 million",
+        "is_correct": false
+    },
+    {
+        "question": "What is the ocean that is closest to where the South Pole is?",
+        "answer": "southern ocean",
+        "correct_answer": "southern ocean",
+        "is_correct": true
+    },
+    {
+        "question": "What state is the largest building in America in?",
+        "answer": "new york",
+        "correct_answer": "new york",
+        "is_correct": true
+    },
+    {
+        "question": "What is the capital of the state where Mount Rushmore is located?",
+        "answer": "pierre",
+        "correct_answer": "pierre",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest building in the capital city of Portugal?",
+        "answer": "torre vasco da gama",
+        "correct_answer": "vasco da gama tower",
+        "is_correct": false
+    },
+    {
+        "question": "What is the third longest river in the U.S.?",
+        "answer": "mississippi",
+        "correct_answer": "yukon river",
+        "is_correct": false
+    },
+    {
+        "question": "What is the fifth longest river in the U.S.?",
+        "answer": "yukon",
+        "correct_answer": "colorado river",
+        "is_correct": false
+    },
+    {
+        "question": "When did Mount St Helens last erupt?",
+        "answer": "1980",
+        "correct_answer": "1980-05",
+        "is_correct": false
+    },
+    {
+        "question": "When was the last eruption of Mount Rainier?",
+        "answer": "1894",
+        "correct_answer": "1894",
+        "is_correct": true
+    },
+    {
+        "question": "What is the fourth biggest country in the world?",
+        "answer": "china",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "What is the third longest river in the world?",
+        "answer": "yangtze.",
+        "correct_answer": "yangtze",
+        "is_correct": true
+    },
+    {
+        "question": "What is the second largest continent in the world?",
+        "answer": "africa",
+        "correct_answer": "africa",
+        "is_correct": true
+    },
+    {
+        "question": "What is the fourth largest country in the world?",
+        "answer": "china",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "What is the sixth longest river in the world?",
+        "answer": "yenisei",
+        "correct_answer": "congo",
+        "is_correct": false
+    },
+    {
+        "question": "What if the fourth largest continent by population?",
+        "answer": "asia",
+        "correct_answer": "north america",
+        "is_correct": false
+    },
+    {
+        "question": "What is the fourth largest freshwater lake in Asia?",
+        "answer": "issyk-kul",
+        "correct_answer": "taymyr",
+        "is_correct": false
+    },
+    {
+        "question": "What is the fifth longest river in Asia?",
+        "answer": "irrawaddy",
+        "correct_answer": "irtysh",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "answer": "sahara desert",
+        "correct_answer": "antarctic",
+        "is_correct": false
+    },
+    {
+        "question": "What is the smallest ocean in the world?",
+        "answer": "arctic.",
+        "correct_answer": "arctic ocean",
+        "is_correct": false
+    },
+    {
+        "question": "What is the tallest mountain in Washington state?",
+        "answer": "mount rainier",
+        "correct_answer": "mount rainier",
+        "is_correct": true
+    },
+    {
+        "question": "What is the longest river in Asia?",
+        "answer": "yangtze",
+        "correct_answer": "yangtze",
+        "is_correct": true
+    },
+    {
+        "question": "What is the tallest mountain in the United States?",
+        "answer": "denali",
+        "correct_answer": "denali",
+        "is_correct": true
+    },
+    {
+        "question": "What is the deepest point in all of the oceans of the world?",
+        "answer": "mariana trench",
+        "correct_answer": "mariana trench",
+        "is_correct": true
+    },
+    {
+        "question": "What is the oldest hotel in London?",
+        "answer": "brown's hotel",
+        "correct_answer": "brown's hotel",
+        "is_correct": true
+    },
+    {
+        "question": "What is the biggest lake in the world?",
+        "answer": "caspian sea",
+        "correct_answer": "caspian sea",
+        "is_correct": true
+    },
+    {
+        "question": "What is the widest waterfall system in the world?",
+        "answer": "igua\u00e7u falls",
+        "correct_answer": "igua\u00e7u falls",
+        "is_correct": true
+    },
+    {
+        "question": "Which is the largest ocean on earth?",
+        "answer": "pacific ocean",
+        "correct_answer": "pacific ocean",
+        "is_correct": true
+    },
+    {
+        "question": "What is the shortest river in the U.S.?",
+        "answer": "roe river",
+        "correct_answer": "roe river",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in North America by population?",
+        "answer": "mexico city",
+        "correct_answer": "mexico city",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest country in North America by population?",
+        "answer": "united states",
+        "correct_answer": "united states of america",
+        "is_correct": false
+    },
+    {
+        "question": "What is the smallest country in Africa by size?",
+        "answer": "seychelles",
+        "correct_answer": "seychelles",
+        "is_correct": true
+    },
+    {
+        "question": "Is the smallest country in the world, by area, Vatican City?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Barcelona the largest city in Spain, by population?",
+        "answer": "yes.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Mount Rainier a volcano?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Mount Everest the tallest in the world?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "The Sahara is the largest desert in the world?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Amazon located in South America?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Denmark the largest country in Europe?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Is Mount Everest the tallest mountain of the world?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Greenland the largest island in the world?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Norway considered to be part of Scandinavia?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is the Missouri River the longest river in North America?",
+        "answer": "no.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Which country has a larger population, Greece or Italy?",
+        "answer": "italy",
+        "correct_answer": "italy",
+        "is_correct": true
+    },
+    {
+        "question": "Has Mount Vesuvius erupted after 1940?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "How many active volcanoes are there in Italy?",
+        "answer": "three.",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many U.S. states have a population over 15 million?",
+        "answer": "three",
+        "correct_answer": "4",
+        "is_correct": false
+    },
+    {
+        "question": "Which of Italy's active volcanos is not located on an island?",
+        "answer": "mount vesuvius",
+        "correct_answer": "mount vesuvius",
+        "is_correct": true
+    },
+    {
+        "question": "Which of the top 5 highest mountains is not part of the Himalayas?",
+        "answer": "k2",
+        "correct_answer": "k2",
+        "is_correct": true
+    },
+    {
+        "question": "What mountain is in the Himalayas and was first climbed by a 1955 French expedition?",
+        "answer": "annapurna.",
+        "correct_answer": "makalu",
+        "is_correct": false
+    },
+    {
+        "question": "What is the fourth tallest mountain in North America?",
+        "answer": "mount lucania",
+        "correct_answer": "mount saint elias",
+        "is_correct": false
+    },
+    {
+        "question": "Is London the capital of the United Kingdom?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is there an active volcano in Italy?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of the state featuring the Boston Red Sox sports team?",
+        "answer": "7 million",
+        "correct_answer": "6.893 million",
+        "is_correct": false
+    },
+    {
+        "question": "How many people live in the city that is home to the Angels baseball team?",
+        "answer": "4 million",
+        "correct_answer": "3967000",
+        "is_correct": false
+    },
+    {
+        "question": "How many tectonic lakes in Sumatra Island have an area of more than 40 square miles?",
+        "answer": "four lakes",
+        "correct_answer": "3",
+        "is_correct": false
+    },
+    {
+        "question": "How many remaining communist countries are there?",
+        "answer": "five.",
+        "correct_answer": "5",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries border the United States of America?",
+        "answer": "two.",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "How many countries have a population over 1,000,000,000?",
+        "answer": "none",
+        "correct_answer": "2",
+        "is_correct": false
+    },
+    {
+        "question": "Is Mount Everest located in the USA?",
+        "answer": "no.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "Does the United States consist of 50 states?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "Is Mexico City the capital of Mexico?",
+        "answer": "yes.",
+        "correct_answer": "true",
+        "is_correct": false
+    },
+    {
+        "question": "What was the third from last state to become a U.S. state?",
+        "answer": "hawaii",
+        "correct_answer": "arizona",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second largest Great Lake?",
+        "answer": "michigan",
+        "correct_answer": "lake huron",
+        "is_correct": false
+    },
+    {
+        "question": "What is the third largest river in the world?",
+        "answer": "amazon",
+        "correct_answer": "yangtze",
+        "is_correct": false
+    },
+    {
+        "question": "What is the second longest river in Spain?",
+        "answer": "ebro river",
+        "correct_answer": "ebro",
+        "is_correct": true
+    },
+    {
+        "question": "What is the second longest river in China?",
+        "answer": "yellow river",
+        "correct_answer": "yellow river",
+        "is_correct": true
+    },
+    {
+        "question": "What is the second highest mountain in Asia?",
+        "answer": "k2",
+        "correct_answer": "k2",
+        "is_correct": true
+    },
+    {
+        "question": "Which countries in South America do not have a democratic leadership?",
+        "answer": "venezuela, cuba",
+        "correct_answer": "venezuela",
+        "is_correct": true
+    },
+    {
+        "question": "What countries in Africa do not have access to the sea?",
+        "answer": "lesotho, eswatini",
+        "correct_answer": "botswana",
+        "is_correct": false
+    },
+    {
+        "question": "Which country borders the U.S. but not from the north?",
+        "answer": "mexico",
+        "correct_answer": "mexico",
+        "is_correct": true
+    },
+    {
+        "question": "What is the longest river in Nevada?",
+        "answer": "colorado river",
+        "correct_answer": "colorado river",
+        "is_correct": true
+    },
+    {
+        "question": "What city is The Big Easy?",
+        "answer": "new orleans",
+        "correct_answer": "new orleans",
+        "is_correct": true
+    },
+    {
+        "question": "Who built the Great Wall of China?",
+        "answer": "chinese people",
+        "correct_answer": "qin shi huangdi",
+        "is_correct": false
+    },
+    {
+        "question": "What country are the Abu Simbel Temples in?",
+        "answer": "egypt",
+        "correct_answer": "egypt",
+        "is_correct": true
+    },
+    {
+        "question": "What city is known as The Big Easy?",
+        "answer": "new orleans",
+        "correct_answer": "new orleans",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in Maryland?",
+        "answer": "baltimore",
+        "correct_answer": "baltimore",
+        "is_correct": true
+    },
+    {
+        "question": "What is the capital of California?",
+        "answer": "sacramento",
+        "correct_answer": "sacramento",
+        "is_correct": true
+    },
+    {
+        "question": "What city in Germany has the largest population?",
+        "answer": "berlin",
+        "correct_answer": "berlin",
+        "is_correct": true
+    },
+    {
+        "question": "What county is San Jos\u00e9, California in?",
+        "answer": "santa clara",
+        "correct_answer": "santa clara county",
+        "is_correct": false
+    },
+    {
+        "question": "Which memorial monument is a very long reflective sort of flat surface in Washington DC dedicated to veterans?",
+        "answer": "vietnam wall",
+        "correct_answer": "vietnam veterans memorial",
+        "is_correct": false
+    },
+    {
+        "question": "Djibouti city is the capital of which country?",
+        "answer": "djibouti",
+        "correct_answer": "djibouti",
+        "is_correct": true
+    },
+    {
+        "question": "How long did it take to build Mount Rushmore?",
+        "answer": "14 years",
+        "correct_answer": "14",
+        "is_correct": true
+    },
+    {
+        "question": "Where was the Liberty Bell cast formed?",
+        "answer": "whitechapel bell foundry",
+        "correct_answer": "london",
+        "is_correct": false
+    },
+    {
+        "question": "What was the population of Denver, Colorado in 2019?",
+        "answer": "727,211",
+        "correct_answer": "727211",
+        "is_correct": false
+    },
+    {
+        "question": "What is the smallest city in the world?",
+        "answer": "hum,oman",
+        "correct_answer": "vatican city",
+        "is_correct": false
+    },
+    {
+        "question": "What city is called the City of Lights?",
+        "answer": "paris",
+        "correct_answer": "paris",
+        "is_correct": true
+    },
+    {
+        "question": "What city is the capital of Texas?",
+        "answer": "austin",
+        "correct_answer": "austin",
+        "is_correct": true
+    },
+    {
+        "question": "What is the biggest monument in the world?",
+        "answer": "great wall of china",
+        "correct_answer": "statue of unity",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is called the Big D?",
+        "answer": "dallas",
+        "correct_answer": "dallas",
+        "is_correct": true
+    },
+    {
+        "question": "Which is the oldest inhabited city?",
+        "answer": "jericho",
+        "correct_answer": "damascus",
+        "is_correct": false
+    },
+    {
+        "question": "How tall is the Washington Monument?",
+        "answer": "555 ft",
+        "correct_answer": "555",
+        "is_correct": true
+    },
+    {
+        "question": "What city is nicknamed Beantown?",
+        "answer": "boston",
+        "correct_answer": "boston",
+        "is_correct": true
+    },
+    {
+        "question": "Where is the Basilica of Bom Jesus?",
+        "answer": "goa, india",
+        "correct_answer": "goa",
+        "is_correct": true
+    },
+    {
+        "question": "What is the most southern capital city in Europe?",
+        "answer": "athens",
+        "correct_answer": "valletta",
+        "is_correct": false
+    },
+    {
+        "question": "What is the average high temperature in Miami F. L. in July?",
+        "answer": "89 f",
+        "correct_answer": "89",
+        "is_correct": true
+    },
+    {
+        "question": "What city is called The Concrete Jungle?",
+        "answer": "new york city",
+        "correct_answer": "new york city",
+        "is_correct": true
+    },
+    {
+        "question": "What city is called the City of Love?",
+        "answer": "paris",
+        "correct_answer": "paris",
+        "is_correct": true
+    },
+    {
+        "question": "What type of monument is the Washington Monument?",
+        "answer": "obelisk",
+        "correct_answer": "obelisk",
+        "is_correct": true
+    },
+    {
+        "question": "How tall is the Statue of Liberty?",
+        "answer": "305 feet",
+        "correct_answer": "305",
+        "is_correct": true
+    },
+    {
+        "question": "When was London burned down?",
+        "answer": "1666",
+        "correct_answer": "1666",
+        "is_correct": true
+    },
+    {
+        "question": "Which national monument located in New Mexico's Robledo Mountains was designated by Congress in 2009?",
+        "answer": "organ mountains-desert peaks",
+        "correct_answer": "prehistoric trackways national monument",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of San Antonio, Texas?",
+        "answer": "1.5 million",
+        "correct_answer": "1547253",
+        "is_correct": false
+    },
+    {
+        "question": "Who gave us the Statue of Liberty?",
+        "answer": "france",
+        "correct_answer": "france",
+        "is_correct": true
+    },
+    {
+        "question": "Where is Jewel Cave?",
+        "answer": "south dakota",
+        "correct_answer": "south dakota",
+        "is_correct": true
+    },
+    {
+        "question": "In what city is the Leaning Tower of Pisa?",
+        "answer": "pisa, italy",
+        "correct_answer": "pisa",
+        "is_correct": true
+    },
+    {
+        "question": "In which Washington state city is the Microsoft Corporation headquarters located?",
+        "answer": "redmond",
+        "correct_answer": "redmond",
+        "is_correct": true
+    },
+    {
+        "question": "What city goes by the name of Sin City?",
+        "answer": "las vegas",
+        "correct_answer": "las vegas",
+        "is_correct": true
+    },
+    {
+        "question": "What Alaska islands did the Japanese occupy in World War II?",
+        "answer": "attu, kiska",
+        "correct_answer": "aleutian islands",
+        "is_correct": false
+    },
+    {
+        "question": "Where was the Liberty Bell cast?",
+        "answer": "whitechapel bell foundry",
+        "correct_answer": "england",
+        "is_correct": false
+    },
+    {
+        "question": "Who built the Berlin Wall?",
+        "answer": "east germany",
+        "correct_answer": "german democratic republic",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest city in Texas?",
+        "answer": "houston",
+        "correct_answer": "houston",
+        "is_correct": true
+    },
+    {
+        "question": "The University of Central Florida U.C.F. is situated in which US city?",
+        "answer": "orlando, florida",
+        "correct_answer": "orlando",
+        "is_correct": true
+    },
+    {
+        "question": "What city is nicknamed Sin City?",
+        "answer": "las vegas",
+        "correct_answer": "las vegas",
+        "is_correct": true
+    },
+    {
+        "question": "In what city was the first skyscraper built?",
+        "answer": "chicago",
+        "correct_answer": "chicago",
+        "is_correct": true
+    },
+    {
+        "question": "What is the population of Beijing?",
+        "answer": "21.5 million",
+        "correct_answer": "20035455",
+        "is_correct": false
+    },
+    {
+        "question": "Where might one find the Acropolis?",
+        "answer": "athens, greece",
+        "correct_answer": "athens",
+        "is_correct": true
+    },
+    {
+        "question": "Which city was once New Amsterdam?",
+        "answer": "new york",
+        "correct_answer": "new york city",
+        "is_correct": false
+    },
+    {
+        "question": "What is the Great Sphinx made of?",
+        "answer": "limestone and bedrock.",
+        "correct_answer": "limestone",
+        "is_correct": true
+    },
+    {
+        "question": "What is the oldest city in Hawaii?",
+        "answer": "lahaina",
+        "correct_answer": "hilo",
+        "is_correct": false
+    },
+    {
+        "question": "Do you have to pay to see Mount Rushmore?",
+        "answer": "yes, parking fee.",
+        "correct_answer": "false",
+        "is_correct": false
+    },
+    {
+        "question": "What is the most populated city in the world?",
+        "answer": "tokyo",
+        "correct_answer": "tokyo",
+        "is_correct": true
+    },
+    {
+        "question": "Where is the city of Buffalo?",
+        "answer": "new york",
+        "correct_answer": "western new york",
+        "is_correct": false
+    },
+    {
+        "question": "What year was the Statue of Liberty dedicated?",
+        "answer": "1886",
+        "correct_answer": "1886",
+        "is_correct": true
+    },
+    {
+        "question": "What city in the US is the driest?",
+        "answer": "las vegas",
+        "correct_answer": "las vegas",
+        "is_correct": true
+    },
+    {
+        "question": "What city has the nickname The Big Easy?",
+        "answer": "new orleans",
+        "correct_answer": "new orleans",
+        "is_correct": true
+    },
+    {
+        "question": "When was the Taj Mahal built?",
+        "answer": "1632-1653",
+        "correct_answer": "1632",
+        "is_correct": true
+    },
+    {
+        "question": "What state is the Carrizo Plain National Monument located in?",
+        "answer": "california",
+        "correct_answer": "california",
+        "is_correct": true
+    },
+    {
+        "question": "In what state is the monument to military working dogs?",
+        "answer": "texas",
+        "correct_answer": "texas",
+        "is_correct": true
+    },
+    {
+        "question": "Who built the Statue of Liberty?",
+        "answer": "gustave eiffel",
+        "correct_answer": "fr\u00e9d\u00e9ric auguste bartholdi",
+        "is_correct": false
+    },
+    {
+        "question": "What is the most populous city in Norway?",
+        "answer": "oslo",
+        "correct_answer": "oslo",
+        "is_correct": true
+    },
+    {
+        "question": "In what country is Sydney Opera House located?",
+        "answer": "australia",
+        "correct_answer": "australia",
+        "is_correct": true
+    },
+    {
+        "question": "What is depicted on top of the Victoria Memorial?",
+        "answer": "angel statue",
+        "correct_answer": "victoria",
+        "is_correct": false
+    },
+    {
+        "question": "What is the population of San Jos\u00e9, California?",
+        "answer": "1,021,786",
+        "correct_answer": "1021795",
+        "is_correct": false
+    },
+    {
+        "question": "What is the oldest monument in the USA?",
+        "answer": "plymouth rock",
+        "correct_answer": "fairbanks house",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest city in Turkey?",
+        "answer": "istanbul",
+        "correct_answer": "istanbul",
+        "is_correct": true
+    },
+    {
+        "question": "What city had a major fire in the 1800s?",
+        "answer": "chicago",
+        "correct_answer": "chicago",
+        "is_correct": true
+    },
+    {
+        "question": "How many people live in Miami?",
+        "answer": "2.7 million",
+        "correct_answer": "470914",
+        "is_correct": false
+    },
+    {
+        "question": "What helped form craters of the Moon National Monument?",
+        "answer": "meteorite impacts",
+        "correct_answer": "volcanic activity",
+        "is_correct": false
+    },
+    {
+        "question": "What is the largest city in the world by population?",
+        "answer": "tokyo",
+        "correct_answer": "tokyo",
+        "is_correct": true
+    },
+    {
+        "question": "What year was Boston settled?",
+        "answer": "1630",
+        "correct_answer": "1630",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is the capital of Florida?",
+        "answer": "tallahassee",
+        "correct_answer": "tallahassee",
+        "is_correct": true
+    },
+    {
+        "question": "Where is Moai Statues located?",
+        "answer": "easter island",
+        "correct_answer": "chile",
+        "is_correct": false
+    },
+    {
+        "question": "What's the population of San Francisco?",
+        "answer": "approximately 884,000",
+        "correct_answer": "896047",
+        "is_correct": false
+    },
+    {
+        "question": "Which city has the tallest building in the world?",
+        "answer": "dubai",
+        "correct_answer": "dubai",
+        "is_correct": true
+    },
+    {
+        "question": "How many columns are there in the Lincoln Memorial?",
+        "answer": "36",
+        "correct_answer": "36",
+        "is_correct": true
+    },
+    {
+        "question": "What is the coldest city in the world?",
+        "answer": "oymyakon",
+        "correct_answer": "yakutsk",
+        "is_correct": false
+    },
+    {
+        "question": "Which coast is Philadelphia on?",
+        "answer": "east coast",
+        "correct_answer": "east coast of the united states",
+        "is_correct": false
+    },
+    {
+        "question": "What year did the construction of the Leaning Tower of Pisa begin?",
+        "answer": "1173",
+        "correct_answer": "1173",
+        "is_correct": true
+    },
+    {
+        "question": "What is the capital city of Iraq?",
+        "answer": "baghdad",
+        "correct_answer": "baghdad",
+        "is_correct": true
+    },
+    {
+        "question": "When was the Lincoln Monument constructed?",
+        "answer": "1922",
+        "correct_answer": "1914",
+        "is_correct": false
+    },
+    {
+        "question": "Who designed the Little Rock Nine Memorial that is located on the grounds of the Arkansas State Capitol?",
+        "answer": "tina allen",
+        "correct_answer": "",
+        "is_correct": true
+    },
+    {
+        "question": "What is the population of New York?",
+        "answer": "8.4 million",
+        "correct_answer": "8800000",
+        "is_correct": false
+    },
+    {
+        "question": "Where is the Great Sphinx located?",
+        "answer": "giza, egypt",
+        "correct_answer": "giza",
+        "is_correct": true
+    },
+    {
+        "question": "Who designed the Vietnam Memorial?",
+        "answer": "maya lin",
+        "correct_answer": "maya lin",
+        "is_correct": true
+    },
+    {
+        "question": "How tall is the Statue of Unity?",
+        "answer": "182 meters",
+        "correct_answer": "597 feet",
+        "is_correct": false
+    },
+    {
+        "question": "What city is the capital of Alabama?",
+        "answer": "montgomery",
+        "correct_answer": "montgomery",
+        "is_correct": true
+    },
+    {
+        "question": "Where is the Statue of Liberty national monument located?",
+        "answer": "new york city",
+        "correct_answer": "new york city",
+        "is_correct": true
+    },
+    {
+        "question": "Albany is the capital of what state?",
+        "answer": "new york",
+        "correct_answer": "new york",
+        "is_correct": true
+    },
+    {
+        "question": "How tall is the Space Needle in Seattle?",
+        "answer": "605 feet",
+        "correct_answer": "605 feet",
+        "is_correct": true
+    },
+    {
+        "question": "Who designed the Lincoln Memorial's interior central statue titled Abraham Lincoln?",
+        "answer": "daniel chester french",
+        "correct_answer": "daniel chester french",
+        "is_correct": true
+    },
+    {
+        "question": "What city is named City of Good Neighbors?",
+        "answer": "buffalo",
+        "correct_answer": "buffalo",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city by population in Scotland?",
+        "answer": "glasgow",
+        "correct_answer": "glasgow",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is known as Beantown?",
+        "answer": "boston",
+        "correct_answer": "boston",
+        "is_correct": true
+    },
+    {
+        "question": "When was the Lincoln Memorial created?",
+        "answer": "1922",
+        "correct_answer": "8186",
+        "is_correct": false
+    },
+    {
+        "question": "Which city is called the Floating City?",
+        "answer": "venice",
+        "correct_answer": "venice",
+        "is_correct": true
+    },
+    {
+        "question": "What is the largest city in Canada?",
+        "answer": "toronto",
+        "correct_answer": "toronto",
+        "is_correct": true
+    },
+    {
+        "question": "What city is known as the City of Light?",
+        "answer": "paris",
+        "correct_answer": "paris",
+        "is_correct": true
+    },
+    {
+        "question": "Who was the first president to occupy the White House?",
+        "answer": "john adams",
+        "correct_answer": "john adams",
+        "is_correct": true
+    },
+    {
+        "question": "What city is the Pantheon located in?",
+        "answer": "rome",
+        "correct_answer": "rome",
+        "is_correct": true
+    },
+    {
+        "question": "Angkor Wat can be found in which country?",
+        "answer": "cambodia",
+        "correct_answer": "cambodia",
+        "is_correct": true
+    },
+    {
+        "question": "Which city is nicknamed the City of Light?",
+        "answer": "paris",
+        "correct_answer": "paris",
+        "is_correct": true
+    }
+]
